@@ -1,5 +1,18 @@
 {
-  "lists": [],
+  "highlights": [
+    {
+      "name": "Ediitor's Pick",
+      "artists": [
+        {
+          "name": "The Temptations",
+          "spotifyLink": "spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
+          "appleLink": "https://music.apple.com/us/artist/the-temptations/127358",
+          "genre": "soul",
+          "imageURL": "https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg"
+        }
+      ]
+    }
+  ],
   "categories": [
     {
       "name": "Essentials",
