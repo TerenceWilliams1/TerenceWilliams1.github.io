@@ -102,18 +102,18 @@
       "name": "Classic Soul",
       "artists": [
         {
-          "name": "Bobby Womack",
-          "spotifyLink": "spotify:artist:0vqkz1b2qBkoYrGMj2CUWq",
-          "appleLink": "https://music.apple.com/us/artist/bobby-womack/503682",
-          "genre": "soul",
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features4/v4/22/98/2e/22982e47-a237-c4df-e155-f1cf89f8302a/mzl.zpkhcxqn.jpg/380x380cc-60.jpg"
-        },
-        {
           "name": "James Brown",
           "spotifyLink": "spotify:artist:7GaxyUddsPok8BuhxN6OUW",
           "appleLink": "https://music.apple.com/us/artist/james-brown/117118",
           "genre": "soul",
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/51/f4/91/51f4910c-ed31-b02b-ecc6-01dc0d338e2b/pr_source.png/380x380cc-60.jpg"
+        },
+        {
+          "name": "Bobby Womack",
+          "spotifyLink": "spotify:artist:0vqkz1b2qBkoYrGMj2CUWq",
+          "appleLink": "https://music.apple.com/us/artist/bobby-womack/503682",
+          "genre": "soul",
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features4/v4/22/98/2e/22982e47-a237-c4df-e155-f1cf89f8302a/mzl.zpkhcxqn.jpg/380x380cc-60.jpg"
         },
         {
           "name": "Con Funk Shun",
