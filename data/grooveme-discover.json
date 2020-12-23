@@ -2,7 +2,7 @@
   "highlights": [
     {
       "name": "Editor's Choice \nDaesha's Weekly Pick",
-      "description": "Fantasia",
+      "description": "Fantasia Barrino",
       "spotifyLink": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo?si=U7LcyTiBQp-Smxw6Sit1_A",
       "appleLink": "https://music.apple.com/us/artist/the-temptations/127358",
       "imageURL": "https://celebrityinsider.org/wp-content/uploads/2019/11/Fantasia-Barrino-Basketball-New-Album.jpg"
@@ -26,6 +26,13 @@
     {
       "name": "Essentials",
       "artists": [
+        {
+          "name": "Earth, Wind, and Fire",
+          "spotifyLink": "spotify:artist:4QQgXkCYTt3BlENzhyNETg",
+          "appleLink": "https://music.apple.com/us/artist/earth-wind-fire/290699",
+          "genre": "soul",
+          "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features128/v4/64/2b/48/642b4840-bbe9-7779-3525-efe47e4af72d/mza_917709224484712798.png/380x380cc-60.jpg"
+        },
         {
           "name": "The Temptations",
           "spotifyLink": "spotify:artist:3RwQ26hR2tJtA8F9p2n7jG", 
@@ -81,13 +88,6 @@
           "appleLink": "https://music.apple.com/us/artist/luther-vandross/23393",
           "genre": "soul",
           "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features118/v4/26/1c/42/261c42e0-6c57-420d-8ca2-de064c578a2d/mza_3906175645150627350.png/380x380cc-60.jpg"
-        },
-        {
-          "name": "Earth, Wind, and Fire",
-          "spotifyLink": "spotify:artist:4QQgXkCYTt3BlENzhyNETg",
-          "appleLink": "https://music.apple.com/us/artist/earth-wind-fire/290699",
-          "genre": "soul",
-          "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features128/v4/64/2b/48/642b4840-bbe9-7779-3525-efe47e4af72d/mza_917709224484712798.png/380x380cc-60.jpg"
         },
         {
           "name": "Rick James",
