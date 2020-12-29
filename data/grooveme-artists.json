@@ -1,262 +1,262 @@
 [
-          {
-            "name": "The Temptations",
-            "spotifyLink": "spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
-            "appleLink": "https://music.apple.com/us/artist/the-temptations/127358",
-            "genre": "soul",
-            "imageURL": "https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg"
-        },
-        {
-            "name": "Al Green",
-            "spotifyLink": "spotify:artist:3dkbV4qihUeMsqN4vBGg93",
-            "appleLink": "https://music.apple.com/us/artist/al-green/99603",
-            "genre": "soul",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features/v4/10/18/74/10187477-3b12-d870-4bf0-c573bdbe9c79/mzl.bvgferwf.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "702",
-            "spotifyLink": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo",
-            "appleLink": "https://music.apple.com/us/artist/702/56022",
-            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features114/v4/5c/6f/55/5c6f555e-70b9-5e97-3f73-9ec96935a381/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Aaliyah",
-            "spotifyLink": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4",
-            "appleLink": "https://music.apple.com/us/artist/aaliyah/1636487",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features114/v4/3c/24/cc/3c24cc30-6144-a86d-560e-83ddc22062e5/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "After 7",
-            "spotifyLink": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E",
-            "appleLink": "https://music.apple.com/us/artist/after-7/31385038",
-            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Music7/v4/02/f1/fb/02f1fb94-bbdc-90ba-6443-e71ec31bedf7/00724384054755.jpg/600x600bb.webp"
-        },
-        {
-            "name": "Al B. Sure",
-            "spotifyLink": "https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk",
-            "appleLink": "https://music.apple.com/us/artist/al-b-sure/199279",
-            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/0a/6d/6a/0a6d6a88-5bf4-27ee-c727-f72f4f57a7b4/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Alicia Keys",
-            "spotifyLink": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa",
-            "appleLink": "https://music.apple.com/us/artist/alicia-keys/316069",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features114/v4/d7/d2/dd/d7d2ddd3-3f86-741e-0a1f-c76cc9d92471/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Angie stone",
-            "spotifyLink": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM",
-            "appleLink": "https://music.apple.com/us/artist/angie-stone/401423",
-            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features114/v4/3d/05/99/3d0599b1-74fa-49ff-1ce2-9131cd41b99b/mzl.rymkkmgu.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Al Green",
-            "spotifyLink": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93",
-            "appleLink": "https://music.apple.com/us/artist/al-green/99603",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/57/2b/4c/572b4c68-6bfb-3957-5c4b-de7c6c78036c/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Anita Baker",
-            "spotifyLink": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG",
-            "appleLink": "https://music.apple.com/us/artist/anita-baker/162340",
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/53/37/d7/5337d75c-0c7a-ef93-0b69-ec0ff36b2edb/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Anthony Hamilton",
-            "spotifyLink": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo",
-            "appleLink": "https://music.apple.com/us/artist/anthony-hamilton/2089624",
-            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/2c/ec/69/2cec6998-f2ab-fe0a-c6dc-7cf56141af36/mzl.eavsiuqq.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Ashanti",
-            "spotifyLink": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83",
-            "appleLink": "https://music.apple.com/us/artist/ashanti/416248",
-            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/65/47/63/654763e7-894f-7a23-b327-0906a28b9a6a/mzl.deuexxfv.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Avant",
-            "spotifyLink": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A",
-            "appleLink": "https://music.apple.com/us/artist/avant/64969",
-            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/d3/bf/94/d3bf94b3-5033-d972-0bad-dbdc3ab7191a/mzl.zvnochaf.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Avery Sunshine",
-            "spotifyLink": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf",
-            "appleLink": "https://music.apple.com/us/artist/avery-sunshine/356306430",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features122/v4/94/01/2d/94012d15-d24c-1f56-8bb8-a478da59f78c/mzl.xngmpygm.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Average White Band",
-            "spotifyLink": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb",
-            "appleLink": "https://music.apple.com/us/artist/average-white-band/577297",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/6f/12/a0/6f12a0ce-73b7-2c46-436f-4ca15faeb842/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Babyface",
-            "spotifyLink": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3",
-            "appleLink": "https://music.apple.com/us/artist/babyface/12113",
-            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/eb/05/02/eb050283-49b4-d341-0221-148c804b0154/mzl.qqakmobw.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Barry White",
-            "spotifyLink": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt",
-            "appleLink": "https://music.apple.com/us/artist/barry-white/129233",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/bb/8e/70/bb8e70de-642c-fbfa-ceb5-9cc798bc0e1c/mzl.tavbsmos.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Bell Biv Devoe",
-            "spotifyLink": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL",
-            "appleLink": "https://music.apple.com/us/artist/bell-biv-devoe/64169",
-            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/46/07/72/4607729f-faed-53d9-3583-9bcc81ea6dd1/mzl.pfylgtgb.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Bill Withers",
-            "spotifyLink": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj",
-            "appleLink": "https://music.apple.com/us/artist/bill-withers/339834",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features114/v4/1c/32/77/1c327719-e6c2-253f-6f23-7e796b01ccd6/mza_13173907342355571012.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Billy Paul",
-            "spotifyLink": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE",
-            "appleLink": "https://music.apple.com/us/artist/billy-paul/461093",
-            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features114/v4/7c/44/4e/7c444ecd-ba9d-65e4-7eb4-29556e0ce6cf/mzl.jnrdixbq.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Blackstreet",
-            "spotifyLink": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA",
-            "appleLink": "https://music.apple.com/us/artist/blackstreet/290652",
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/94/60/73/946073ba-ea02-f33e-b291-747e05b3a7f4/mzl.lsjzxgph.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Bobby Brown",
-            "spotifyLink": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE",
-            "appleLink": "https://music.apple.com/us/artist/bobby-brown/33876",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/be/6b/e9/be6be99c-3014-d6ed-0de2-93281296f943/mzl.ccvkoeya.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Bobby Caldwell",
-            "spotifyLink": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6",
-            "appleLink": "https://music.apple.com/us/artist/bobby-caldwell/1009920",
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/22/17/95/2217957e-3518-d253-6de3-c6ac5d7094f6/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Bobby Womack",
-            "spotifyLink": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq",
-            "appleLink": "https://music.apple.com/us/artist/bobby-womack/503682",
-            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/09/c4/28/09c4289f-8a64-22b8-e0ab-4e004dc5d699/mzl.zpkhcxqn.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Bootsy Collins",
-            "spotifyLink": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT",
-            "appleLink": "https://music.apple.com/us/artist/bootsy-collins/712040",
-            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/c1/01/ea/c101ea61-fa05-14cb-55c3-ffe4449dccf9/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Brick",
-            "spotifyLink": "https://open.spotify.com/artist/4Uv0Jg45Oq7vBXXwQNhXyf",
-            "appleLink": "https://music.apple.com/us/artist/brick/854783",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/d5/89/52/d589527f-018d-6cdd-a327-70fe5c15f4b3/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "The Brothers Johnson",
-            "spotifyLink": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD",
-            "appleLink": "https://music.apple.com/us/artist/the-brothers-johnson/42348",
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/f3/4b/01/f34b015c-890d-3549-f4dc-8d90d20f32ba/mzl.lfuubait.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Boyz II Men",
-            "spotifyLink": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp",
-            "appleLink": "https://music.apple.com/us/artist/boyz-ii-men/256514",
-            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/15/f9/9b/15f99b7f-672e-57e5-516d-843608ecc564/mzl.wbnmnnsn.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Brandy",
-            "spotifyLink": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee",
-            "appleLink": "https://music.apple.com/us/artist/brandy/17416",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/02/2b/17/022b1702-0f40-ee92-b8bd-bf62c530aa39/mzl.kcitonrn.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Brian McKnight",
-            "spotifyLink": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9",
-            "appleLink": "https://music.apple.com/us/artist/brian-mcknight/87447",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/bd/d0/8d/bdd08de4-a896-bc6e-1e93-868fcc7960e6/mzl.ybthqduo.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Brownstone",
-            "spotifyLink": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr",
-            "appleLink": "https://music.apple.com/us/artist/brownstone/265936",
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/1c/e3/9f/1ce39f5e-7e79-8a40-d8cb-e30894e405cc/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Cameo",
-            "spotifyLink": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2",
-            "appleLink": "https://music.apple.com/us/artist/cameo/81160",
-            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/02/17/fe/0217fe66-5098-b8d9-c458-1fe3c9e22712/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Calvin Richardson",
-            "spotifyLink": "https://open.spotify.com/artist/5lckATQU3N7Ralsw3VfnRb",
-            "appleLink": "https://music.apple.com/us/artist/calvin-richardson/100325",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features128/v4/74/8f/3b/748f3bce-4b72-e72d-478d-04911eab4482/mzl.hhuqdgbu.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Carl Thomas",
-            "spotifyLink": "https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U",
-            "appleLink": "https://music.apple.com/us/artist/carl-thomas/5344648",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/51/be/b4/51beb49b-41e4-74b4-5e96-89aa3a2d9958/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Case",
-            "spotifyLink": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy",
-            "appleLink": "https://music.apple.com/us/artist/case/383127",
-            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/6e/18/b7/6e18b750-d732-3ed5-5fd2-993b230e9c59/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Chaka Khan",
-            "spotifyLink": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT",
-            "appleLink": "https://music.apple.com/us/artist/chaka-khan/17402",
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/dd/53/35/dd53355b-2651-b930-1dc0-57b8e06c6669/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Charlie Wilson",
-            "spotifyLink": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w",
-            "appleLink": "https://music.apple.com/us/artist/charlie-wilson/288968",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/9b/ab/6b/9bab6ba7-7f05-8fb7-0c4d-04a1a29a51ba/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Cheryl Lynn",
-            "spotifyLink": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ",
-            "appleLink": "https://music.apple.com/us/artist/cheryl-lynn/914470",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/d1/14/f2/d114f215-8be2-8fc3-7c85-08f252a3bab8/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "The Chi-Lites",
-            "spotifyLink": "https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued",
-            "appleLink": "https://music.apple.com/us/artist/the-chi-lites/79637849",
-            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/bc/bd/70/bcbd70a9-491b-b6c7-7340-a2c2a78af3ea/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Commodores",
-            "spotifyLink": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm",
-            "appleLink": "https://music.apple.com/us/artist/the-commodores/127282",
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/e8/47/33/e8473302-7270-cfdd-44ec-53089ccc90c4/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Common",
-            "spotifyLink": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc",
-            "appleLink": "https://music.apple.com/us/artist/common/64490",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/ac/26/a9/ac26a95f-c61d-f915-91ae-f69d393bbe1d/mzl.rkvatdiv.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Con Funk Shun",
-            "spotifyLink": "https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz",
-            "appleLink": "https://music.apple.com/us/artist/con-funk-shun/140233",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/cc/e2/e0/cce2e0ac-0284-5da8-8fba-b8e108559399/00731452032126.rgb.jpg/600x600bb.webp"
-        },
-        {
-            "name": "Curtis Mayfield",
-            "spotifyLink": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm",
-            "appleLink": "https://music.apple.com/us/artist/curtis-mayfield/169711",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/07/c7/b4/07c7b4b2-5446-442e-cebd-0da17e460083/mzl.ippbmumx.jpg/380x380cc-60.jpg"
-        }
+   {
+      "name":"The Temptations",
+      "spotifyLink":"spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
+      "appleLink":"https://music.apple.com/us/artist/the-temptations/127358",
+      "genre":"soul",
+      "imageURL":"https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg"
+   },
+   {
+      "name":"Al Green",
+      "spotifyLink":"spotify:artist:3dkbV4qihUeMsqN4vBGg93",
+      "appleLink":"https://music.apple.com/us/artist/al-green/99603",
+      "genre":"soul",
+      "imageURL":"https://is4-ssl.mzstatic.com/image/thumb/Features/v4/10/18/74/10187477-3b12-d870-4bf0-c573bdbe9c79/mzl.bvgferwf.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"702",
+      "spotifyLink":"https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo",
+      "appleLink":"https://music.apple.com/us/artist/702/56022",
+      "imageURL":"https://is3-ssl.mzstatic.com/image/thumb/Features114/v4/5c/6f/55/5c6f555e-70b9-5e97-3f73-9ec96935a381/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Aaliyah",
+      "spotifyLink":"https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4",
+      "appleLink":"https://music.apple.com/us/artist/aaliyah/1636487",
+      "imageURL":"https://is2-ssl.mzstatic.com/image/thumb/Features114/v4/3c/24/cc/3c24cc30-6144-a86d-560e-83ddc22062e5/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"After 7",
+      "spotifyLink":"https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E",
+      "appleLink":"https://music.apple.com/us/artist/after-7/31385038",
+      "imageURL":"https://is5-ssl.mzstatic.com/image/thumb/Music7/v4/02/f1/fb/02f1fb94-bbdc-90ba-6443-e71ec31bedf7/00724384054755.jpg/600x600bb.webp"
+   },
+   {
+      "name":"Al B. Sure",
+      "spotifyLink":"https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk",
+      "appleLink":"https://music.apple.com/us/artist/al-b-sure/199279",
+      "imageURL":"https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/0a/6d/6a/0a6d6a88-5bf4-27ee-c727-f72f4f57a7b4/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Alicia Keys",
+      "spotifyLink":"https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa",
+      "appleLink":"https://music.apple.com/us/artist/alicia-keys/316069",
+      "imageURL":"https://is4-ssl.mzstatic.com/image/thumb/Features114/v4/d7/d2/dd/d7d2ddd3-3f86-741e-0a1f-c76cc9d92471/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Angie stone",
+      "spotifyLink":"https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM",
+      "appleLink":"https://music.apple.com/us/artist/angie-stone/401423",
+      "imageURL":"https://is3-ssl.mzstatic.com/image/thumb/Features114/v4/3d/05/99/3d0599b1-74fa-49ff-1ce2-9131cd41b99b/mzl.rymkkmgu.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"Al Green",
+      "spotifyLink":"https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93",
+      "appleLink":"https://music.apple.com/us/artist/al-green/99603",
+      "imageURL":"https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/57/2b/4c/572b4c68-6bfb-3957-5c4b-de7c6c78036c/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Anita Baker",
+      "spotifyLink":"https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG",
+      "appleLink":"https://music.apple.com/us/artist/anita-baker/162340",
+      "imageURL":"https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/53/37/d7/5337d75c-0c7a-ef93-0b69-ec0ff36b2edb/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Anthony Hamilton",
+      "spotifyLink":"https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo",
+      "appleLink":"https://music.apple.com/us/artist/anthony-hamilton/2089624",
+      "imageURL":"https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/2c/ec/69/2cec6998-f2ab-fe0a-c6dc-7cf56141af36/mzl.eavsiuqq.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"Ashanti",
+      "spotifyLink":"https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83",
+      "appleLink":"https://music.apple.com/us/artist/ashanti/416248",
+      "imageURL":"https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/65/47/63/654763e7-894f-7a23-b327-0906a28b9a6a/mzl.deuexxfv.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"Avant",
+      "spotifyLink":"https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A",
+      "appleLink":"https://music.apple.com/us/artist/avant/64969",
+      "imageURL":"https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/d3/bf/94/d3bf94b3-5033-d972-0bad-dbdc3ab7191a/mzl.zvnochaf.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"Avery Sunshine",
+      "spotifyLink":"https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf",
+      "appleLink":"https://music.apple.com/us/artist/avery-sunshine/356306430",
+      "imageURL":"https://is2-ssl.mzstatic.com/image/thumb/Features122/v4/94/01/2d/94012d15-d24c-1f56-8bb8-a478da59f78c/mzl.xngmpygm.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"Average White Band",
+      "spotifyLink":"https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb",
+      "appleLink":"https://music.apple.com/us/artist/average-white-band/577297",
+      "imageURL":"https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/6f/12/a0/6f12a0ce-73b7-2c46-436f-4ca15faeb842/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Babyface",
+      "spotifyLink":"https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3",
+      "appleLink":"https://music.apple.com/us/artist/babyface/12113",
+      "imageURL":"https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/eb/05/02/eb050283-49b4-d341-0221-148c804b0154/mzl.qqakmobw.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"Barry White",
+      "spotifyLink":"https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt",
+      "appleLink":"https://music.apple.com/us/artist/barry-white/129233",
+      "imageURL":"https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/bb/8e/70/bb8e70de-642c-fbfa-ceb5-9cc798bc0e1c/mzl.tavbsmos.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Bell Biv Devoe",
+      "spotifyLink":"https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL",
+      "appleLink":"https://music.apple.com/us/artist/bell-biv-devoe/64169",
+      "imageURL":"https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/46/07/72/4607729f-faed-53d9-3583-9bcc81ea6dd1/mzl.pfylgtgb.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"Bill Withers",
+      "spotifyLink":"https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj",
+      "appleLink":"https://music.apple.com/us/artist/bill-withers/339834",
+      "imageURL":"https://is2-ssl.mzstatic.com/image/thumb/Features114/v4/1c/32/77/1c327719-e6c2-253f-6f23-7e796b01ccd6/mza_13173907342355571012.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Billy Paul",
+      "spotifyLink":"https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE",
+      "appleLink":"https://music.apple.com/us/artist/billy-paul/461093",
+      "imageURL":"https://is3-ssl.mzstatic.com/image/thumb/Features114/v4/7c/44/4e/7c444ecd-ba9d-65e4-7eb4-29556e0ce6cf/mzl.jnrdixbq.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"Blackstreet",
+      "spotifyLink":"https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA",
+      "appleLink":"https://music.apple.com/us/artist/blackstreet/290652",
+      "imageURL":"https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/94/60/73/946073ba-ea02-f33e-b291-747e05b3a7f4/mzl.lsjzxgph.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"Bobby Brown",
+      "spotifyLink":"https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE",
+      "appleLink":"https://music.apple.com/us/artist/bobby-brown/33876",
+      "imageURL":"https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/be/6b/e9/be6be99c-3014-d6ed-0de2-93281296f943/mzl.ccvkoeya.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"Bobby Caldwell",
+      "spotifyLink":"https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6",
+      "appleLink":"https://music.apple.com/us/artist/bobby-caldwell/1009920",
+      "imageURL":"https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/22/17/95/2217957e-3518-d253-6de3-c6ac5d7094f6/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Bobby Womack",
+      "spotifyLink":"https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq",
+      "appleLink":"https://music.apple.com/us/artist/bobby-womack/503682",
+      "imageURL":"https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/09/c4/28/09c4289f-8a64-22b8-e0ab-4e004dc5d699/mzl.zpkhcxqn.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"Bootsy Collins",
+      "spotifyLink":"https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT",
+      "appleLink":"https://music.apple.com/us/artist/bootsy-collins/712040",
+      "imageURL":"https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/c1/01/ea/c101ea61-fa05-14cb-55c3-ffe4449dccf9/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Brick",
+      "spotifyLink":"https://open.spotify.com/artist/4Uv0Jg45Oq7vBXXwQNhXyf",
+      "appleLink":"https://music.apple.com/us/artist/brick/854783",
+      "imageURL":"https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/d5/89/52/d589527f-018d-6cdd-a327-70fe5c15f4b3/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"The Brothers Johnson",
+      "spotifyLink":"https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD",
+      "appleLink":"https://music.apple.com/us/artist/the-brothers-johnson/42348",
+      "imageURL":"https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/f3/4b/01/f34b015c-890d-3549-f4dc-8d90d20f32ba/mzl.lfuubait.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"Boyz II Men",
+      "spotifyLink":"https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp",
+      "appleLink":"https://music.apple.com/us/artist/boyz-ii-men/256514",
+      "imageURL":"https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/15/f9/9b/15f99b7f-672e-57e5-516d-843608ecc564/mzl.wbnmnnsn.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"Brandy",
+      "spotifyLink":"https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee",
+      "appleLink":"https://music.apple.com/us/artist/brandy/17416",
+      "imageURL":"https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/02/2b/17/022b1702-0f40-ee92-b8bd-bf62c530aa39/mzl.kcitonrn.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"Brian McKnight",
+      "spotifyLink":"https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9",
+      "appleLink":"https://music.apple.com/us/artist/brian-mcknight/87447",
+      "imageURL":"https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/bd/d0/8d/bdd08de4-a896-bc6e-1e93-868fcc7960e6/mzl.ybthqduo.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"Brownstone",
+      "spotifyLink":"https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr",
+      "appleLink":"https://music.apple.com/us/artist/brownstone/265936",
+      "imageURL":"https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/1c/e3/9f/1ce39f5e-7e79-8a40-d8cb-e30894e405cc/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Cameo",
+      "spotifyLink":"https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2",
+      "appleLink":"https://music.apple.com/us/artist/cameo/81160",
+      "imageURL":"https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/02/17/fe/0217fe66-5098-b8d9-c458-1fe3c9e22712/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Calvin Richardson",
+      "spotifyLink":"https://open.spotify.com/artist/5lckATQU3N7Ralsw3VfnRb",
+      "appleLink":"https://music.apple.com/us/artist/calvin-richardson/100325",
+      "imageURL":"https://is2-ssl.mzstatic.com/image/thumb/Features128/v4/74/8f/3b/748f3bce-4b72-e72d-478d-04911eab4482/mzl.hhuqdgbu.jpg/380x380cc-60.jpg"
+   },
+   {
+      "name":"Carl Thomas",
+      "spotifyLink":"https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U",
+      "appleLink":"https://music.apple.com/us/artist/carl-thomas/5344648",
+      "imageURL":"https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/51/be/b4/51beb49b-41e4-74b4-5e96-89aa3a2d9958/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Case",
+      "spotifyLink":"https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy",
+      "appleLink":"https://music.apple.com/us/artist/case/383127",
+      "imageURL":"https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/6e/18/b7/6e18b750-d732-3ed5-5fd2-993b230e9c59/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Chaka Khan",
+      "spotifyLink":"https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT",
+      "appleLink":"https://music.apple.com/us/artist/chaka-khan/17402",
+      "imageURL":"https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/dd/53/35/dd53355b-2651-b930-1dc0-57b8e06c6669/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Charlie Wilson",
+      "spotifyLink":"https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w",
+      "appleLink":"https://music.apple.com/us/artist/charlie-wilson/288968",
+      "imageURL":"https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/9b/ab/6b/9bab6ba7-7f05-8fb7-0c4d-04a1a29a51ba/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Cheryl Lynn",
+      "spotifyLink":"https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ",
+      "appleLink":"https://music.apple.com/us/artist/cheryl-lynn/914470",
+      "imageURL":"https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/d1/14/f2/d114f215-8be2-8fc3-7c85-08f252a3bab8/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"The Chi-Lites",
+      "spotifyLink":"https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued",
+      "appleLink":"https://music.apple.com/us/artist/the-chi-lites/79637849",
+      "imageURL":"https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/bc/bd/70/bcbd70a9-491b-b6c7-7340-a2c2a78af3ea/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Commodores",
+      "spotifyLink":"https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm",
+      "appleLink":"https://music.apple.com/us/artist/the-commodores/127282",
+      "imageURL":"https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/e8/47/33/e8473302-7270-cfdd-44ec-53089ccc90c4/pr_source.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Common",
+      "spotifyLink":"https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc",
+      "appleLink":"https://music.apple.com/us/artist/common/64490",
+      "imageURL":"https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/ac/26/a9/ac26a95f-c61d-f915-91ae-f69d393bbe1d/mzl.rkvatdiv.png/380x380cc-60.jpg"
+   },
+   {
+      "name":"Con Funk Shun",
+      "spotifyLink":"https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz",
+      "appleLink":"https://music.apple.com/us/artist/con-funk-shun/140233",
+      "imageURL":"https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/cc/e2/e0/cce2e0ac-0284-5da8-8fba-b8e108559399/00731452032126.rgb.jpg/600x600bb.webp"
+   },
+   {
+      "name":"Curtis Mayfield",
+      "spotifyLink":"https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm",
+      "appleLink":"https://music.apple.com/us/artist/curtis-mayfield/169711",
+      "imageURL":"https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/07/c7/b4/07c7b4b2-5446-442e-cebd-0da17e460083/mzl.ippbmumx.jpg/380x380cc-60.jpg"
+   }
 ]
