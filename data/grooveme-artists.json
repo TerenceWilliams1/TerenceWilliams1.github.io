@@ -97,7 +97,7 @@
       "imageURL":"https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/bb/8e/70/bb8e70de-642c-fbfa-ceb5-9cc798bc0e1c/mzl.tavbsmos.png/380x380cc-60.jpg"
    },
    {
-      "name":"Bell Biv Devoe",
+      "name":"Bell Biv DeVoe",
       "spotifyLink":"https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL",
       "appleLink":"https://music.apple.com/us/artist/bell-biv-devoe/64169",
       "imageURL":"https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/46/07/72/4607729f-faed-53d9-3583-9bcc81ea6dd1/mzl.pfylgtgb.jpg/380x380cc-60.jpg"
@@ -130,7 +130,7 @@
       "name":"Bobby Caldwell",
       "spotifyLink":"https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6",
       "appleLink":"https://music.apple.com/us/artist/bobby-caldwell/1009920",
-      "imageURL":"https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/22/17/95/2217957e-3518-d253-6de3-c6ac5d7094f6/pr_source.png/380x380cc-60.jpg"
+      "imageURL":"https://images.sk-static.com/images/media/img/col4/20100309-161846-299483.jpg"
    },
    {
       "name":"Bobby Womack",
@@ -718,7 +718,7 @@
       "name":"Ray Charles",
       "spotifyLink":"https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi",
       "appleLink":"https://music.apple.com/us/artist/ray-charles/160926",
-      "imageURL":"https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/de/a7/0a/dea70a03-c5f6-9dd4-faa9-4ab51610fd57/mzl.nrobskfq.jpg/380x380cc-60.jpg"
+      "imageURL":"https://travsd.files.wordpress.com/2020/09/sunset-jam-blues-tribute-to-ray-charles-lg.jpg"
    },
    {
       "name":"Rene & Angela",
@@ -905,13 +905,6 @@
       "spotifyLink":"https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3",
       "appleLink":"https://music.apple.com/us/artist/the-stylistics/1385237217",
       "imageURL":"https://m.media-amazon.com/images/I/41ZYfTR0p8L._SL1000_.jpg"
-   },
-   {
-      "name":"The Temptations",
-      "spotifyLink":"spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
-      "appleLink":"https://music.apple.com/us/artist/the-temptations/127358",
-      "genre":"soul",
-      "imageURL":"https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg"
    },
    {
       "name":"The Temptations",
