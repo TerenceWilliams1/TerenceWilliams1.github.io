@@ -1,202 +1,202 @@
 {
-  "lists": [
-    {
-      "name": "Black Film Soundtracks",
-      "subtitle": "The jams behind our favorites movies",
-      "playlists": [
-   {
-      "name":"Set It Off",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/playlist/4OVpFpjmCEic224L5AovCb",
-      "imageURL":"https://images-na.ssl-images-amazon.com/images/I/41XPK460QCL._SY300_SX300_QL70_ML2_.jpg",
-      "tag":"1"
-   },
-   {
-      "name":"The Best Man",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/playlist/15AY6Y7P0uzzM5NSUai7hR",
-      "imageURL":"https://images-na.ssl-images-amazon.com/images/I/816sNoKnjgL._SL1500_.jpg",
-      "tag":"1"
-   },
-   {
-      "name":"Menace To Society",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/playlist/2xHD2JIZ4YPTPbkw794sQ8",
-      "imageURL":"https://images-na.ssl-images-amazon.com/images/I/51fLt4ua6TL.jpg",
-      "tag":"1"
-   },
-   {
-      "name":"Soul Food",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/playlist/59OVtSvHd1VkHAEJsEX2B6",
-      "imageURL":"https://images-na.ssl-images-amazon.com/images/I/71aD2NV1tfL._SL1500_.jpg",
-      "tag":"1"
-   },
-   {
-      "name":"Love Jones",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/playlist/0O12aFlHf1hTI8yOdnBJCI",
-      "imageURL":"https://upload.wikimedia.org/wikipedia/en/4/43/LoveJonesSoundtrack.jpg",
-      "tag":"1"
-   },
-   {
-      "name":"Waiting to Exhale",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/playlist/2968l9oZ02IueJFn4dCihY",
-      "imageURL":"https://upload.wikimedia.org/wikipedia/en/7/75/VA-Waiting_to_Exhale_%28album_cover%29.jpg",
-      "tag":"1"
-   },
-   {
-      "name":"The Five Heartbeats",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/playlist/6edb0wU81dpIALQQuVW6Qt",
-      "imageURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZllTqcWzafLdA-I7msbxQKzerFh2slIs6yQ&usqp=CAU",
-      "tag":"1"
-   },
-   {
-      "name":"Love & Basketball",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/playlist/2gfsXpzxMlD8b2tIdBY4Nj",
-      "imageURL":"https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Love_and_Basketball_OST.jpg/220px-Love_and_Basketball_OST.jpg",
-      "tag":"1"
-   },
-   {
-      "name":"Poetic Justice",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/playlist/5PhIfqwzfPM4C1tipK0pqD",
-      "imageURL":"https://upload.wikimedia.org/wikipedia/en/9/9f/Poeticjusticealbumcover.jpg",
-      "tag":"1"
-   },
-   {
-      "name":"House Party",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/playlist/46kxF1GPvogVxrzSxRiRyQ",
-      "imageURL":"https://img.discogs.com/yWm7VhIfJCWP4mgYGmSDDQUEbFE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2866038-1499182410-8301.jpeg.jpg",
-      "tag":"1"
-   },
-   {
-      "name":"Brown Sugar",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/playlist/5ASoSbTz6DavS2nMlJMQWK",
-      "imageURL":"https://i.scdn.co/image/ab67616d0000b273c483824546c9e5901654d625",
-      "tag":"1"
-   }
-]
-    },
-    {
-      "name": "R&B Albums From 2000",
-      "subtitle": "Top albums of the year",
-      "playlists": [
-   {
-      "name":"Who Is Jill Scott?",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG",
-      "imageURL":"https://upload.wikimedia.org/wikipedia/en/9/94/Who_Is_Jill_Scott_album_cover.jpg",
-      "tag":"0"
-   },
-   {
-      "name":"Emotional - Carl Thomas",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/album/5fjNNSyiwXoOQMCW4dLjJ2",
-      "imageURL":"https://upload.wikimedia.org/wikipedia/en/9/99/CarlThomasEmotional.jpg",
-      "tag":"0"
-   },
-   {
-      "name":"Mama's Gun",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH",
-      "imageURL":"https://upload.wikimedia.org/wikipedia/en/4/4c/Erykah_Badu_-_Mama%27s_Gun.jpg",
-      "tag":"0"
-   },
-   {
-      "name":"The Heat - Toni Braxton",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi",
-      "imageURL":"https://upload.wikimedia.org/wikipedia/en/9/9b/Toni_Braxton_-_The_Heat.png",
-      "tag":"0"
-   },
-   {
-      "name":"Aijuswanaseing",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c",
-      "imageURL":"https://upload.wikimedia.org/wikipedia/en/d/d4/Aijuswanaseing.jpg",
-      "tag":"0"
-   },
-   {
-      "name":"J.E. Heartbreak",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3",
-      "imageURL":"https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Jagged_Edge_-_J.E._Heartbreak_%282000%29.jpg/220px-Jagged_Edge_-_J.E._Heartbreak_%282000%29.jpg",
-      "tag":"0"
-   },
-   {
-      "name":"My Name is Joe",
-      "description":"-",
-      "spotifyLink":"https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U",
-      "imageURL":"https://upload.wikimedia.org/wikipedia/en/0/03/Joe_-_My_Name_Is_Joe_album_cover.jpg",
-      "tag":"0"
-   }
-]
-    },
-    {
-      "name": "All About 90s",
-      "subtitle": "The best songs of the decade",
-      "playlists": [
-        {
-          "name": "Playlist 2",
-          "description": "Details here",
-          "spotifyLink": "spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
-          "imageURL": "https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg",
-          "tag": ""
-        },
-        {
-          "name": "Playlist 2",
-          "description": "Details here",
-          "spotifyLink": "spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
-          "imageURL": "https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg",
-          "tag": ""
-        }
-      ]
-    },
-    {
-      "name": "Throwback Thursday",
-      "subtitle": "The best songs of the decade",
-      "playlists": [
-        {
-          "name": "Playlist 2",
-          "description": "Details here",
-          "spotifyLink": "spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
-          "imageURL": "https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg",
-          "tag": ""
-        },
-        {
-          "name": "Playlist 2",
-          "description": "Details here",
-          "spotifyLink": "spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
-          "imageURL": "https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg",
-          "tag": ""
-        }
-      ]
-    },
-    {
-      "name": "Revisiting Your CD Player",
-      "subtitle": "The best songs of the decade",
-      "playlists": [
-        {
-          "name": "Playlist 2",
-          "description": "Details here",
-          "spotifyLink": "spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
-          "imageURL": "https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg",
-          "tag": ""
-        },
-        {
-          "name": "Playlist 2",
-          "description": "Details here",
-          "spotifyLink": "spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
-          "imageURL": "https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg",
-          "tag": ""
-        }
-      ]
-    }
-  ]
+   "lists":[
+      {
+         "name":"Black Film Soundtracks",
+         "subtitle":"The jams behind our favorites movies",
+         "playlists":[
+            {
+               "name":"Set It Off",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/playlist/4OVpFpjmCEic224L5AovCb",
+               "imageURL":"https://images-na.ssl-images-amazon.com/images/I/41XPK460QCL._SY300_SX300_QL70_ML2_.jpg",
+               "tag":"1"
+            },
+            {
+               "name":"The Best Man",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/playlist/15AY6Y7P0uzzM5NSUai7hR",
+               "imageURL":"https://images-na.ssl-images-amazon.com/images/I/816sNoKnjgL._SL1500_.jpg",
+               "tag":"1"
+            },
+            {
+               "name":"Menace To Society",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/playlist/2xHD2JIZ4YPTPbkw794sQ8",
+               "imageURL":"https://images-na.ssl-images-amazon.com/images/I/51fLt4ua6TL.jpg",
+               "tag":"1"
+            },
+            {
+               "name":"Soul Food",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/playlist/59OVtSvHd1VkHAEJsEX2B6",
+               "imageURL":"https://images-na.ssl-images-amazon.com/images/I/71aD2NV1tfL._SL1500_.jpg",
+               "tag":"1"
+            },
+            {
+               "name":"Love Jones",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/playlist/0O12aFlHf1hTI8yOdnBJCI",
+               "imageURL":"https://upload.wikimedia.org/wikipedia/en/4/43/LoveJonesSoundtrack.jpg",
+               "tag":"1"
+            },
+            {
+               "name":"Waiting to Exhale",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/playlist/2968l9oZ02IueJFn4dCihY",
+               "imageURL":"https://upload.wikimedia.org/wikipedia/en/7/75/VA-Waiting_to_Exhale_%28album_cover%29.jpg",
+               "tag":"1"
+            },
+            {
+               "name":"The Five Heartbeats",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/playlist/6edb0wU81dpIALQQuVW6Qt",
+               "imageURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZllTqcWzafLdA-I7msbxQKzerFh2slIs6yQ&usqp=CAU",
+               "tag":"1"
+            },
+            {
+               "name":"Love & Basketball",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/playlist/2gfsXpzxMlD8b2tIdBY4Nj",
+               "imageURL":"https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Love_and_Basketball_OST.jpg/220px-Love_and_Basketball_OST.jpg",
+               "tag":"1"
+            },
+            {
+               "name":"Poetic Justice",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/playlist/5PhIfqwzfPM4C1tipK0pqD",
+               "imageURL":"https://upload.wikimedia.org/wikipedia/en/9/9f/Poeticjusticealbumcover.jpg",
+               "tag":"1"
+            },
+            {
+               "name":"House Party",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/playlist/46kxF1GPvogVxrzSxRiRyQ",
+               "imageURL":"https://img.discogs.com/yWm7VhIfJCWP4mgYGmSDDQUEbFE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2866038-1499182410-8301.jpeg.jpg",
+               "tag":"1"
+            },
+            {
+               "name":"Brown Sugar",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/playlist/5ASoSbTz6DavS2nMlJMQWK",
+               "imageURL":"https://i.scdn.co/image/ab67616d0000b273c483824546c9e5901654d625",
+               "tag":"1"
+            }
+         ]
+      },
+      {
+         "name":"R&B Albums From 2000",
+         "subtitle":"Top albums of the year",
+         "playlists":[
+            {
+               "name":"Who Is Jill Scott?",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG",
+               "imageURL":"https://upload.wikimedia.org/wikipedia/en/9/94/Who_Is_Jill_Scott_album_cover.jpg",
+               "tag":"0"
+            },
+            {
+               "name":"Emotional - Carl Thomas",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/album/5fjNNSyiwXoOQMCW4dLjJ2",
+               "imageURL":"https://upload.wikimedia.org/wikipedia/en/9/99/CarlThomasEmotional.jpg",
+               "tag":"0"
+            },
+            {
+               "name":"Mama's Gun",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH",
+               "imageURL":"https://upload.wikimedia.org/wikipedia/en/4/4c/Erykah_Badu_-_Mama%27s_Gun.jpg",
+               "tag":"0"
+            },
+            {
+               "name":"The Heat - Toni Braxton",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi",
+               "imageURL":"https://upload.wikimedia.org/wikipedia/en/9/9b/Toni_Braxton_-_The_Heat.png",
+               "tag":"0"
+            },
+            {
+               "name":"Aijuswanaseing",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c",
+               "imageURL":"https://upload.wikimedia.org/wikipedia/en/d/d4/Aijuswanaseing.jpg",
+               "tag":"0"
+            },
+            {
+               "name":"J.E. Heartbreak",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3",
+               "imageURL":"https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Jagged_Edge_-_J.E._Heartbreak_%282000%29.jpg/220px-Jagged_Edge_-_J.E._Heartbreak_%282000%29.jpg",
+               "tag":"0"
+            },
+            {
+               "name":"My Name is Joe",
+               "description":"-",
+               "spotifyLink":"https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U",
+               "imageURL":"https://upload.wikimedia.org/wikipedia/en/0/03/Joe_-_My_Name_Is_Joe_album_cover.jpg",
+               "tag":"0"
+            }
+         ]
+      },
+      {
+         "name":"All About 90s",
+         "subtitle":"The best songs of the decade",
+         "playlists":[
+            {
+               "name":"Playlist 2",
+               "description":"Details here",
+               "spotifyLink":"spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
+               "imageURL":"https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg",
+               "tag":""
+            },
+            {
+               "name":"Playlist 2",
+               "description":"Details here",
+               "spotifyLink":"spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
+               "imageURL":"https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg",
+               "tag":""
+            }
+         ]
+      },
+      {
+         "name":"Throwback Thursday",
+         "subtitle":"The best songs of the decade",
+         "playlists":[
+            {
+               "name":"Playlist 2",
+               "description":"Details here",
+               "spotifyLink":"spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
+               "imageURL":"https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg",
+               "tag":""
+            },
+            {
+               "name":"Playlist 2",
+               "description":"Details here",
+               "spotifyLink":"spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
+               "imageURL":"https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg",
+               "tag":""
+            }
+         ]
+      },
+      {
+         "name":"Revisiting Your CD Player",
+         "subtitle":"The best songs of the decade",
+         "playlists":[
+            {
+               "name":"Playlist 2",
+               "description":"Details here",
+               "spotifyLink":"spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
+               "imageURL":"https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg",
+               "tag":""
+            },
+            {
+               "name":"Playlist 2",
+               "description":"Details here",
+               "spotifyLink":"spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
+               "imageURL":"https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg",
+               "tag":""
+            }
+         ]
+      }
+   ]
 }
