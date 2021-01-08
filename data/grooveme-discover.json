@@ -92,74 +92,64 @@
       "name": "Classic Soul",
       "artists": [
         {
-          "name": "James Brown",
-          "spotifyLink": "spotify:artist:7GaxyUddsPok8BuhxN6OUW",
-          "appleLink": "https://music.apple.com/us/artist/james-brown/117118",
-          "genre": "soul",
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/51/f4/91/51f4910c-ed31-b02b-ecc6-01dc0d338e2b/pr_source.png/380x380cc-60.jpg"
+            "name": "James Brown",
+            "spotifyLink": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW",
+            "appleLink": "https://music.apple.com/us/artist/james-brown/117118",
+            "imageURL": "https://img.discogs.com/E6y236r-e4sKzvcM_oFDDwqY9-E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-12596-1565996731-5432.jpeg.jpg"
         },
         {
-          "name": "Bobby Womack",
-          "spotifyLink": "spotify:artist:0vqkz1b2qBkoYrGMj2CUWq",
-          "appleLink": "https://music.apple.com/us/artist/bobby-womack/503682",
-          "genre": "soul",
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features4/v4/22/98/2e/22982e47-a237-c4df-e155-f1cf89f8302a/mzl.zpkhcxqn.jpg/380x380cc-60.jpg"
+            "name": "Bobby Womack",
+            "spotifyLink": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq",
+            "appleLink": "https://music.apple.com/us/artist/bobby-womack/503682",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/09/c4/28/09c4289f-8a64-22b8-e0ab-4e004dc5d699/mzl.zpkhcxqn.jpg/380x380cc-60.jpg"
         },
         {
-          "name": "Con Funk Shun",
-          "spotifyLink": "spotify:artist:2hUkfSXyuDfQbUeNOShRiz",
-          "appleLink": "https://music.apple.com/us/artist/con-funk-shun/140233",
-          "genre": "soul",
-          "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/cc/e2/e0/cce2e0ac-0284-5da8-8fba-b8e108559399/00731452032126.rgb.jpg/1000x1000bb-60.jpg"
+            "name": "Con Funk Shun",
+            "spotifyLink": "https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz",
+            "appleLink": "https://music.apple.com/us/artist/con-funk-shun/140233",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f9/fa/e5/f9fae5ae-074c-accb-4852-02aa51ae0c06/06UMGIM05244.rgb.jpg/380x380cc-60.jpg"
         },
         {
-          "name": "Donny Hathaway",
-          "spotifyLink": "spotify:artist:0HU0U9kdXEHZVxUNbuQe8S",
-          "appleLink": "https://music.apple.com/us/artist/donny-hathaway/259459",
-          "genre": "soul",
-          "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/67/60/1c/67601c60-8405-dd6e-c13a-2b9ed4784367/pr_source.png/380x380cc-60.jpg"
+            "name": "Donny Hathaway",
+            "spotifyLink": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S",
+            "appleLink": "https://music.apple.com/us/artist/donny-hathaway/259459",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/da/7f/32/da7f324d-6590-c1db-a424-2e226955d52f/pr_source.png/380x380cc-60.jpg"
         },
         {
-          "name": "Roberta Flack",
-          "spotifyLink": "spotify:artist:0W498bDDNlJIrYMKXdpLHA",
-          "appleLink": "https://music.apple.com/us/artist/roberta-flack/17992",
-          "genre": "soul",
-          "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/d4/68/f8/d468f8df-be84-7516-0eeb-6457bb5e1256/pr_source.png/380x380cc-60.jpg"
+            "name": "Johnnie Taylor",
+            "spotifyLink": "https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz",
+            "appleLink": "https://music.apple.com/us/artist/johnnie-taylor/867432",
+            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/77/b7/b7/77b7b7d4-9ea3-2f2d-52d2-8b2fa238fc5a/pr_source.png/380x380cc-60.jpg"
         },
         {
-          "name": "Johnnie Taylor",
-          "spotifyLink": "spotify:artist:4OGuNAnRFWZOgOA2d51taz",
-          "appleLink": "https://music.apple.com/us/artist/johnnie-taylor/867432",
-          "genre": "soul",
-          "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Music/b3/a6/e4/mzi.qtxapzba.jpg/1000x1000bb-60.jpg"
+            "name": "Otis Redding",
+            "spotifyLink": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
+            "appleLink": "https://music.apple.com/us/artist/otis-redding/189254",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/1e/23/5a/1e235aff-d435-0c17-7ec8-0d95e6b3c48f/mzl.pcdfdtfi.jpg/380x380cc-60.jpg"
         },
         {
-          "name": "Otis Redding",
-          "spotifyLink": "spotify:artist:60df5JBRRPcnSpsIMxxwQm",
-          "appleLink": "https://music.apple.com/us/artist/otis-redding/189254",
-          "genre": "soul",
-          "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features2/v4/a9/04/16/a9041618-5c4e-135a-a19e-1b68fc93c770/mzl.pcdfdtfi.jpg/380x380cc-60.jpg"
+            "name": "Roberta Flack",
+            "spotifyLink": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA",
+            "appleLink": "https://music.apple.com/us/artist/roberta-flack/17992",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/de/5c/fe/de5cfe27-d24f-89e0-cad3-c528d3ba19a2/pr_source.png/380x380cc-60.jpg"
         },
         {
-          "name": "Sam Cooke",
-          "spotifyLink": "spotify:artist:6hnWRPzGGKiapVX1UCdEAC",
-          "appleLink": "https://music.apple.com/us/artist/sam-cooke/1195231",
-          "genre": "soul",
-          "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/8d/2b/10/8d2b10a1-4d68-933f-e0b7-f3a0718faffd/pr_source.png/380x380cc-60.jpg"
+            "name": "Sam Cooke",
+            "spotifyLink": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC",
+            "appleLink": "https://music.apple.com/us/artist/sam-cooke/1195231",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features114/v4/98/00/1a/98001a93-6516-8a36-b5a4-e1897c2bea99/pr_source.png/380x380cc-60.jpg"
         },
         {
-          "name": "Anita Baker",
-          "spotifyLink": "spotify:artist:46CH1Gp8l8QVly8bpG9JFG",
-          "appleLink": "https://music.apple.com/us/artist/anita-baker/162340",
-          "genre": "soul",
-          "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/09/12/7a/09127a70-2b84-6a9a-a3bd-19124ad809f6/pr_source.png/380x380cc-60.jpg"
+            "name": "Smokey Robinson",
+            "spotifyLink": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8",
+            "appleLink": "https://music.apple.com/us/artist/smokey-robinson/100849",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features114/v4/2b/d5/f5/2bd5f5e5-c6aa-10b9-63db-f4249fc01d4d/mza_4947921859719609.png/380x380cc-60.jpg"
         },
         {
-          "name": "Smokey Robinson",
-          "spotifyLink": "spotify:artist:0h9smro0z3HqUbD94jotU8",
-          "appleLink": "https://music.apple.com/us/artist/smokey-robinson/100849",
-          "genre": "soul",
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2b/b2/20/2bb22018-6613-43ff-1184-48eb30696d30/00737463626828.rgb.jpg/1000x1000bb-60.jpg"
+            "name": "Anita Baker",
+            "spotifyLink": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG",
+            "appleLink": "https://music.apple.com/us/artist/anita-baker/162340",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/53/37/d7/5337d75c-0c7a-ef93-0b69-ec0ff36b2edb/pr_source.png/380x380cc-60.jpg"
         }
       ]
     },
