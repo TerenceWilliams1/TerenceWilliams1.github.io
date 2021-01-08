@@ -157,88 +157,76 @@
       "name": "The Definition of R&B",
       "artists": [
         {
-          "name": "Gerald Levert",
-          "spotifyLink": "spotify:artist:7BLOa6FxCbMnowidkQfLIA",
-          "appleLink": "https://music.apple.com/us/artist/gerald-levert/153433",
-          "genre": "soul",
-          "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/6d/2f/1b/6d2f1b17-1f66-7608-ba64-23adf0f8c459/pr_source.png/380x380cc-60.jpg"
+            "name": "Marvin Gaye",
+            "spotifyLink": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
+            "appleLink": "https://music.apple.com/us/artist/marvin-gaye/127329",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/13/2c/f7/132cf765-cc9c-cc21-8310-0ad451e3dec6/mza_8018811082061201081.png/380x380cc-60.jpg"
         },
         {
-          "name": "Isley Brothers",
-          "spotifyLink": "spotify:artist:53QzNeFpzAaXYnrDBbDrIp",
-          "appleLink": "https://music.apple.com/us/artist/the-isley-brothers/121582",
-          "genre": "soul",
-          "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features118/v4/ea/c4/dc/eac4dc3b-9797-1a56-d969-bcf683c62c54/mza_8739073613789605378.png/380x380cc-60.jpg"
+            "name": "Teddy Pendergrass",
+            "spotifyLink": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ",
+            "appleLink": "https://music.apple.com/us/artist/teddy-pendergrass/162183",
+            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/d5/c6/d6/d5c6d627-05c5-52dd-daa5-d5c8f6de4e10/mzl.uafawnnt.jpg/380x380cc-60.jpg"
         },
         {
-          "name": "Jill Scott",
-          "spotifyLink": "spotify:artist:6AVLthptCPhfrxlHadOBJD",
-          "appleLink": "https://music.apple.com/us/artist/jill-scott/14867",
-          "genre": "soul",
-          "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features7/v4/30/93/46/3093464a-9278-f3b4-6666-155b1d2d9502/mzl.laawbvmi.jpg/380x380cc-60.jpg"
+            "name": "Mary J. Blige",
+            "spotifyLink": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr",
+            "appleLink": "https://music.apple.com/us/artist/mary-j-blige/1392280",
+            "imageURL": "https://deadline.com/wp-content/uploads/2019/12/1mjb-for-essencefest-promo_de28099andre-michael-e1575397139993.jpg"
         },
         {
-          "name": "Marvin Gaye",
-          "spotifyLink": "spotify:artist:3koiLjNrgRTNbOwViDipeA",
-          "appleLink": "https://music.apple.com/us/artist/marvin-gaye/127329",
-          "genre": "soul",
-          "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/8c/3e/cc/8c3ecc5f-eb14-2c06-273c-7d3830b69e20/mza_8018811082061201081.png/380x380cc-60.jpg"
+            "name": "The Isley Brothers",
+            "spotifyLink": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp",
+            "appleLink": "https://music.apple.com/us/artist/the-isley-brothers/121582",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/0a/29/50/0a2950c0-c51c-15db-99f5-3a79cafaf965/mza_8739073613789605378.png/380x380cc-60.jpg"
         },
         {
-          "name": "Teddy Pendergrass",
-          "spotifyLink": "spotify:artist:68kACMx6A3D2BYiO056MeQ",
-          "appleLink": "https://music.apple.com/us/artist/teddy-pendergrass/162183",
-          "genre": "soul",
-          "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features/v4/ce/10/b0/ce10b010-d8c7-ec75-7bfe-577fd5c1b227/mzl.uafawnnt.jpg/380x380cc-60.jpg"
+            "name": "Jill Scott",
+            "spotifyLink": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD",
+            "appleLink": "https://music.apple.com/us/artist/jill-scott/14867",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/1d/f3/56/1df356d8-741e-d1e5-cf2c-f9d7331e2d17/mzl.laawbvmi.jpg/380x380cc-60.jpg"
         },
         {
-          "name": "Musiq Soulchild",
-          "spotifyLink": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8",
-          "appleLink": "https://music.apple.com/us/artist/musiq-soulchild/81742435",
-          "genre": "soul",
-          "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features20/v4/3d/a4/e6/3da4e680-45c3-59d4-2822-a8cbf21d7f42/mzl.bydvxniu.jpg/380x380cc-60.jpg"
+            "name": "Musiq Soulchild",
+            "spotifyLink": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8",
+            "appleLink": "https://music.apple.com/us/artist/musiq-soulchild/81742435",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/1a/c8/36/1ac83670-8381-ca09-3493-cadd99f180fb/mzl.bydvxniu.jpg/380x380cc-60.jpg"
         },
         {
-          "name": "Tyrese",
-          "spotifyLink": "spotify:artist:08p7B5OtcUuVblvkQIlBhJ",
-          "appleLink": "https://music.apple.com/us/artist/tyrese/179903",
-          "genre": "soul",
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features18/v4/2a/66/0e/2a660e33-c3b8-d8ba-2638-510e42df217e/mzm.gaayxmqm.jpg/380x380cc-60.jpg"
+            "name": "Tyrese",
+            "spotifyLink": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ",
+            "appleLink": "https://music.apple.com/us/artist/tyrese/179903",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/36/57/de/3657deb1-81a6-de75-0849-d87ef39974a5/mzm.gaayxmqm.jpg/380x380cc-60.jpg"
         },
         {
-          "name": "Mary J. Blige",
-          "spotifyLink": "spotify:artist:1XkoF8ryArs86LZvFOkbyr",
-          "appleLink": "https://music.apple.com/us/artist/mary-j-blige/1392280",
-          "genre": "soul",
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dd/90/3a/dd903ac8-d651-5426-cd84-a2e090b36108/00602547109651.rgb.jpg/1000x1000bb-60.jpg"
+            "name": "Maxwell",
+            "spotifyLink": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j",
+            "appleLink": "https://music.apple.com/us/artist/maxwell/486768",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/46/5c/60/465c601d-8a55-a9bb-1edf-3ed16ef55dae/pr_source.png/380x380cc-60.jpg"
         },
         {
-          "name": "Maxwell",
-          "spotifyLink": "spotify:artist:2AOt5htsbtyaHd5Eq3kl3j",
-          "appleLink": "https://music.apple.com/us/artist/maxwell/486768",
-          "genre": "soul",
-          "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/2b/a6/5f/2ba65f34-98ee-f877-9d0a-9288ce6ef93d/pr_source.png/380x380cc-60.jpg"
+            "name": "Ledisi",
+            "spotifyLink": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA",
+            "appleLink": "https://music.apple.com/us/artist/ledisi/3259268",
+            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features114/v4/4b/54/c2/4b54c26c-d878-33df-d29f-e5b1ebaf5e9c/pr_source.png/380x380cc-60.jpg"
         },
         {
-          "name": "Ledisi",
-          "spotifyLink": "spotify:artist:60ciIY5MouLc2Y9n34DJdA",
-          "appleLink": "https://music.apple.com/us/artist/ledisi/3259268",
-          "genre": "soul",
-          "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/02/48/3a/02483ace-324f-77cd-c91a-2741e194c2aa/pr_source.png/380x380cc-60.jpg"
+            "name": "Carl Thomas",
+            "spotifyLink": "https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U",
+            "appleLink": "https://music.apple.com/us/artist/carl-thomas/5344648",
+            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/51/be/b4/51beb49b-41e4-74b4-5e96-89aa3a2d9958/pr_source.png/380x380cc-60.jpg"
         },
         {
-          "name": "Carl Thomas",
-          "spotifyLink": "spotify:artist:6I6t21SFbxZ7RbQgD5dN7U",
-          "appleLink": "https://music.apple.com/us/artist/carl-thomas/5344648",
-          "genre": "soul",
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/d2/88/c9d2884b-bca2-d623-bd75-72f3108aff64/pr_source.png/380x380cc-60.jpg"
+            "name": "Gerald Levert",
+            "spotifyLink": "https://open.spotify.com/artist/7BLOa6FxCbMnowidkQfLIA",
+            "appleLink": "https://music.apple.com/us/artist/gerald-levert/153433",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/3b/37/7c/3b377c77-3a2d-f399-462d-fd7f5ded68f8/pr_source.png/380x380cc-60.jpg"
         },
         {
-          "name": "India.Arie",
-          "spotifyLink": "spotify:artist:7Gf3LSwa5hh8Cjo60WhVjC",
-          "appleLink": "https://music.apple.com/us/artist/india-arie/92325",
-          "genre": "soul",
-          "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features/v4/e8/cc/91/e8cc9171-afa8-5af1-ca7f-4c85c86ed205/mzl.ixckkcgq.tif/380x380cc-60.jpg"
+            "name": "India.Arie",
+            "spotifyLink": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC",
+            "appleLink": "https://music.apple.com/us/artist/india-arie/92325",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/57/4f/08/574f0872-d9ae-3671-dd33-e8488e246743/mzl.ixckkcgq.tif/380x380cc-60.jpg"
         }
       ]
     },
