@@ -27,81 +27,64 @@
       "name": "Essentials",
       "artists": [
         {
-          "name": "Earth, Wind, and Fire",
-          "spotifyLink": "spotify:artist:4QQgXkCYTt3BlENzhyNETg",
-          "appleLink": "https://music.apple.com/us/artist/earth-wind-fire/290699",
-          "genre": "soul",
-          "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features128/v4/64/2b/48/642b4840-bbe9-7779-3525-efe47e4af72d/mza_917709224484712798.png/380x380cc-60.jpg"
+            "name": "Earth, Wind, & Fire",
+            "spotifyLink": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg",
+            "appleLink": "https://music.apple.com/us/artist/earth-wind-fire/290699",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/2e/4a/1c/2e4a1ca7-16d7-ae19-579f-9cfa1a1bfa6e/mza_917709224484712798.png/380x380cc-60.jpg"
         },
         {
-          "name": "The Temptations",
-          "spotifyLink": "spotify:artist:3RwQ26hR2tJtA8F9p2n7jG", 
-          "appleLink": "https://music.apple.com/us/artist/the-temptations/127358",
-          "genre": "soul",
-          "imageURL": "https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg"
+            "name": "The Temptations",
+            "spotifyLink": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG",
+            "appleLink": "https://music.apple.com/us/artist/the-temptations/127358",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/13/d4/63/13d46333-98f9-a3ff-914d-8122d3d2222f/mza_4696673863932597495.png/380x380cc-60.jpg"
         },
         {
-          "name": "Al Green",
-          "spotifyLink": "spotify:artist:3dkbV4qihUeMsqN4vBGg93",
-          "appleLink": "https://music.apple.com/us/artist/al-green/99603",
-          "genre": "soul",
-          "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features/v4/10/18/74/10187477-3b12-d870-4bf0-c573bdbe9c79/mzl.bvgferwf.jpg/380x380cc-60.jpg"
+            "name": "Aretha Franklin",
+            "spotifyLink": "spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok",
+            "appleLink": "https://music.apple.com/us/artist/aretha-franklin/98742",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/92/ae/15/92ae15c5-5439-bb59-5bc6-36facdd5866f/mzl.kxajnatx.jpg/380x380cc-60.jpg"
         },
         {
-          "name": "The O'Jays",
-          "spotifyLink": "spotify:artist:38h03gA85YYPeDPd9ER9rT",
-          "appleLink": "https://music.apple.com/us/artist/the-ojays/67816",
-          "genre": "soul",
-          "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/a6/13/a3/a613a33c-2433-e2a0-6abd-43257da0ebe0/pr_source.png/380x380cc-60.jpg"
+            "name": "Ray Charles",
+            "spotifyLink": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi",
+            "appleLink": "https://music.apple.com/us/artist/ray-charles/160926",
+            "imageURL": "https://travsd.files.wordpress.com/2020/09/sunset-jam-blues-tribute-to-ray-charles-lg.jpg"
         },
         {
-          "name": "Curtis Mayfield",
-          "spotifyLink": "spotify:artist:2AV6XDIs32ofIJhkkDevjm",
-          "appleLink": "https://music.apple.com/us/artist/curtis-mayfield/169711",
-          "genre": "soul",
-          "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features/v4/14/43/db/1443db57-14da-89d5-4b7e-00e4991ee1bd/mzl.ippbmumx.jpg/380x380cc-60.jpg"
+            "name": "Stevie Wonder",
+            "spotifyLink": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi",
+            "appleLink": "https://music.apple.com/us/artist/stevie-wonder/46726",
+            "imageURL": "https://cdn.britannica.com/66/103166-050-9423AD02/Stevie-Wonder.jpg"
         },
         {
-          "name": "Stevie Wonder",
-          "spotifyLink": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi",
-          "appleLink": "https://music.apple.com/us/artist/stevie-wonder/46726",
-          "genre": "soul",
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1d/8b/e1/1d8be13e-64e4-5a22-496b-49bd9348169d/00602537002382.rgb.jpg/1000x1000bb-60.jpg"
+            "name": "Bill Withers",
+            "spotifyLink": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj",
+            "appleLink": "https://music.apple.com/us/artist/bill-withers/339834",
+            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features114/v4/1c/32/77/1c327719-e6c2-253f-6f23-7e796b01ccd6/mza_13173907342355571012.png/380x380cc-60.jpg"
         },
         {
-          "name": "Biill Withers",
-          "spotifyLink": "spotify:artist:1ThoqLcyIYvZn7iWbj8fsj",
-          "appleLink": "https://music.apple.com/us/artist/bill-withers/339834",
-          "genre": "soul",
-          "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features113/v4/bf/8f/d6/bf8fd6c7-aa57-d9ca-2f70-1bfe83f2103c/mza_13173907342355571012.png/380x380cc-60.jpg"
+            "name": "Al Green",
+            "spotifyLink": "spotify:artist:3dkbV4qihUeMsqN4vBGg93",
+            "appleLink": "https://music.apple.com/us/artist/al-green/99603",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features/v4/10/18/74/10187477-3b12-d870-4bf0-c573bdbe9c79/mzl.bvgferwf.jpg/380x380cc-60.jpg"
         },
         {
-          "name": "Aretha Franklin",
-          "spotifyLink": "spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok",
-          "appleLink": "https://music.apple.com/us/artist/aretha-franklin/98742",
-          "genre": "soul",
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/92/ae/15/92ae15c5-5439-bb59-5bc6-36facdd5866f/mzl.kxajnatx.jpg/380x380cc-60.jpg"
+            "name": "Luther Vandross",
+            "spotifyLink": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP",
+            "appleLink": "https://music.apple.com/us/artist/luther-vandross/23393",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/f1/2c/4f/f12c4f72-fd36-717c-7359-2cfdf2ce2515/mza_3906175645150627350.png/380x380cc-60.jpg"
         },
         {
-          "name": "Luther Vandross",
-          "spotifyLink": "spotify:artist:19y5MFBH7gohEdGwKM7QsP",
-          "appleLink": "https://music.apple.com/us/artist/luther-vandross/23393",
-          "genre": "soul",
-          "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features118/v4/26/1c/42/261c42e0-6c57-420d-8ca2-de064c578a2d/mza_3906175645150627350.png/380x380cc-60.jpg"
+            "name": "Rick James",
+            "spotifyLink": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL",
+            "appleLink": "https://music.apple.com/us/artist/rick-james/101367",
+            "imageURL": "https://www.legacy.com/wp-content/uploads/2020/07/rick-james-getty-hero-1200x900.jpg"
         },
         {
-          "name": "Rick James",
-          "spotifyLink": "spotify:artist:0FrpdcVlJQqibaz5HfBUrL",
-          "appleLink": "https://music.apple.com/us/artist/rick-james/101367",
-          "genre": "soul",
-          "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/e2/f5/05/e2f505b9-8bd5-76bc-120b-857ffddee965/00602527921600.rgb.jpg/1000x1000bb-60.jpg"
-        },
-        {
-          "name": "Ray Charles",
-          "spotifyLink": "spotify:artist:1eYhYunlNJlDoQhtYBvPsi",
-          "appleLink": "https://music.apple.com/us/artist/ray-charles/160926",
-          "genre": "soul",
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m02/d22/h22/s06.vuowopub.jpg/1000x1000bb-60.jpg"
+            "name": "Curtis Mayfield",
+            "spotifyLink": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm",
+            "appleLink": "https://music.apple.com/us/artist/curtis-mayfield/169711",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/07/c7/b4/07c7b4b2-5446-442e-cebd-0da17e460083/mzl.ippbmumx.jpg/380x380cc-60.jpg"
         }
       ]
     },
