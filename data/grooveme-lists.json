@@ -125,6 +125,95 @@
                "imageURL":"https://upload.wikimedia.org/wikipedia/en/0/03/Joe_-_My_Name_Is_Joe_album_cover.jpg"
             }
          ]
-      }
+      },
+      {
+         "name":"Men of R&B",
+         "subtitle":"It's simply what they do",
+         "playlists":[
+            {
+            "name": "Kem",
+            "appleLink": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R",
+            "spotifyLink": "https://music.apple.com/us/artist/kem/92940",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/af/e1/8a/afe18ab5-2aab-34f4-93bc-50cf031fccba/mzl.mbvhtaqt.jpg/380x380cc-60.jpg"
+        },
+        {
+            "name": "Avant",
+            "appleLink": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A",
+            "spotifyLink": "https://music.apple.com/us/artist/avant/64969",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/d3/bf/94/d3bf94b3-5033-d972-0bad-dbdc3ab7191a/mzl.zvnochaf.jpg/380x380cc-60.jpg"
+        },
+        {
+            "name": "Musiq Soulchild",
+            "appleLink": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8",
+            "spotifyLink": "https://music.apple.com/us/artist/musiq-soulchild/81742435",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/1a/c8/36/1ac83670-8381-ca09-3493-cadd99f180fb/mzl.bydvxniu.jpg/380x380cc-60.jpg"
+        },
+        {
+            "name": "Tyrese",
+            "appleLink": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ",
+            "spotifyLink": "https://music.apple.com/us/artist/tyrese/179903",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/36/57/de/3657deb1-81a6-de75-0849-d87ef39974a5/mzm.gaayxmqm.jpg/380x380cc-60.jpg"
+        },
+        {
+            "name": "Maxwell",
+            "appleLink": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j",
+            "spotifyLink": "https://music.apple.com/us/artist/maxwell/486768",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/46/5c/60/465c601d-8a55-a9bb-1edf-3ed16ef55dae/pr_source.png/380x380cc-60.jpg"
+        },
+        {
+            "name": "Ginuwine",
+            "appleLink": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP",
+            "spotifyLink": "https://music.apple.com/us/artist/ginuwine/648992",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/26/53/8a/26538ad8-7cf7-fde5-0300-7ad699c908f5/mzl.caspmhln.jpg/380x380cc-60.jpg"
+        },
+        {
+            "name": "K-Ci & JoJo",
+            "appleLink": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK",
+            "spotifyLink": "https://music.apple.com/us/artist/k-ci-jojo/303672846",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features/v4/3a/1b/c5/3a1bc56a-f081-e3e0-52e5-0434d4e61752/mzl.jkprhfxm.jpg/380x380cc-60.jpg"
+        },
+        {
+            "name": "Stokley",
+            "appleLink": "https://open.spotify.com/artist/1pEbB73S2Rl9etF23ucgAA",
+            "spotifyLink": "https://music.apple.com/us/artist/stokley/468912",
+            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features122/v4/d0/77/c4/d077c475-d15c-62a3-0d3e-d1b8184b6c32/mzl.domnmnkm.jpg/380x380cc-60.jpg"
+        },
+        {
+            "name": "Keith Sweat",
+            "appleLink": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m",
+            "spotifyLink": "https://music.apple.com/us/artist/keith-sweat/335680",
+            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/fa/87/d8/fa87d8d5-d10d-9f5f-53ad-eadcb9c0dea0/mzl.qzratuvt.jpg/380x380cc-60.jpg"
+        },
+        {
+            "name": "Anthony Hamilton",
+            "appleLink": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo",
+            "spotifyLink": "https://music.apple.com/us/artist/anthony-hamilton/2089624",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/2c/ec/69/2cec6998-f2ab-fe0a-c6dc-7cf56141af36/mzl.eavsiuqq.jpg/380x380cc-60.jpg"
+        },
+        {
+            "name": "Calvin Richardson",
+            "appleLink": "https://open.spotify.com/artist/5lckATQU3N7Ralsw3VfnRb",
+            "spotifyLink": "https://music.apple.com/us/artist/calvin-richardson/100325",
+            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features128/v4/74/8f/3b/748f3bce-4b72-e72d-478d-04911eab4482/mzl.hhuqdgbu.jpg/380x380cc-60.jpg"
+        },
+        {
+            "name": "Jodeci",
+            "appleLink": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK",
+            "spotifyLink": "https://music.apple.com/us/artist/jodeci/241399",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/c7/9c/f5/c79cf57e-5edb-540a-f2c9-cb5c9cf62355/mzl.ogkleqpk.jpg/380x380cc-60.jpg"
+        },
+        {
+            "name": "Babyface",
+            "appleLink": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3",
+            "spotifyLink": "https://music.apple.com/us/artist/babyface/12113",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/eb/05/02/eb050283-49b4-d341-0221-148c804b0154/mzl.qqakmobw.jpg/380x380cc-60.jpg"
+        },
+        {
+            "name": "Johnny Gill",
+            "appleLink": "https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn",
+            "spotifyLink": "https://music.apple.com/us/artist/johnny-gill/47720",
+            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features114/v4/87/ad/8a/87ad8a83-09ed-d5e6-fc47-0a4f35a7fed2/mzl.yhitwksl.jpg/380x380cc-60.jpg"
+        }
+      ]
    ]
 }
