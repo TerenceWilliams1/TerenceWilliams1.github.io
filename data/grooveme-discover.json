@@ -1,26 +1,26 @@
 {
   "highlights": [
     {
-         "name":"Editor's Choice \nDaesha's Weekly Favorite",
-          "description":"Jill Scott",
-         "spotifyLink":"https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo?si=U7LcyTiBQp-Smxw6Sit1_A",
-         "appleLink":"https://music.apple.com/us/artist/the-temptations/127358",
-         "imageURL":"https://pagesix.com/wp-content/uploads/sites/3/2020/07/jill-scott.jpg?quality=80&strip=all"
-      },
-      {
-         "name":"Album Spotlight \n2000",
-         "description":"Aijuswanaseing",
-         "spotifyLink":"spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
-         "appleLink":"https://music.apple.com/us/artist/the-temptations/127358",
-         "imageURL":"https://cdn.shopify.com/s/files/1/0061/6484/0518/products/musiq_-_aijuswanaseing_2lp_for_25.98_1024x.jpg?v=1541006476"
-      },
-      {
-         "name":"Movie Soundtrack",
-         "description":"Poetic Justice \n1993",
-         "spotifyLink":"spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
-         "appleLink":"",
-         "imageURL":"https://www.fenimoreartmuseum.org/wp-content/uploads/poeticweb.jpg"
-      }
+            "name": "Editor's Choice \nDaesha's Weekly Favorite",
+            "description": "Jill Scott",
+            "spotifyLink": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD",
+            "appleLink": "https://music.apple.com/us/artist/jill-scott/14867",
+            "imageURL": "https://celebrityinsider.org/wp-content/uploads/2019/11/Fantasia-Barrino-Basketball-New-Album.jpg"
+        },
+        {
+            "name": "Album Spotlight \n2000",
+            "description": "Aijuswanaseing",
+            "spotifyLink": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c?si=PbsuPRguQBCbblo__hOyfA",
+            "appleLink": "https://music.apple.com/us/album/aijuswanaseing/1440921030",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0061/6484/0518/products/musiq_-_aijuswanaseing_2lp_for_25.98_1024x.jpg?v=1541006476"
+        },
+        {
+            "name": "Movie Soundtrack",
+            "description": "Poetic Justice \n1993",
+            "spotifyLink": "https://open.spotify.com/playlist/5PhIfqwzfPM4C1tipK0pqD",
+            "appleLink": "https://music.apple.com/us/album/poetic-justice-music-from-the-motion-picture/192999606",
+            "imageURL": "https://www.fenimoreartmuseum.org/wp-content/uploads/poeticweb.jpg"
+        }
   ],
   "categories": [
     {
