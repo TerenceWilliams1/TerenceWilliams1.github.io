@@ -222,6 +222,7 @@
          "playlists":[
             {
             "name": "This is Motown",
+             "appleLink": "-",
             "spotifyLink": "https://open.spotify.com/playlist/0emtznPX7buYbxjyLETbVt",
             "imageURL": "https://res.cloudinary.com/blavity/image/upload/g_center,w_800,q_auto:best,g_south_east,x_0/v1560821989/vzs78uwx1mwyg0l5dyvh"
         },
