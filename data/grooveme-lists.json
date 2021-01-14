@@ -151,47 +151,61 @@
          "subtitle":"Top albums of the year",
          "playlists":[
             {
-               "name":"Who Is Jill Scott?\nJill Scott",
-               "appleLink":"-",
-               "spotifyLink":"https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG",
-               "imageURL":"https://upload.wikimedia.org/wikipedia/en/9/94/Who_Is_Jill_Scott_album_cover.jpg"
-            },
-            {
-               "name":"Emotional\nCarl Thomas",
-               "appleLink":"-",
-               "spotifyLink":"https://open.spotify.com/album/5fjNNSyiwXoOQMCW4dLjJ2",
-               "imageURL":"https://upload.wikimedia.org/wikipedia/en/9/99/CarlThomasEmotional.jpg"
-            },
-            {
-               "name":"Mama's Gun\nErykah Badu",
-               "appleLink":"-",
-               "spotifyLink":"https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH",
-               "imageURL":"https://upload.wikimedia.org/wikipedia/en/4/4c/Erykah_Badu_-_Mama%27s_Gun.jpg"
-            },
-            {
-               "name":"The Heat\nToni Braxton",
-               "appleLink":"-",
-               "spotifyLink":"https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi",
-               "imageURL":"https://upload.wikimedia.org/wikipedia/en/9/9b/Toni_Braxton_-_The_Heat.png"
-            },
-            {
-               "name":"Aijuswanaseing\nMusiq Soulchild",
-               "appleLink":"-",
-               "spotifyLink":"https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c",
-               "imageURL":"https://upload.wikimedia.org/wikipedia/en/d/d4/Aijuswanaseing.jpg"
-            },
-            {
-               "name":"J.E. Heartbreak\nJagged Edge",
-               "appleLink":"-",
-               "spotifyLink":"https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3",
-               "imageURL":"https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Jagged_Edge_-_J.E._Heartbreak_%282000%29.jpg/220px-Jagged_Edge_-_J.E._Heartbreak_%282000%29.jpg"
-            },
-            {
-               "name":"My Name is Joe\nJoe",
-               "appleLink":"-",
-               "spotifyLink":"https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U",
-               "imageURL":"https://upload.wikimedia.org/wikipedia/en/0/03/Joe_-_My_Name_Is_Joe_album_cover.jpg"
-            }
+            "name": "Who Is Jill Scott?",
+            "description": "-",
+            "spotifyLink": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG",
+            "appleLink": "https://music.apple.com/us/album/who-is-jill-scott-words-and-sounds-vol-1/1416153023",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/9/94/Who_Is_Jill_Scott_album_cover.jpg",
+            "tag": "0"
+        },
+        {
+            "name": "Emotional - Carl Thomas",
+            "description": "-",
+            "spotifyLink": "https://open.spotify.com/album/5fjNNSyiwXoOQMCW4dLjJ2",
+            "appleLink": "https://music.apple.com/us/album/emotional/80981001",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/9/99/CarlThomasEmotional.jpg",
+            "tag": "0"
+        },
+        {
+            "name": "Mama's Gun",
+            "description": "-",
+            "spotifyLink": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH",
+            "appleLink": "https://music.apple.com/us/album/mamas-gun/1440755899",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/4/4c/Erykah_Badu_-_Mama%27s_Gun.jpg",
+            "tag": "0"
+        },
+        {
+            "name": "The Heat - Toni Braxton",
+            "description": "-",
+            "spotifyLink": "https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi",
+            "appleLink": "https://music.apple.com/us/album/the-heat/273798195",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/9/9b/Toni_Braxton_-_The_Heat.png",
+            "tag": "0"
+        },
+        {
+            "name": "Aijuswanaseing",
+            "description": "-",
+            "spotifyLink": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c",
+            "appleLink": "https://music.apple.com/us/album/aijuswanaseing/1440921030",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/d/d4/Aijuswanaseing.jpg",
+            "tag": "0"
+        },
+        {
+            "name": "J.E. Heartbreak",
+            "description": "-",
+            "spotifyLink": "https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3",
+            "appleLink": "https://music.apple.com/us/album/j-e-heartbreak/157516881",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Jagged_Edge_-_J.E._Heartbreak_%282000%29.jpg/220px-Jagged_Edge_-_J.E._Heartbreak_%282000%29.jpg",
+            "tag": "0"
+        },
+        {
+            "name": "My Name is Joe",
+            "description": "-",
+            "spotifyLink": "https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U",
+            "appleLink": "https://music.apple.com/us/album/my-name-is-joe/303183609",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/0/03/Joe_-_My_Name_Is_Joe_album_cover.jpg",
+            "tag": "0"
+        }
          ]
       },
       {
