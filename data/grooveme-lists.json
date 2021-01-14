@@ -115,6 +115,34 @@
             "spotifyLink": "https://open.spotify.com/playlist/1VsLoNItryQ6a5TRQQuy8n",
             "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Above_the_Rim_Sndtrck.jpg/220px-Above_the_Rim_Sndtrck.jpg",
             "tag": "1"
+        },
+        {
+            "name": "Boomerang",
+            "appleLink": "-",
+            "spotifyLink": "https://open.spotify.com/playlist/1RYQNtJWZcIPqoBhpq4Z9v",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/4/45/Boomerang_Soundtrack.jpg",
+            "tag": "1"
+        },
+        {
+            "name": "The Bodyguard",
+            "appleLink": "-",
+            "spotifyLink": "https://open.spotify.com/playlist/1Gkp857FSMAgcUbeeBQMQl",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/f/f3/TheBodyguardSoundtrack.jpg",
+            "tag": "1"
+        },
+        {
+            "name": "If Beale Street Could Talk",
+            "appleLink": "-",
+            "spotifyLink": "https://open.spotify.com/playlist/5r8y6sfxyGZE8dBcXfwtXp",
+            "imageURL": "https://i.scdn.co/image/ab67616d0000b273d8be3798399b637599dcab05",
+            "tag": "1"
+        },
+        {
+            "name": "Moonlight",
+            "appleLink": "-",
+            "spotifyLink": "https://open.spotify.com/playlist/7y3qaE7N5ApZ5Iy7YJMJts",
+            "imageURL": "https://images-na.ssl-images-amazon.com/images/I/B1m8mWw8ZsS._SX466_.jpg",
+            "tag": "1"
         }
          ]
       },
