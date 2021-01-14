@@ -215,6 +215,77 @@
             "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features114/v4/87/ad/8a/87ad8a83-09ed-d5e6-fc47-0a4f35a7fed2/mzl.yhitwksl.jpg/380x380cc-60.jpg"
         }
       ]
+    },
+      {
+         "name":"This is Motown",
+         "subtitle":"Sounds from the 60's that went down in history",
+         "playlists":[
+            {
+            "name": "This is Motown",
+            "spotifyLink": "https://open.spotify.com/playlist/0emtznPX7buYbxjyLETbVt",
+            "imageURL": "https://res.cloudinary.com/blavity/image/upload/g_center,w_800,q_auto:best,g_south_east,x_0/v1560821989/vzs78uwx1mwyg0l5dyvh"
+        },
+        {
+            "name": "The Temptations",
+            "appleLink": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG",
+            "spotifyLink": "https://music.apple.com/us/artist/the-temptations/127358",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/13/d4/63/13d46333-98f9-a3ff-914d-8122d3d2222f/mza_4696673863932597495.png/380x380cc-60.jpg"
+        },
+        {
+            "name": "Stevie Wonder",
+            "appleLink": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi",
+            "spotifyLink": "https://music.apple.com/us/artist/stevie-wonder/46726",
+            "imageURL": "https://cdn.britannica.com/66/103166-050-9423AD02/Stevie-Wonder.jpg"
+        },
+        {
+            "name": "Marvin Gaye",
+            "appleLink": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
+            "spotifyLink": "https://music.apple.com/us/artist/marvin-gaye/127329",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/13/2c/f7/132cf765-cc9c-cc21-8310-0ad451e3dec6/mza_8018811082061201081.png/380x380cc-60.jpg"
+        },
+        {
+            "name": "Gladys Knight",
+            "appleLink": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1",
+            "spotifyLink": "https://music.apple.com/us/artist/gladys-knight/63098",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/e4/7b/f4/e47bf41f-dd94-b6ab-2a60-af1c94117ef8/mzl.fpvokkvz.jpg/380x380cc-60.jpg"
+        },
+        {
+            "name": "The Jackson 5",
+            "appleLink": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW",
+            "spotifyLink": "https://music.apple.com/us/artist/jackson-5/104063",
+            "imageURL": "https://lastfm.freetls.fastly.net/i/u/ar0/52d91670edc8f74b6216f0e81a4eb034.jpg"
+        },
+        {
+            "name": "Smokey Robinson",
+            "appleLink": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8",
+            "spotifyLink": "https://music.apple.com/us/artist/smokey-robinson/100849",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features114/v4/2b/d5/f5/2bd5f5e5-c6aa-10b9-63db-f4249fc01d4d/mza_4947921859719609.png/380x380cc-60.jpg"
+        },
+        {
+            "name": "Four Tops",
+            "appleLink": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4",
+            "spotifyLink": "https://music.apple.com/us/artist/four-tops/52206772",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/56/f1/49/56f14995-edca-7161-d4af-b2f3e5375c90/mzl.sptleqvp.png/380x380cc-60.jpg"
+        },
+        {
+            "name": "The Supremes",
+            "appleLink": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV",
+            "spotifyLink": "https://music.apple.com/us/artist/the-supremes/102986",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/cb/38/7d/cb387df9-e3cf-567f-0305-920b5b2dc0f8/mzl.guzrrrks.jpg/380x380cc-60.jpg"
+        },
+        {
+            "name": "Martha Reeves & The Vandellas",
+            "appleLink": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP",
+            "spotifyLink": "https://music.apple.com/us/artist/martha-reeves-and-the-vandellas/13431501",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/12/65/481265ac-eeec-be03-0127-dff1a46a2606/mzl.yspzangc.jpg/380x380cc-60.jpg"
+        },
+        {
+            "name": "The Marvelettes",
+            "appleLink": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH",
+            "spotifyLink": "https://music.apple.com/us/artist/the-marvelettes/47771",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/ec/cb/14/eccb14b8-b5df-6a53-925e-f6732ebdb024/mzl.xoofyfcg.jpg/380x380cc-60.jpg"
+        }
+      ]
     }
   ]
 }
