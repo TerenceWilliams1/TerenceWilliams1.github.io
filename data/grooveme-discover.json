@@ -27,66 +27,92 @@
       "name": "Essentials",
       "artists": [
         {
-            "name": "Earth, Wind, & Fire",
-            "spotifyLink": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg",
-            "appleLink": "https://music.apple.com/us/artist/earth-wind-fire/290699",
-            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/2e/4a/1c/2e4a1ca7-16d7-ae19-579f-9cfa1a1bfa6e/mza_917709224484712798.png/380x380cc-60.jpg",
-            "videoID": "5ojOERy-mf8"
-        },
-        {
             "name": "The Temptations",
-            "spotifyLink": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG",
+            "spotifyLink": "spotify:artist:3RwQ26hR2tJtA8F9p2n7jG",
             "appleLink": "https://music.apple.com/us/artist/the-temptations/127358",
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/13/d4/63/13d46333-98f9-a3ff-914d-8122d3d2222f/mza_4696673863932597495.png/380x380cc-60.jpg",
-            "videoID": "5ojOERy-mf8"
-        },
-        {
-            "name": "Aretha Franklin",
-            "spotifyLink": "spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok",
-            "appleLink": "https://music.apple.com/us/artist/aretha-franklin/98742",
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/92/ae/15/92ae15c5-5439-bb59-5bc6-36facdd5866f/mzl.kxajnatx.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Ray Charles",
-            "spotifyLink": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi",
-            "appleLink": "https://music.apple.com/us/artist/ray-charles/160926",
-            "imageURL": "https://travsd.files.wordpress.com/2020/09/sunset-jam-blues-tribute-to-ray-charles-lg.jpg"
-        },
-        {
-            "name": "Stevie Wonder",
-            "spotifyLink": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi",
-            "appleLink": "https://music.apple.com/us/artist/stevie-wonder/46726",
-            "imageURL": "https://cdn.britannica.com/66/103166-050-9423AD02/Stevie-Wonder.jpg"
-        },
-        {
-            "name": "Bill Withers",
-            "spotifyLink": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj",
-            "appleLink": "https://music.apple.com/us/artist/bill-withers/339834",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features114/v4/1c/32/77/1c327719-e6c2-253f-6f23-7e796b01ccd6/mza_13173907342355571012.png/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://www.udiscovermusic.com/wp-content/uploads/2018/04/Temptations-1000.jpg",
+            "videoID": "-"
         },
         {
             "name": "Al Green",
             "spotifyLink": "spotify:artist:3dkbV4qihUeMsqN4vBGg93",
             "appleLink": "https://music.apple.com/us/artist/al-green/99603",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features/v4/10/18/74/10187477-3b12-d870-4bf0-c573bdbe9c79/mzl.bvgferwf.jpg/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features/v4/10/18/74/10187477-3b12-d870-4bf0-c573bdbe9c79/mzl.bvgferwf.jpg/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
-            "name": "Luther Vandross",
-            "spotifyLink": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP",
-            "appleLink": "https://music.apple.com/us/artist/luther-vandross/23393",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/f1/2c/4f/f12c4f72-fd36-717c-7359-2cfdf2ce2515/mza_3906175645150627350.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Rick James",
-            "spotifyLink": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL",
-            "appleLink": "https://music.apple.com/us/artist/rick-james/101367",
-            "imageURL": "https://www.legacy.com/wp-content/uploads/2020/07/rick-james-getty-hero-1200x900.jpg"
+            "name": "The O'Jays",
+            "spotifyLink": "spotify:artist:38h03gA85YYPeDPd9ER9rT",
+            "appleLink": "https://music.apple.com/us/artist/the-ojays/67816",
+            "genre": "soul",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/a6/13/a3/a613a33c-2433-e2a0-6abd-43257da0ebe0/pr_source.png/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Curtis Mayfield",
-            "spotifyLink": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm",
+            "spotifyLink": "spotify:artist:2AV6XDIs32ofIJhkkDevjm",
             "appleLink": "https://music.apple.com/us/artist/curtis-mayfield/169711",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/07/c7/b4/07c7b4b2-5446-442e-cebd-0da17e460083/mzl.ippbmumx.jpg/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features/v4/14/43/db/1443db57-14da-89d5-4b7e-00e4991ee1bd/mzl.ippbmumx.jpg/380x380cc-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Stevie Wonder",
+            "spotifyLink": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi",
+            "appleLink": "https://music.apple.com/us/artist/stevie-wonder/46726",
+            "genre": "soul",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1d/8b/e1/1d8be13e-64e4-5a22-496b-49bd9348169d/00602537002382.rgb.jpg/1000x1000bb-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Biill Withers",
+            "spotifyLink": "spotify:artist:1ThoqLcyIYvZn7iWbj8fsj",
+            "appleLink": "https://music.apple.com/us/artist/bill-withers/339834",
+            "genre": "soul",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features113/v4/bf/8f/d6/bf8fd6c7-aa57-d9ca-2f70-1bfe83f2103c/mza_13173907342355571012.png/380x380cc-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Aretha Franklin",
+            "spotifyLink": "spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok",
+            "appleLink": "https://music.apple.com/us/artist/aretha-franklin/98742",
+            "genre": "soul",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/92/ae/15/92ae15c5-5439-bb59-5bc6-36facdd5866f/mzl.kxajnatx.jpg/380x380cc-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Luther Vandross",
+            "spotifyLink": "spotify:artist:19y5MFBH7gohEdGwKM7QsP",
+            "appleLink": "https://music.apple.com/us/artist/luther-vandross/23393",
+            "genre": "soul",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features118/v4/26/1c/42/261c42e0-6c57-420d-8ca2-de064c578a2d/mza_3906175645150627350.png/380x380cc-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Earth, Wind, and Fire",
+            "spotifyLink": "spotify:artist:4QQgXkCYTt3BlENzhyNETg",
+            "appleLink": "https://music.apple.com/us/artist/earth-wind-fire/290699",
+            "genre": "soul",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features128/v4/64/2b/48/642b4840-bbe9-7779-3525-efe47e4af72d/mza_917709224484712798.png/380x380cc-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Rick James",
+            "spotifyLink": "spotify:artist:0FrpdcVlJQqibaz5HfBUrL",
+            "appleLink": "https://music.apple.com/us/artist/rick-james/101367",
+            "genre": "soul",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/e2/f5/05/e2f505b9-8bd5-76bc-120b-857ffddee965/00602527921600.rgb.jpg/1000x1000bb-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Ray Charles",
+            "spotifyLink": "spotify:artist:1eYhYunlNJlDoQhtYBvPsi",
+            "appleLink": "https://music.apple.com/us/artist/ray-charles/160926",
+            "genre": "soul",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m02/d22/h22/s06.vuowopub.jpg/1000x1000bb-60.jpg",
+            "videoID": "-"
         }
       ]
     },
@@ -94,64 +120,84 @@
       "name": "Classic Soul",
       "artists": [
         {
-            "name": "James Brown",
-            "spotifyLink": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW",
-            "appleLink": "https://music.apple.com/us/artist/james-brown/117118",
-            "imageURL": "https://img.discogs.com/E6y236r-e4sKzvcM_oFDDwqY9-E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-12596-1565996731-5432.jpeg.jpg"
+            "name": "Bobby Womack",
+            "spotifyLink": "spotify:artist:0vqkz1b2qBkoYrGMj2CUWq",
+            "appleLink": "https://music.apple.com/us/artist/bobby-womack/503682",
+            "genre": "soul",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features4/v4/22/98/2e/22982e47-a237-c4df-e155-f1cf89f8302a/mzl.zpkhcxqn.jpg/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
-            "name": "Bobby Womack",
-            "spotifyLink": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq",
-            "appleLink": "https://music.apple.com/us/artist/bobby-womack/503682",
-            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/09/c4/28/09c4289f-8a64-22b8-e0ab-4e004dc5d699/mzl.zpkhcxqn.jpg/380x380cc-60.jpg"
+            "name": "James Brown",
+            "spotifyLink": "spotify:artist:7GaxyUddsPok8BuhxN6OUW",
+            "appleLink": "https://music.apple.com/us/artist/james-brown/117118",
+            "genre": "soul",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/51/f4/91/51f4910c-ed31-b02b-ecc6-01dc0d338e2b/pr_source.png/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Con Funk Shun",
-            "spotifyLink": "https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz",
+            "spotifyLink": "spotify:artist:2hUkfSXyuDfQbUeNOShRiz",
             "appleLink": "https://music.apple.com/us/artist/con-funk-shun/140233",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f9/fa/e5/f9fae5ae-074c-accb-4852-02aa51ae0c06/06UMGIM05244.rgb.jpg/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/cc/e2/e0/cce2e0ac-0284-5da8-8fba-b8e108559399/00731452032126.rgb.jpg/1000x1000bb-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Donny Hathaway",
-            "spotifyLink": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S",
+            "spotifyLink": "spotify:artist:0HU0U9kdXEHZVxUNbuQe8S",
             "appleLink": "https://music.apple.com/us/artist/donny-hathaway/259459",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/da/7f/32/da7f324d-6590-c1db-a424-2e226955d52f/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Johnnie Taylor",
-            "spotifyLink": "https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz",
-            "appleLink": "https://music.apple.com/us/artist/johnnie-taylor/867432",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/77/b7/b7/77b7b7d4-9ea3-2f2d-52d2-8b2fa238fc5a/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Otis Redding",
-            "spotifyLink": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
-            "appleLink": "https://music.apple.com/us/artist/otis-redding/189254",
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/1e/23/5a/1e235aff-d435-0c17-7ec8-0d95e6b3c48f/mzl.pcdfdtfi.jpg/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/67/60/1c/67601c60-8405-dd6e-c13a-2b9ed4784367/pr_source.png/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Roberta Flack",
-            "spotifyLink": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA",
+            "spotifyLink": "spotify:artist:0W498bDDNlJIrYMKXdpLHA",
             "appleLink": "https://music.apple.com/us/artist/roberta-flack/17992",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/de/5c/fe/de5cfe27-d24f-89e0-cad3-c528d3ba19a2/pr_source.png/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/d4/68/f8/d468f8df-be84-7516-0eeb-6457bb5e1256/pr_source.png/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
-            "name": "Sam Cooke",
-            "spotifyLink": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC",
-            "appleLink": "https://music.apple.com/us/artist/sam-cooke/1195231",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features114/v4/98/00/1a/98001a93-6516-8a36-b5a4-e1897c2bea99/pr_source.png/380x380cc-60.jpg"
+            "name": "Johnnie Taylor",
+            "spotifyLink": "spotify:artist:4OGuNAnRFWZOgOA2d51taz",
+            "appleLink": "https://music.apple.com/us/artist/johnnie-taylor/867432",
+            "genre": "soul",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Music/b3/a6/e4/mzi.qtxapzba.jpg/1000x1000bb-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Otis Redding",
+            "spotifyLink": "spotify:artist:60df5JBRRPcnSpsIMxxwQm",
+            "appleLink": "https://music.apple.com/us/artist/otis-redding/189254",
+            "genre": "soul",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features2/v4/a9/04/16/a9041618-5c4e-135a-a19e-1b68fc93c770/mzl.pcdfdtfi.jpg/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Smokey Robinson",
-            "spotifyLink": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8",
+            "spotifyLink": "spotify:artist:0h9smro0z3HqUbD94jotU8",
             "appleLink": "https://music.apple.com/us/artist/smokey-robinson/100849",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features114/v4/2b/d5/f5/2bd5f5e5-c6aa-10b9-63db-f4249fc01d4d/mza_4947921859719609.png/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2b/b2/20/2bb22018-6613-43ff-1184-48eb30696d30/00737463626828.rgb.jpg/1000x1000bb-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Sam Cooke",
+            "spotifyLink": "spotify:artist:6hnWRPzGGKiapVX1UCdEAC",
+            "appleLink": "https://music.apple.com/us/artist/sam-cooke/1195231",
+            "genre": "soul",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/8d/2b/10/8d2b10a1-4d68-933f-e0b7-f3a0718faffd/pr_source.png/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Anita Baker",
-            "spotifyLink": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG",
+            "spotifyLink": "spotify:artist:46CH1Gp8l8QVly8bpG9JFG",
             "appleLink": "https://music.apple.com/us/artist/anita-baker/162340",
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/53/37/d7/5337d75c-0c7a-ef93-0b69-ec0ff36b2edb/pr_source.png/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/09/12/7a/09127a70-2b84-6a9a-a3bd-19124ad809f6/pr_source.png/380x380cc-60.jpg",
+            "videoID": "-"
         }
       ]
     },
@@ -159,159 +205,225 @@
       "name": "The Definition of R&B",
       "artists": [
         {
-            "name": "Marvin Gaye",
-            "spotifyLink": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
-            "appleLink": "https://music.apple.com/us/artist/marvin-gaye/127329",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/13/2c/f7/132cf765-cc9c-cc21-8310-0ad451e3dec6/mza_8018811082061201081.png/380x380cc-60.jpg"
+            "name": "Gerald Levert",
+            "spotifyLink": "spotify:artist:7BLOa6FxCbMnowidkQfLIA",
+            "appleLink": "https://music.apple.com/us/artist/gerald-levert/153433",
+            "genre": "soul",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/6d/2f/1b/6d2f1b17-1f66-7608-ba64-23adf0f8c459/pr_source.png/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
-            "name": "Teddy Pendergrass",
-            "spotifyLink": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ",
-            "appleLink": "https://music.apple.com/us/artist/teddy-pendergrass/162183",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/d5/c6/d6/d5c6d627-05c5-52dd-daa5-d5c8f6de4e10/mzl.uafawnnt.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Mary J. Blige",
-            "spotifyLink": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr",
-            "appleLink": "https://music.apple.com/us/artist/mary-j-blige/1392280",
-            "imageURL": "https://deadline.com/wp-content/uploads/2019/12/1mjb-for-essencefest-promo_de28099andre-michael-e1575397139993.jpg"
-        },
-        {
-            "name": "The Isley Brothers",
-            "spotifyLink": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp",
+            "name": "Isley Brothers",
+            "spotifyLink": "spotify:artist:53QzNeFpzAaXYnrDBbDrIp",
             "appleLink": "https://music.apple.com/us/artist/the-isley-brothers/121582",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/0a/29/50/0a2950c0-c51c-15db-99f5-3a79cafaf965/mza_8739073613789605378.png/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features118/v4/ea/c4/dc/eac4dc3b-9797-1a56-d969-bcf683c62c54/mza_8739073613789605378.png/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Jill Scott",
-            "spotifyLink": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD",
+            "spotifyLink": "spotify:artist:6AVLthptCPhfrxlHadOBJD",
             "appleLink": "https://music.apple.com/us/artist/jill-scott/14867",
-            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/1d/f3/56/1df356d8-741e-d1e5-cf2c-f9d7331e2d17/mzl.laawbvmi.jpg/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features7/v4/30/93/46/3093464a-9278-f3b4-6666-155b1d2d9502/mzl.laawbvmi.jpg/380x380cc-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Marvin Gaye",
+            "spotifyLink": "spotify:artist:3koiLjNrgRTNbOwViDipeA",
+            "appleLink": "https://music.apple.com/us/artist/marvin-gaye/127329",
+            "genre": "soul",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/8c/3e/cc/8c3ecc5f-eb14-2c06-273c-7d3830b69e20/mza_8018811082061201081.png/380x380cc-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Teddy Pendergrass",
+            "spotifyLink": "spotify:artist:68kACMx6A3D2BYiO056MeQ",
+            "appleLink": "https://music.apple.com/us/artist/teddy-pendergrass/162183",
+            "genre": "soul",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features/v4/ce/10/b0/ce10b010-d8c7-ec75-7bfe-577fd5c1b227/mzl.uafawnnt.jpg/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Musiq Soulchild",
-            "spotifyLink": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8",
+            "spotifyLink": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8",
             "appleLink": "https://music.apple.com/us/artist/musiq-soulchild/81742435",
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/1a/c8/36/1ac83670-8381-ca09-3493-cadd99f180fb/mzl.bydvxniu.jpg/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features20/v4/3d/a4/e6/3da4e680-45c3-59d4-2822-a8cbf21d7f42/mzl.bydvxniu.jpg/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Tyrese",
-            "spotifyLink": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ",
+            "spotifyLink": "spotify:artist:08p7B5OtcUuVblvkQIlBhJ",
             "appleLink": "https://music.apple.com/us/artist/tyrese/179903",
-            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/36/57/de/3657deb1-81a6-de75-0849-d87ef39974a5/mzm.gaayxmqm.jpg/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features18/v4/2a/66/0e/2a660e33-c3b8-d8ba-2638-510e42df217e/mzm.gaayxmqm.jpg/380x380cc-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Mary J. Blige",
+            "spotifyLink": "spotify:artist:1XkoF8ryArs86LZvFOkbyr",
+            "appleLink": "https://music.apple.com/us/artist/mary-j-blige/1392280",
+            "genre": "soul",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dd/90/3a/dd903ac8-d651-5426-cd84-a2e090b36108/00602547109651.rgb.jpg/1000x1000bb-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Maxwell",
-            "spotifyLink": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j",
+            "spotifyLink": "spotify:artist:2AOt5htsbtyaHd5Eq3kl3j",
             "appleLink": "https://music.apple.com/us/artist/maxwell/486768",
-            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/46/5c/60/465c601d-8a55-a9bb-1edf-3ed16ef55dae/pr_source.png/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/2b/a6/5f/2ba65f34-98ee-f877-9d0a-9288ce6ef93d/pr_source.png/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Ledisi",
-            "spotifyLink": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA",
+            "spotifyLink": "spotify:artist:60ciIY5MouLc2Y9n34DJdA",
             "appleLink": "https://music.apple.com/us/artist/ledisi/3259268",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features114/v4/4b/54/c2/4b54c26c-d878-33df-d29f-e5b1ebaf5e9c/pr_source.png/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/02/48/3a/02483ace-324f-77cd-c91a-2741e194c2aa/pr_source.png/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Carl Thomas",
-            "spotifyLink": "https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U",
+            "spotifyLink": "spotify:artist:6I6t21SFbxZ7RbQgD5dN7U",
             "appleLink": "https://music.apple.com/us/artist/carl-thomas/5344648",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/51/be/b4/51beb49b-41e4-74b4-5e96-89aa3a2d9958/pr_source.png/380x380cc-60.jpg"
-        },
-        {
-            "name": "Gerald Levert",
-            "spotifyLink": "https://open.spotify.com/artist/7BLOa6FxCbMnowidkQfLIA",
-            "appleLink": "https://music.apple.com/us/artist/gerald-levert/153433",
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/3b/37/7c/3b377c77-3a2d-f399-462d-fd7f5ded68f8/pr_source.png/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/d2/88/c9d2884b-bca2-d623-bd75-72f3108aff64/pr_source.png/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "India.Arie",
-            "spotifyLink": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC",
+            "spotifyLink": "spotify:artist:7Gf3LSwa5hh8Cjo60WhVjC",
             "appleLink": "https://music.apple.com/us/artist/india-arie/92325",
-            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/57/4f/08/574f0872-d9ae-3671-dd33-e8488e246743/mzl.ixckkcgq.tif/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features/v4/e8/cc/91/e8cc9171-afa8-5af1-ca7f-4c85c86ed205/mzl.ixckkcgq.tif/380x380cc-60.jpg",
+            "videoID": "-"
         }
       ]
     },
     {
       "name": "90's Galore",
       "artists": [
-        {
+         {
             "name": "Keith Sweat",
-            "spotifyLink": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m",
+            "spotifyLink": "spotify:artist:2r09Inibex3C4ZNTUVSG3m",
             "appleLink": "https://music.apple.com/us/artist/keith-sweat/335680",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/fa/87/d8/fa87d8d5-d10d-9f5f-53ad-eadcb9c0dea0/mzl.qzratuvt.jpg/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features118/v4/6d/e6/3e/6de63e88-e99c-a132-b6ba-897e2a68dd96/mzl.qzratuvt.jpg/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Babyface",
-            "spotifyLink": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3",
+            "spotifyLink": "spotify:artist:3aVoqlJOYx31lH1gibGDt3",
             "appleLink": "https://music.apple.com/us/artist/babyface/12113",
-            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/eb/05/02/eb050283-49b4-d341-0221-148c804b0154/mzl.qqakmobw.jpg/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features5/v4/75/5e/aa/755eaa42-16af-c604-e222-ba77be92e12c/mzl.qqakmobw.jpg/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "SWV",
-            "spotifyLink": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa",
+            "spotifyLink": "spotify:artist:2NmK5FyrQ18HOPXq1UBzqa",
             "appleLink": "https://music.apple.com/us/artist/swv/17387",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features114/v4/bb/5c/f8/bb5cf8a5-fd57-3d44-9f3c-65f72420f7d9/mzl.pfcycrmc.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Joe",
-            "spotifyLink": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX",
-            "appleLink": "https://music.apple.com/us/artist/joe/1652221",
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/49/93/69/499369a2-eeb6-5ed8-276d-3df8eea6a468/pr_source.png/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features/v4/12/39/99/123999df-e8a7-1822-9ecf-6e331f14e4f2/mzl.pfcycrmc.jpg/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Dru Hill",
-            "spotifyLink": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT",
+            "spotifyLink": "spotify:artist:1255GTUKNCLCTvH9ctD4cT",
             "appleLink": "https://music.apple.com/us/artist/dru-hill/290638",
-            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/dd/17/c9/dd17c959-8a7d-cf8c-c99b-99cbaef23db7/mzl.fxerxzsz.jpg/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features62/v4/e5/77/1f/e5771f6c-b110-baf7-1630-df38617f39a1/mzl.fxerxzsz.jpg/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Ms. Lauryn Hill",
-            "spotifyLink": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl",
+            "spotifyLink": "spotify:artist:2Mu5NfyYm8n5iTomuKAEHl",
             "appleLink": "https://music.apple.com/us/artist/lauryn-hill/21434",
-            "imageURL": "https://www.thatericalper.com/wp-content/uploads/2018/04/maxresdefault-28.jpg"
+            "genre": "soul",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/5c/a4/84/5ca4841d-1ea9-2268-fd7c-fed9db1abf69/886446727189.jpg/1000x1000bb-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Joe",
+            "spotifyLink": "spotify:artist:3zTOe1BtyTkwNvYZOxXktX",
+            "appleLink": "https://music.apple.com/us/artist/joe/1652221",
+            "genre": "soul",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/0e/39/d1/0e39d15e-f4f6-39ab-d3ca-a88e04cd2094/pr_source.png/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Toni Braxton",
-            "spotifyLink": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe",
+            "spotifyLink": "spotify:artist:3X458ddYA2YcVWuVIGGOYe",
             "appleLink": "https://music.apple.com/us/artist/toni-braxton/15935",
-            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/cb/bf/d8/cbbfd8cb-b93e-9537-4b4e-86605492459a/mzl.ecupzugk.jpg/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features113/v4/c2/ef/74/c2ef74ac-8cbc-b9f6-d4f7-c0163be195bb/mzl.ecupzugk.jpg/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Brandy",
-            "spotifyLink": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee",
+            "spotifyLink": "spotify:artist:05oH07COxkXKIMt6mIPRee",
             "appleLink": "https://music.apple.com/us/artist/brandy/17416",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/02/2b/17/022b1702-0f40-ee92-b8bd-bf62c530aa39/mzl.kcitonrn.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Donell Jones",
-            "spotifyLink": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B",
-            "appleLink": "https://music.apple.com/us/artist/donell-jones/291924",
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/7b/ff/ba/7bffbaa8-4fcc-136d-8810-8bd56e61b7c6/mzl.xrqsfxbo.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Faith Evans",
-            "spotifyLink": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn",
-            "appleLink": "https://music.apple.com/us/artist/faith-evans/17437",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features114/v4/5e/9e/0c/5e9e0c70-991d-2626-4729-bc8d6e0db7c7/mzl.wybjweye.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Jodeci",
-            "spotifyLink": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK",
-            "appleLink": "https://music.apple.com/us/artist/jodeci/241399",
-            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/c7/9c/f5/c79cf57e-5edb-540a-f2c9-cb5c9cf62355/mzl.ogkleqpk.jpg/380x380cc-60.jpg"
-        },
-        {
-            "name": "Jon B.",
-            "spotifyLink": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX",
-            "appleLink": "https://music.apple.com/us/artist/jon-b/290405",
-            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/be/f2/bc/bef2bc89-28e2-7e1f-e459-f7ac8eb680af/pr_source.png/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features123/v4/9e/26/81/9e268100-322b-faf3-1d14-79a9294cd89e/mzl.kcitonrn.jpg/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
             "name": "Jaheim",
-            "spotifyLink": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3",
+            "spotifyLink": "spotify:artist:4sbB4Yy6Qig51pKCIKSLw3",
             "appleLink": "https://music.apple.com/us/artist/jaheim/147919",
-            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/1f/e8/a0/1fe8a033-5d8e-093c-f506-be7d493cc170/mzl.ufzezbob.jpg/380x380cc-60.jpg"
+            "genre": "soul",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features2/v4/f5/fc/10/f5fc1055-8c7a-cf68-0be9-fbad8cedbe8d/mzl.ufzezbob.jpg/380x380cc-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Donnell Jones",
+            "spotifyLink": "spotify:artist:5KNqYrivNgVCHBssEUSu5B",
+            "appleLink": "https://music.apple.com/us/artist/donell-jones/291924",
+            "genre": "soul",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features6/v4/4c/03/d5/4c03d55c-65b7-9a10-c48e-f2c3a4347b2d/mzl.xrqsfxbo.jpg/380x380cc-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Calvin Ricardson",
+            "spotifyLink": "spotify:artist:5lckATQU3N7Ralsw3VfnRb",
+            "appleLink": "https://music.apple.com/us/artist/calvin-richardson/100325",
+            "genre": "soul",
+            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Features128/v4/74/8f/3b/748f3bce-4b72-e72d-478d-04911eab4482/mzl.hhuqdgbu.jpg/380x380cc-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "EnVogue",
+            "spotifyLink": "spotify:artist:7H9KpRVzr5LbMC9mdBRHo5",
+            "appleLink": "https://music.apple.com/us/artist/en-vogue/335508",
+            "genre": "soul",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Features117/v4/6a/19/be/6a19be6d-0943-d0ea-cfa9-6c036fdec99f/mzl.pivkiiay.jpg/380x380cc-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Faith Evans",
+            "spotifyLink": "spotify:artist:5NDMothbpdpq2xHqSjrrWn",
+            "appleLink": "https://music.apple.com/us/artist/faith-evans/17437",
+            "genre": "soul",
+            "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Features111/v4/3c/e0/22/3ce02258-e051-3f46-8a98-dd08b7a808d6/mzl.wybjweye.jpg/380x380cc-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Jon B.",
+            "spotifyLink": "spotify:artist:3SRJWVa6lZnqRHOyAHmDrX",
+            "appleLink": "https://music.apple.com/us/artist/jon-b/290405",
+            "genre": "soul",
+            "imageURL": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/ac/5b/98/ac5b98fa-4447-306d-d3cc-44f0a6daad6a/pr_source.png/380x380cc-60.jpg",
+            "videoID": "-"
+        },
+        {
+            "name": "Jodeci",
+            "spotifyLink": "spotify:artist:1eNkUXHPaXyuyC8NAgzykK",
+            "appleLink": "https://music.apple.com/us/artist/jodeci/241399",
+            "genre": "soul",
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Features3/v4/02/27/72/022772e1-ae1c-9f25-d317-b261aad3c969/mzl.ogkleqpk.jpg/380x380cc-60.jpg",
+            "videoID": "-"
         }
       ]
     },
@@ -319,46 +431,52 @@
       "name": "A Few Favorites",
       "artists": [
         {
-          "name": "The S.O.S. Band",
-          "spotifyLink": "spotify:artist:6pXCjxMOBcWtvULYkFPVW6",
-          "appleLink": "https://music.apple.com/us/artist/the-s-o-s-band/14868524",
-          "genre": "soul",
-          "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/9c/0f/ba/9c0fbab7-0191-cbb0-a473-5dfadca1e4c5/00602527598529.rgb.jpg/1000x1000bb-60.jpg"
+            "name": "The S.O.S. Band",
+            "spotifyLink": "spotify:artist:6pXCjxMOBcWtvULYkFPVW6",
+            "appleLink": "https://music.apple.com/us/artist/the-s-o-s-band/14868524",
+            "genre": "soul",
+            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/9c/0f/ba/9c0fbab7-0191-cbb0-a473-5dfadca1e4c5/00602527598529.rgb.jpg/1000x1000bb-60.jpg",
+            "videoID": "-"
         },
         {
-          "name": "Rene & Angela",
-          "spotifyLink": "spotify:artist:01Wck2m10xhdxUrLaMq60y",
-          "appleLink": "https://music.apple.com/us/artist/ren%C3%A9-angela/15039538",
-          "genre": "soul",
-          "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Music4/v4/20/18/e7/2018e7db-f944-d0f3-e2ec-d7272a6a0c55/00724353729950.jpg/380x380cc-60.jpg"
+            "name": "Rene & Angela",
+            "spotifyLink": "spotify:artist:01Wck2m10xhdxUrLaMq60y",
+            "appleLink": "https://music.apple.com/us/artist/ren%C3%A9-angela/15039538",
+            "genre": "soul",
+            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Music4/v4/20/18/e7/2018e7db-f944-d0f3-e2ec-d7272a6a0c55/00724353729950.jpg/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
-          "name": "Chaka Khan",
-          "spotifyLink": "spotify:artist:6mQfAAqZGBzIfrmlZCeaYT",
-          "appleLink": "https://music.apple.com/us/artist/chaka-khan/17402",
-          "genre": "soul",
-          "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/2c/a5/6a/2ca56a73-6464-c325-d903-906d44fe74f4/pr_source.png/380x380cc-60.jpg"
+            "name": "Chaka Khan",
+            "spotifyLink": "spotify:artist:6mQfAAqZGBzIfrmlZCeaYT",
+            "appleLink": "https://music.apple.com/us/artist/chaka-khan/17402",
+            "genre": "soul",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/2c/a5/6a/2ca56a73-6464-c325-d903-906d44fe74f4/pr_source.png/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
-          "name": "DeBarge",
-          "spotifyLink": "spotify:artist:6is2U7I1jlI8PjxNZOHIMV",
-          "appleLink": "https://music.apple.com/us/artist/debarge/103947",
-          "genre": "soul",
-          "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features71/v4/97/f1/06/97f106da-48e0-c750-d326-dc2bde1418d4/mzl.pjnxetuj.jpg/380x380cc-60.jpg"
+            "name": "DeBarge",
+            "spotifyLink": "spotify:artist:6is2U7I1jlI8PjxNZOHIMV",
+            "appleLink": "https://music.apple.com/us/artist/debarge/103947",
+            "genre": "soul",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Features71/v4/97/f1/06/97f106da-48e0-c750-d326-dc2bde1418d4/mzl.pjnxetuj.jpg/380x380cc-60.jpg",
+            "videoID": "-"
         },
         {
-          "name": "Whitney Houston",
-          "spotifyLink": "spotify:artist:6XpaIBNiVzIetEPCWDvAFP",
-          "appleLink": "https://music.apple.com/us/artist/whitney-houston/13952",
-          "genre": "soul",
-          "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Music5/v4/e3/4d/55/e34d550a-8a87-cde2-c27b-3bca3b1bd969/dj.hthdmusj.jpg/1000x1000bb-60.jpg"
+            "name": "Whitney Houston",
+            "spotifyLink": "spotify:artist:6XpaIBNiVzIetEPCWDvAFP",
+            "appleLink": "https://music.apple.com/us/artist/whitney-houston/13952",
+            "genre": "soul",
+            "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Music5/v4/e3/4d/55/e34d550a-8a87-cde2-c27b-3bca3b1bd969/dj.hthdmusj.jpg/1000x1000bb-60.jpg",
+            "videoID": "-"
         },
         {
-          "name": "H-Town",
-          "spotifyLink": "spotify:artist:21gGD9dUby5ls0belA1wqZ",
-          "appleLink": "https://music.apple.com/us/artist/h-town/169489",
-          "genre": "soul",
-          "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/59/c2/37/59c23774-e571-e23f-0d80-62b6c7b8b608/pr_source.png/380x380cc-60.jpg"
+            "name": "H-Town",
+            "spotifyLink": "spotify:artist:21gGD9dUby5ls0belA1wqZ",
+            "appleLink": "https://music.apple.com/us/artist/h-town/169489",
+            "genre": "soul",
+            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/59/c2/37/59c23774-e571-e23f-0d80-62b6c7b8b608/pr_source.png/380x380cc-60.jpg",
+            "videoID": "-"
         }
       ]
     }
