@@ -5,21 +5,24 @@
             "description": "Jill Scott",
             "spotifyLink": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD",
             "appleLink": "https://music.apple.com/us/artist/jill-scott/14867",
-            "imageURL": "https://pagesix.com/wp-content/uploads/sites/3/2020/07/jill-scott.jpg?quality=80&strip=all"
+            "imageURL": "https://pagesix.com/wp-content/uploads/sites/3/2020/07/jill-scott.jpg?quality=80&strip=all",
+            "videoID": "-"
         },
         {
             "name": "Album Spotlight \n2000",
             "description": "Aijuswanaseing",
             "spotifyLink": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c?si=PbsuPRguQBCbblo__hOyfA",
             "appleLink": "https://music.apple.com/us/album/aijuswanaseing/1440921030",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0061/6484/0518/products/musiq_-_aijuswanaseing_2lp_for_25.98_1024x.jpg?v=1541006476"
+            "imageURL": "https://cdn.shopify.com/s/files/1/0061/6484/0518/products/musiq_-_aijuswanaseing_2lp_for_25.98_1024x.jpg?v=1541006476",
+            "videoID": "-"
         },
         {
             "name": "Movie Soundtrack",
             "description": "Poetic Justice \n1993",
             "spotifyLink": "https://open.spotify.com/playlist/5PhIfqwzfPM4C1tipK0pqD",
             "appleLink": "https://music.apple.com/us/album/poetic-justice-music-from-the-motion-picture/192999606",
-            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Music/1d/dc/52/mzi.ywkkwlpj.jpg/600x600bb.webp"
+            "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Music/1d/dc/52/mzi.ywkkwlpj.jpg/600x600bb.webp",
+            "videoID": "-"
         }
   ],
   "categories": [
