@@ -1,0 +1,23 @@
+{
+   "highlights": [
+      {
+         "quote": "hello",
+         "author": "me"
+      }
+   ],
+   "categories": [
+      {
+         "title": "Essentials",
+         "quotes": [
+            {
+               "quote": "hello",
+               "author": "me"
+            },
+             {
+               "quote": "hello",
+               "author": "me"
+            }
+         ]
+      }
+   ]
+}
