@@ -19,7 +19,22 @@
    ],
    "categories": [
       {
-         "title": "Essentials",
+         "title": "All Quotes",
+         "quotes": [
+            {
+               "quote": "Just because someone carries it well doesn’t mean it isn’t heavy.",
+               "author": "Terence"
+            },
+             {
+               "quote": "Taking a break is also a part of putting in work. Rest is crucial for preparation and recovery.",
+               "author": "Terence"
+            },
+            {
+               "quote": "When you finally begin to receive things you’ve always wanted, you understand why it was important for you to wait. Some things require a certain level of maturity and experience to be fully appreciated.",
+               "author": "Terence"
+            }
+         ],
+         "title": "Affirmations",
          "quotes": [
             {
                "quote": "Just because someone carries it well doesn’t mean it isn’t heavy.",
