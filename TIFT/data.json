@@ -18,6 +18,10 @@
          "title": "TIFT Quotes",
          "quotes": [
             {
+               "quote": "Happiness is found in your heart, not in your circumstances.",
+               "author": ""
+            },
+            {
                "quote": "God had a purpose for you before anyone had an opinion about you.",
                "author": ""
             },
@@ -359,6 +363,10 @@
       {
          "title": "Motivational",
          "quotes": [
+            {
+               "quote": "Happiness is found in your heart, not in your circumstances.",
+               "author": ""
+            },
              {
                "quote": "Sometimes it takes losing what you’re settling for to be reminded of what you really deserve.",
                "author": ""
