@@ -18,6 +18,10 @@
          "title": "TIFT Quotes",
          "quotes": [
             {
+               "quote": "See the success of others as inspiration, not fuel for jealousy.",
+               "author": ""
+            },
+            {
                "quote": "Happiness is found in your heart, not in your circumstances.",
                "author": ""
             },
@@ -87,10 +91,6 @@
             },
             {
                "quote": "Being wanted feeds the ego. Being valued feeds the soul.",
-               "author": "Terence"
-            },
-            {
-               "quote": "They say ‘nice guys finish last’. I guess it’s true, because although I’ve done a lot, I’m far from being done! This isn’t even the peak of my potential yet.",
                "author": "Terence"
             },
             {
@@ -363,6 +363,10 @@
       {
          "title": "Motivational",
          "quotes": [
+             {
+               "quote": "See the success of others as inspiration, not fuel for jealousy.",
+               "author": ""
+            },
             {
                "quote": "Happiness is found in your heart, not in your circumstances.",
                "author": ""
