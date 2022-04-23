@@ -15,8 +15,12 @@
    ],
    "categories": [
       {
-         "title": "TIFT Quotes",
+         "title": "TIFT Quotes", 
          "quotes": [
+            {
+               "quote": "Nobody can trigger your emotions without your permission.  Learn to be calm and centered no matter what's happening outside of you.",
+               "author": ""
+            },
             {
                "quote": "Man gives you the award but God gives you the reward.",
                "author": "Denzel Washington"
