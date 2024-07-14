@@ -27,7 +27,7 @@
       "Events": "https://www.msstate.edu/events",
       "News": "https://www.msstate.edu/newsroom",
       "Sports": "https://hailstate.com",
-      "Student": "https://cas.its.msstate.edu/cas/login?",
+      "Student": "https://cas.its.msstate.edu/cas/login?service=http%3A//my.msstate.edu/casservice%3Fdestination%3D/",
       "Emergency": "https://www.emergency.msstate.edu",
       "edu": "https://www.msstate.edu",
       "Bookstore": "https://msstate.bncollege.com",
