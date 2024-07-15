@@ -66,6 +66,23 @@
       "edu": "https://www.arizona.edu",
       "Bookstore": "https://shop.arizona.edu/adoption-search",
       "Buildings": "Main Library\nScience-Engineering Library\nHealth Sciences Library\nFine Arts Library\nLaw Library\nArchitecture Building\nHarvill Building\nMcClelland Hall\nEller College of Management\nCesar E. Chavez Building\nEnvironmental and Natural Resources Building\nBiological Sciences West\nBiological Sciences East\nPsychology Building\nModern Languages Building\nCommunication Building\nSocial Sciences Building\nPhysics and Atmospheric Sciences\nKuiper Space Sciences\nSteward Observatory\nAdministration Building\nOld Main\nUniversity Services Building\nArizona-Sonora Hall\nCoronado Hall\nCoconino Hall\nApache-Santa Cruz Hall\nHopi Hall\nManzanita-Mohave Hall\nPima Hall\nVilla Del Puente\nLikins Hall\nÁrbol de la Vida\nArizona Stadium\nMcKale Memorial Center\nHillenbrand Aquatic Center\nHillenbrand Stadium (Softball)\nSancet Stadium (Baseball)\nRobson Tennis Center\nHi Corbett Field\nBear Down Gym\nStudent Union Memorial Center (SUMC) Dining\nHighland Market\nPark Avenue Market\nCactus Grill\nCore\nPangea\nSabor\nBioscience Research Laboratories\nChemistry Building\nGould-Simpson Building\nShantz Building\nMarley Building\nVeterinary Science and Microbiology Building\nCentennial Hall (Performing Arts)\nGallagher Theater\nStudent Recreation Center\nHealth Services Building\nCampus Health Service\nStudent Success District\nUniversity Bookstore\nMuseum of Art\nArizona State Museum"
+    },
+    {
+      "Name": "Arkansas State University",
+      "Theme": "d02030",
+      "Logo": "https://www.astate.edu/dotAsset/77d4c5d2-0fc0-4535-8ea6-5e1009050298.png",
+      "Center": "35.843110, -90.675164",
+      "Span": 2.15,
+      "Academic Calendar": "https://calendar.astate.edu/AcademicCalendar/all",
+      "Dining": "https://astate.sodexomyway.com/en-us/",
+      "Events": "https://calendar.astate.edu",
+      "News": "https://www.astate.edu/a/asunews/",
+      "Sports": "https://astateredwolves.com",
+      "Student": "https://sso2.astate.edu/authenticationendpoint/login.do?RelayState=https%3A%2F%2Fmy.astate.edu&commonAuthCallerPath=%2Fsamlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=cd955203-aa50-4155-8d8c-13fa21f568bb&relyingParty=https%3A%2F%2Fmy.astate.edu%2Fsaml%2Fmetadata&type=samlsso&sp=my.AState-Vapor-Prod+-+New&isSaaSApp=false&authenticators=BasicAuthenticator%3ALOCAL",
+      "Emergency": "https://www.astate.edu/a/police/",
+      "edu": "https://www.astate.edu",
+      "Bookstore": "https://astatebookstore.com",
+      "Buildings": "Dean B. Ellis Library\nComputer Science & Math\nEducation & Communications Building\nHumanities & Social Sciences Building\nLab Sciences (East & West)\nNeil Griffin College of Business\nFine Arts Center\nCollege of Nursing and Health Professions\nAgriculture Building\nPavilion\nCollege of Engineering\nAdministration Building\nCooper Alumni Center\nKays Foundation\nFinance & Administration\nFacilities Management\nStudent Union\nAdmissions\nAcansa Dining Hall\nThe Edge\nThe Den\nArkansas Biosciences Institute\nEnvironmental Research, Safety & Training\nCenter for Excellence in Education\nCurt Huckaby Field (Rugby)\nFirst National Bank Arena\nFootball Centennial Bank Stadium\nKell Field/Tomlinson Stadium (Baseball)\nHPESS (PE Complex)\nConvocation Center\nCollegiate Park Apartments (multiple buildings)\nLiving-Learning Community Buildings (1-6)\nNorthpark Quads Buildings (1-5)\nKays Hall\nUniversity Hall\nHonors Living-Learning Community\nRed Wolf Den Apartments\nArkansas Hall\nVillage Apartments\nInformation & Technology Services\nDelta Center for Economic Development\nFarmers Market\nInternational Programs\nStudent Health Center\nMuseum\nHonors College\nMilitary Science, ROTC\nCareer Services\nFowler Center\nJudd Hill Center\nEquine Center and Garry Meadows Arena\nFarm Animal Science Complex\nFowler Center (Performing Arts)\nWilson Advising Center\nStudent Recreation Center\nMail Services\nROTC Building\nROTC Storage"
     }
   ]
 }
