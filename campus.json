@@ -188,7 +188,7 @@
     },
     {
       "Name": "Jackson State University",
-      "Theme": "153353",
+      "Theme": 153353,
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jackson_State_University_logo.png",
       "Center": "32.296820, -90.206925",
       "Span": 0.38,
@@ -219,6 +219,23 @@
       "edu": "https://www.memphis.edu/",
       "Bookstore": "https://memphis.bncollege.com",
       "Buildings": "Ned R. McWherter Library\nArt and Communication Building\nBall Hall\nBioinformatics Building\nCampus School\nCommunication and Fine Arts Building\nDunn Hall\nEngineering Administration Building\nEngineering Science Building\nEngineering Technology Building\nFogelman College of Business & Economics Administration Building\nFogelman College of Business & Economics Classroom Building\nHerzog Building\nLife Sciences Building\nMeeman Journalism Building\nMitchell Hall\nMynders Hall\nPatterson Hall\nPsychology Building\nScates Hall\nSmith Chemistry Building\nTheatre Building\nTigrett Hall\nVarnell-Jones Hall\nWilder Tower\nAdministration Building\nAlumni Center\nBrister Hall\nJones Hall\nJohnson Hall\nTiger Den\nHighland Dining Hall\nFedEx Institute of Technology\nBarbara K. Lipman Early Childhood School and Research Institute\nElma Neal Roane Fieldhouse\nHardaway Hall of Fame\nMurphy Athletic Complex\nCarpenter Complex\nCentennial Place\nLiving Learning Residence Complex\nRawls Hall\nRichardson Towers\nSouth Hall\nGraduate and Family Housing\nHealth Center (Hudson)\nInformation Hub\nInternational Center\nHoliday Inn\nHonors Hall\nRay L. Herzog Building\nKemmons Wilson School of Hospitality & Resort Management"
+    },
+    {
+      "Name": "Louisiana State University",
+      "Theme": "4e1680",
+      "Logo": "https://studyarchitecture.com/wp-content/uploads/lsu-logo-1-2.png",
+      "Center": "30.413084, -91.179925",
+      "Span": 3.1,
+      "Academic Calendar": "https://www.lsu.edu/registrar/academics/academic-calendars/index.php",
+      "Dining": "https://dineoncampus.com/lsu/",
+      "Events": "https://calendar.lsu.edu",
+      "News": "https://www.lsu.edu/mediacenter/news/index.php",
+      "Sports": "https://lsusports.net",
+      "Student": "https://sso.paws.lsu.edu/login?service=https%3A%2F%2Fwebauth.shib.lsu.edu%2Fidp%2FAuthn%2FExternal%3Fconversation%3De1s1&entityId=https%3A%2F%2Fmyqlidp.lsu.edu",
+      "Emergency": "https://www.lsu.edu/staysafe/index.php",
+      "edu": "https://www.lsu.edu",
+      "Bookstore": "https://lsu.bncollege.com",
+      "Buildings": "Agricultural Chemistry Building\nAllen Hall\nArt Building\nAtkinson Hall\nAudubon Hall\nBusiness Education Complex\nCoates Hall (Charles E. Coates Hall)\nDalrymple Memorial Building\nElectrical Engineering Building\nEnergy, Coast & Environment Building\nHowe-Russell Kniffen Geosciences Building\nHimes Hall\nHill Memorial Library\nHodges Hall\nHowe-Russell Kniffen Geosciences Building\nHuman Ecology Building\nJournalism Building\nJulian T. White Hall\nLSU Law Center\nMiddleton Library\nPatrick F. Taylor Hall\nPeabody Hall\nPrescott Hall\nRenewable Natural Resources Building\nStubbs Hall\nTureaud Hall\nVeterinary Medicine Building\nWoodin Hall\nLSU Student Union\nLSU Law Center\nCenter for Wetland Resources\nLSU Coastal Studies Institute\nLouisiana Animal Disease Diagnostic Laboratory\nLouisiana Digital Media Center\nLouisiana Emerging Technologies Center\nLSU Center for River Studies\nLSU River Modeling Center\nTiger Stadium\nPete Maravich Assembly Center\nAlex Box Stadium\nLSU Natatorium\nHuey P. Long Field House\nTiger Band Hall\nEast Campus Apartments\nWest Campus Apartments\nEvangeline Hall\nKirby Smith Hall\nVarious halls within Residential College One\n459 Commons\nThe 5\nDairy Store\nHill Memorial Library\nMiddleton Library\nLSU Museum of Art\nLSU Rural Life Museum\nLod Cook Alumni Center\nLod and Carole Cook Conference Center\nLSU AgCenter Botanic Gardens\nShaw Center for the Arts\nLSU War Memorial\nMemorial Tower\nLSU Student Recreation Complex\nLSU Indian Mounds\nLSU Parade Ground\nMike the Tiger's Habitat\nClarence L. Barney, Jr. African American Cultural Center\nGlobal Community Center\nLouisiana Transportation Research Center\nLSU Early Childhood Education Laboratory Preschool\nLSU Greek Theatre\nLSU Historic District\nLSU Memorial Oak Grove\nLSU Memorial Tower\nLSU Mike the Tiger's Habitat\nLSU Mississippi River Levee Bike Path and Overlook\nLSU Visitor Registration & Information Center\nWilliam R. Dodson Auditorium"
     }
   ]
 }
