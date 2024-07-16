@@ -188,7 +188,7 @@
     },
     {
       "Name": "Jackson State University",
-      "Theme": "153353",
+      "Theme": 153353,
       "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jackson_State_University_logo.png",
       "Center": "32.296820, -90.206925",
       "Span": 0.38,
@@ -202,6 +202,23 @@
       "edu": "https://www.jsums.edu",
       "Bookstore": "https://www.bkstr.com/jacksonstatestore/home",
       "Buildings": "Ayer Hall\ne-City Center\nZ.T. Hubert/Human Resources\nSally Barksdale/MLI\nOld Industrial Arts Building\nJones-Sampson Hall\nRose E. McCoy Auditorium\nB.F. Roberts Hall\nE.E. Just Hall of Science\nH.T. Sampson Library\nW.D. Blackburn Language Arts\nInternational Programs\nROTC\nAlumni Affairs\nCSET\nAlcohol and Drug Studies\nE.T. Stewart Residence Hall\nPlant Science Building/Garden House\nJ.L. Reddix Building\nAlexander Residence Hall\nJohn W. Dixon Residence Hall\nJ.Y. Woodard Building\nT.B. Ellis Building\nPresident’s House\nJoseph H. Jackson Building\nH.P. Jacobs Administration Tower\nF.D. Hall Center of Music\nHeritage Dining Hall\nJohn A. Peoples Science Building\nLee E. Williams Athletics & Assembly Center\nMcAllister-Whiteside Residence Hall\nT.B. Ellis Annex\nFacilities and Construction Management\nUniversity ID Center\nDollye M.E. Robinson Building\nTransitional Residence Hall\nStructures Lab\nCollege of Business\nAthletic Support Facility\nUniversity Health Center\nDepartment of Public Safety\nWalter Payton Recreation & Wellness Center\nTransitional Hall Laundry\nCampbell College Residence Suites\nCampbell College Residence Suites\nSchool of Engineering\nJSU Student Center/Welcome Center\nTennis Court Facility\nUndergraduate Recruitment\nJohnson Hall\nCouncil of Federated Organizations (COFO) Building\nTransportation & Mobility Center\nThrash R&D/Universities Center\nOne University Place of Jackson\nJSU Downtown /101 Capitol Centre\nUniversity Pointe Residence\nSheppard Warehouse/Central Receiving\nMS Veterans Memorial Stadium"
+    },
+    {
+      "Name": "University of Memphis",
+      "Theme": "0d3182",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/95/The_University_of_Memphis_logo.png",
+      "Center": "35.118741, -89.937320",
+      "Span": 1.24,
+      "Academic Calendar": "https://www.memphis.edu/registrar/calendars/",
+      "Dining": "https://www.memphis.edu/campuscard/dining-locations.php",
+      "Events": "https://www.memphis.edu/calendar/index.php",
+      "News": "https://www.memphis.edu/mediaroom/index.php",
+      "Sports": "https://www.memphis.edu/athletics/index.php",
+      "Student": "https://sso.memphis.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "Emergency": "https://www.memphis.edu/police/staff.php",
+      "edu": "https://www.memphis.edu/",
+      "Bookstore": "https://memphis.bncollege.com",
+      "Buildings": "Ned R. McWherter Library\nArt and Communication Building\nBall Hall\nBioinformatics Building\nCampus School\nCommunication and Fine Arts Building\nDunn Hall\nEngineering Administration Building\nEngineering Science Building\nEngineering Technology Building\nFogelman College of Business & Economics Administration Building\nFogelman College of Business & Economics Classroom Building\nHerzog Building\nLife Sciences Building\nMeeman Journalism Building\nMitchell Hall\nMynders Hall\nPatterson Hall\nPsychology Building\nScates Hall\nSmith Chemistry Building\nTheatre Building\nTigrett Hall\nVarnell-Jones Hall\nWilder Tower\nAdministration Building\nAlumni Center\nBrister Hall\nJones Hall\nJohnson Hall\nTiger Den\nHighland Dining Hall\nFedEx Institute of Technology\nBarbara K. Lipman Early Childhood School and Research Institute\nElma Neal Roane Fieldhouse\nHardaway Hall of Fame\nMurphy Athletic Complex\nCarpenter Complex\nCentennial Place\nLiving Learning Residence Complex\nRawls Hall\nRichardson Towers\nSouth Hall\nGraduate and Family Housing\nHealth Center (Hudson)\nInformation Hub\nInternational Center\nHoliday Inn\nHonors Hall\nRay L. Herzog Building\nKemmons Wilson School of Hospitality & Resort Management"
     }
   ]
 }
