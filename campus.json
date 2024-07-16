@@ -253,6 +253,23 @@
       "edu": "https://www.uga.edu",
       "Bookstore": "https://www.bkstr.com/georgiastore/home",
       "Buildings": "William Russell Pullen Library\nBoyd Graduate Studies Research Center\nAderhold Hall\nBiological Sciences Building\nBoyd Graduate Studies Research Center\nBrooks Hall\nCaldwell Hall\nChemistry Building\nClark Howell Hall\nCorrell Hall\nCoverdell Center for Biomedical and Health Sciences\nDawson Hall\nFine Arts Building\nGeography-Geology Building\nLamar Dodd School of Art\nMiller Learning Center\nMiller Plant Sciences Building\nNew College Building\nPharmacy South Building\nPsychology Building\nRusk Hall\nRussell Hall\nSanford Hall\nSoule Hall\nTate Student Center\nTerry College of Business\nTucker Hall\nWilson Hall\nAdministration Building\nHolmes-Hunter Academic Building\nDean Rusk Hall\nBolton Dining Commons\nOglethorpe Dining Commons\nSnelling Dining Commons\nComplex Carbohydrate Research Center\nCoverdell Microscopy Facility\nGeorgia Genomics Facility\nInstitute of Bioinformatics\nPlant Genome Mapping Laboratory\nButts-Mehre Heritage Hall\nStegeman Coliseum\nSanford Stadium\nBrumby Hall\nCreswell Hall\nEast Campus Village\nHill Community\nMary Lyndon Hall\nMyers Hall\nOglethorpe House\nPayne Hall\nReed Hall\nRutherford Hall\nUniversity Village\nUGA Chapel\nUGA Visitor Center\nState Botanical Garden of Georgia\nGeorgia Museum of Art\n"
+    },
+    {
+      "Name": "University or Arkansas",
+      "Theme": "a51e36",
+      "Logo": "https://brand.uark.edu/_resources/images/UA_Logo.png",
+      "Center": "36.068250, -94.174764",
+      "Span": 0.03,
+      "Academic Calendar": "https://registrar.uark.edu/registration/schedule-of-classes.php",
+      "Dining": "https://housing.uark.edu/live-here/dining-information-and-rates.php",
+      "Events": "https://calendars.uark.edu",
+      "News": "https://news.uark.edu",
+      "Sports": "https://arkansasrazorbacks.com",
+      "Student": "https://login.microsoftonline.com/79c742c4-e61c-4fa5-be89-a3cb566a80d1/oauth2/authorize?response_type=id_token&scope=openid&client_id=96204456-e9e5-4538-bf3e-db61ffb7e540&state=3Z8i0O3utNx5vYuWP7wMtsiSQWY&redirect_uri=https%3A%2F%2Fcsprd.uark.edu%2Fsecure%2F&nonce=D2jNeS4-0UY1gUxfD450_fIrbCPg_jQJQHXvcgis_fM&response_mode=form_post",
+      "Emergency": "https://safety.uark.edu",
+      "edu": "https://www.uark.edu",
+      "Bookstore": "https://uark.bncollege.com",
+      "Buildings": "Old Main\nBell Engineering Center\nMullins Library\nGearhart Hall\nWillard J. Walker Hall\nVol Walker Hall (Fay Jones School of Architecture and Design)\nChemistry Building\nPhysics Building\nJ.B. Hunt Transport Services Center for Academic Excellence\nAgricultural, Food, and Life Sciences Building\nDale Bumpers College of Agricultural, Food and Life Sciences\nWalton College of Business\nFine Arts Center\nKimpel Hall\nHillside Auditorium\nHarmon Avenue Parking Garage\nAdministration Building\nDavid W. Mullins Library\nArkansas Union\nFounders Hall\nPomfret Hall\nHotz Honors Hall\nMaple Hill East & West\nFutrall Hall\nNorthwest Quad\nDonald W. Reynolds Razorback Stadium\nBud Walton Arena\nJohn McDonnell Field\nDavid W. Mullins Library\nPryor Center for Arkansas Oral and Visual History"
     }
   ]
 }
