@@ -95,7 +95,7 @@
       "Dining": "https://www.aamu.edu/campus-life/dining/index.html",
       "Events": "https://www.aamu.edu/about/inside-aamu/events.html?tag=&page=1",
       "News": "https://www.aamu.edu/about/inside-aamu/news/?tag=&page=1",
-      "Sports": "https://www.aamu.edu/athletics/index.html",
+      "Sports": "https://aamusports.com",
       "Student": "https://www.aamu.edu/myaamu/index.html",
       "Emergency": "https://www.aamu.edu/campus-life/campus-safety/emergency-information-procedures.html",
       "edu": "https://www.aamu.edu/index-home.html",
@@ -180,7 +180,7 @@
       "Dining": "https://campusdining.auburn.edu",
       "Events": "https://calendar.auburn.edu",
       "News": "https://ocm.auburn.edu/newsroom/",
-      "Sports": "http://www.auburntigers.com/",
+      "Sports": "https://auburntigers.com/",
       "Student": "https://authenticate.auburn.edu/cas/login?service=https%3A%2F%2Fauaccess.auburn.edu%2Fc%2Fportal%2Flogin",
       "Emergency": "https://auburn.edu/administration/campus-safety/emergency/index.php",
       "edu": "https://www.auburn.edu",
@@ -288,6 +288,23 @@
       "edu": "https://www.uchicago.edu",
       "Bookstore": "https://www.uchicago.edu/students/bookstores",
       "Buildings": "Abbott Memorial Hall\nAccelerator Building\nAlbert Merrit Billings Hospital\nAlumni House\nAnatomy Building\nArmour Clinical Research Building\nArthur Rubloff Intensive Care Tower\nBeecher Hall\nBernard A. Mitchell Hospital\nBiopsychological Research Building\nBlaine Hall\nBlake Hall\nBobs Roberts Memorial Hospital\nBond Chapel\nBreckinridge House\nBrent House\nCarlson\nCenter for Care and Discovery\nCenter for Research Libraries\nChapin Hall\nCharles Gilman Smith Hospital\nCharles M. Harper Center\nChicago Lying-In Hospital\nChicago Theological Seminary\nClassics Building\nCobb Gate\nCochrane-Woods Art Center\nComer Children’s Hospital\nCourt Theatre\nCourt Theatre Interim Production Center\nCrown Family School of Social Work, Policy, and Practice\nCulver Hall\nDavid Rubenstein Forum\nDisciples Divinity House\nDonnelley Biological Sciences Learning Center\nDuchossois Center for Advanced Medicine\nEarl Shapiro Hall\nEckhart Hall\nErman Biology Center\nFacilities Services\nFoster Hall\nFranklin McLean Research Institute\nFriend Family Health Center\nGates Hall\nGoldblatt Memorial Hospital\nGoldblatt Pavilion\nGoodspeed Hall\nGordon Center for Integrative Science\nGordon Parks Arts Hall\nGreen Hall\nGreen Line Performing Arts Center\nHarper Memorial Library\nHaskell Hall\nHicks McElwee Hospital\nHigh Bay Research Building\nHigh Energy Physics\nHinds Laboratory\nHitchcock Hall\nHutchinson Commons\nIda Noyes Hall\nInstitute for the Study of Ancient Cultures\nInstitute of Politics\nJoe and Rika Mansueto Library\nJohn Crerar Library\nJones Laboratory\nJudd Hall\nJules F. Knapp Medical Research Center\nKeller Center\nKelly Hall\nKent Chemical Laboratory\nKersten Physics Teaching Center\nKnapp Center for Biomedical Discovery\nKovler Gymnasium\nLaboratory Service Building\nLaird Bell Law Quadrangle\nLillie House\nLogan Center for Arts Kilnhouse\nLorado Taft House\nLutheran Campus Ministry\nMagnetic Resonance Imaging Building\nMandel Hall\nMarjorie B. Kovler Viral Oncology Laboratories\nMax Palevsky Commons Central\nMax Palevsky Commons East\nMax Palevsky Commons West\nMcGiffert House\nMichelson Center for Physics\nMidway Studios\nMitchell Tower\nMolecular Engineering Modular Offices\nNeubauer Collegium for Culture and Society\nNewberger Hillel Center\nOrthogenic School\nPeck Pavilion\nPick Hall\nQuadrangle Club\nRatner Athletics Center\nRenee Granville-Grossman Residential Commons\nReva and David Logan Center for the Arts\nReynolds Clubhouse\nRobie House\nRockefeller Chapel\nRohr Chabad Center\nRosenwald Hall\nRyerson Laboratory\nSaieh Hall for Economics\nSearle Chemistry Laboratory\nShoreland\nSmart Museum of Art\nSnell Hall\nSocial Science Research Building\nSociety of Friends\nSouth Campus Chiller Plant\nSouth Steam Plant\nStagg Field Building\nStagg Field Storage\nStein Place\nStony Island Hall\nStudent Wellness Center\nSunny Gymnasium\nSwift Hall\nSylvain & Arma Wyler Children’s Hospital\nThe Study Hotel\nUChicago Charter Woodlawn Campus\nUChicago Child Development Center - Drexel\nUChicago Child Development Center - Stony Island\nUnitarian Campus Ministry\nUniversity Church\nUniversity High School\nUniversity of Chicago Bookstore\nWalker Museum\nWashington Park Arts Incubator\nWieboldt Hall\nWilder House\nWilliam Eckhardt Research Center\nWoodlawn Residential Commons (2020)\nYoung Memorial Building\nZoology Building"
+    },
+    {
+      "Name": "Howard University",
+      "Theme": "003a63",
+      "Logo": "https://ouc.howard.edu/sites/ouc.howard.edu/files/styles/large/public/2024-06/howardu_clocktower_logo.png?itok=2BF477uO",
+      "Center": "38.922647, -77.019404",
+      "Span": 0.4,
+      "Academic Calendar": "https://howard.edu/calendars",
+      "Dining": "https://howard.sodexomyway.com/en-us/",
+      "Events": "https://events.howard.edu",
+      "News": "https://thedig.howard.edu",
+      "Sports": "https://hubison.com",
+      "Student": "https://howard.edu/students",
+      "Emergency": "https://publicsafety.howard.edu",
+      "edu": "https://howard.edu",
+      "Bookstore": "https://howard.bncollege.com",
+      "Buildings": "Academic Support \nAndrew Carnegie Hall\nAndrew Rankin Memorial Chapel\nArmour Blackburn University Center\nCancer Research Center\nCB Powell Building\nCharles Drew Hall\nChauncey Cooper Hall\nChemical Engineering Building\nChemistry Building \nCollege Hall North\nCollege Hall South\nEarly Learning Center\nEffingham Apartments \nErnest Just Hall\nFounders Library\nFredrick Douglass Memorial Hall\nAnnex II\nAnnex III\nGeorge Cook Hall\nHarriett Tubman Quadrangle \nCrandall Hall\nFraizer Hall\nWheatley Hall\nBaldwin Hall\nTruth Hall\nHospital Towers\nHoward Mackey Building\nHoward Mackey Building\nHoward Plaza Tower\nHoward University Bookstore\nHoward University Hospital\nHoward University Service Center\nIsabel Linsday Hall\nIra Aldridge Theatre\nJohn Burr Gymnasium Building \nLaser Chemistry Building\nLouis Cramton Auditorium \nLouis Downing Hall \nLulu Childers Hall\nMary Bethune Annex\nMary Bethune Annex Dining Hall\nMedical Arts Building\nMental Health Center\nMiddle School for Math & Science\nMordecai Johnson Admin. Building\nNuma Adams Building\nOliver Howard Hall\nRalph Bunche Center\nRussell Dixon Building\nSchool of Business\nSeely Mudd Building\nWarehouse Building\nWHUR-Radio\nWilbur Thirkield Hall\nWilliam Greene Memorial Stadium\nWonder Plaza"
     }
   ]
 }
