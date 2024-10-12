@@ -71,7 +71,7 @@
     {
       "Name": "Arkansas State University",
       "Theme": "d02030",
-      "Logo": "https://www.astate.edu/dotAsset/77d4c5d2-0fc0-4535-8ea6-5e1009050298.png",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Arkansas_State_Red_Wolves_logo.svg/800px-Arkansas_State_Red_Wolves_logo.svg.png",
       "Center": "35.843110, -90.675164",
       "Span": 2.15,
       "Academic Calendar": "https://calendar.astate.edu/AcademicCalendar/all",
@@ -105,7 +105,7 @@
     {
       "Name": "University of Mississippi",
       "Theme": "13294b",
-      "Logo": "https://tukuz.com/wp-content/uploads/2020/11/the-university-of-mississippi-logo-vector.png",
+      "Logo": "https://static.wikia.nocookie.net/pennyspoetry/images/3/34/OleMissLogo.svg.png/revision/latest/scale-to-width-down/310?cb=20160829024345",
       "Center": "34.366242, -89.537707",
       "Span": 3.1,
       "Academic Calendar": "https://registrar.olemiss.edu/academic-calendar/",
@@ -135,23 +135,6 @@
       "edu": "https://www.usm.edu",
       "Bookstore": "https://usm.bncollege.com",
       "Buildings": "Joseph Green Hall\nLiberal Arts Building\nOwings-McQuagge Hall\nWalker Science Building\nJohnson Science Tower\nChain Technology Building\nTrent Lott National Center for Excellence in Economic Development and Entrepreneurship\nCollege Hall\nTheatre and Dance Building\nMarsh Hall\nPolymer Science Research Center\nThad Cochran Center\nCook Library\nMannoni Performing Arts Center\nNursing Building (Asbury Hall)\nCollege of Business (Scianna Hall)\nInternational Center\nGulf Coast Research Laboratory\nHillcrest Hall\nHickman Hall\nWilber Hall\nRoberts Hall\nMcCarty Hall\nMississippi Hall\nVann Hall\nScott Hall\nPulley Hall\nCedarbrook Apartments\nThe Village Apartments\nCentury Park North\nVann Hall\nLuckyday Citizenship Hall\nScott Hall\nCentury Park South \nM.M. Roberts Stadium (The Rock)\nPete Taylor Park (baseball)\nReed Green Coliseum \nSouthern Miss Softball Complex\nTennis Courts\nPayne Center\nTrack and Field Complex\nAthletic Center\nVolleyball Gymnasium\nAubrey K. Lucas Administration Building\nTrent Lott Center \nSouthern Hall\nCook Union (student center)\nHub (student activities)\nBennett Auditorium\nCenter for Science and Mathematics Education\nDuBard School for Language Disorders\nInstitute for Disability Studies\nMarine Education Center\nLake Thoreau Environmental Center"
-    },
-    {
-      "Name": "Delta State University",
-      "Theme": "00743d",
-      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Delta_State_University_wordmark.svg/2560px-Delta_State_University_wordmark.svg.png",
-      "Center": "33.745038, -90.735451",
-      "Span": 0.52,
-      "Academic Calendar": "https://www.deltastate.edu/academics/calendar/",
-      "Dining": "https://deltastate.sodexomyway.com",
-      "Events": "https://www.deltastate.edu/news-and-events/events/",
-      "News": "https://www.deltastate.edu/news-and-events/events/",
-      "Sports": "https://gostatesmen.com/index.aspx",
-      "Student": "https://www.deltastate.edu/mydsu/",
-      "Emergency": "https://www.deltastate.edu/students/police/",
-      "edu": "https://www.deltastate.edu",
-      "Bookstore": "https://deltastate.bncollege.com/?storeId=65177&catalogId=10001&langId=-1",
-      "Buildings": "Bologna Performing Arts Center\nBroom Hall\nCaylor-White/Walters Hall\nCharles W. Capps, Jr. Archives and Museum\nEwing Hall\nGibson-Gunn Commercial Aviation Building\nHolcombe-Norwood Hall\nJames M. Ewing Hall\nKethley Hall\nNowell Student Union\nRobert E. Smith School of Nursing\nSillers Coliseum\nZeigel Hall\nWhitfield Hall\nWyatt Gymnasium\nE.R. Jobe Hall\nRoberts-LaForge Library\nYoung-Mauldin Cafeteria\nBrumby-Castle Hall\nCain-Tatum Hall\nCourt of Governors\nFoundation Hall\nLawler-Harkins Hall\nBlansett Hall\nParker Field-McCool Stadium (football)\nWalter Sillers Coliseum (basketball)\nFerriss Field (baseball)\nUniversity Field (softball)\nMcCool Stadium (track and field)\nWyatt Gymnasium\nDelta Field (soccer)\nAquatics Center (\nRoberts-LaForge Library Athletic Annex\nHugh Ellis Walker Alumni-Foundation House\nKent Wyatt Hall \nPresident's Home\nAlumni House\nFaculty Apartments\nAlumni Drive Complex\nForest E. Wyatt Center for Health, Physical Education, and Recreation\nRobert L. Crawford Center\nW.M. Lewis Building"
     },
     {
       "Name": "Alcorn State University",
@@ -292,7 +275,7 @@
     {
       "Name": "Howard University",
       "Theme": "003a63",
-      "Logo": "https://ouc.howard.edu/sites/ouc.howard.edu/files/styles/large/public/2024-06/howardu_clocktower_logo.png?itok=2BF477uO",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Howard_Bison_logo.svg/640px-Howard_Bison_logo.svg.png",
       "Center": "38.922647, -77.019404",
       "Span": 0.4,
       "Academic Calendar": "https://howard.edu/calendars",
@@ -304,7 +287,7 @@
       "Emergency": "https://publicsafety.howard.edu",
       "edu": "https://howard.edu",
       "Bookstore": "https://howard.bncollege.com",
-      "Buildings": "Academic Support \nAndrew Carnegie Hall\nAndrew Rankin Memorial Chapel\nArmour Blackburn University Center\nCancer Research Center\nCB Powell Building\nCharles Drew Hall\nChauncey Cooper Hall\nChemical Engineering Building\nChemistry Building \nCollege Hall North\nCollege Hall South\nEarly Learning Center\nEffingham Apartments \nErnest Just Hall\nFounders Library\nFredrick Douglass Memorial Hall\nAnnex II\nAnnex III\nGeorge Cook Hall\nHarriett Tubman Quadrangle \nCrandall Hall\nFraizer Hall\nWheatley Hall\nBaldwin Hall\nTruth Hall\nHospital Towers\nHoward Mackey Building\nHoward Mackey Building\nHoward Plaza Tower\nHoward University Bookstore\nHoward University Hospital\nHoward University Service Center\nIsabel Linsday Hall\nIra Aldridge Theatre\nJohn Burr Gymnasium Building \nLaser Chemistry Building\nLouis Cramton Auditorium \nLouis Downing Hall \nLulu Childers Hall\nMary Bethune Annex\nMary Bethune Annex Dining Hall\nMedical Arts Building\nMental Health Center\nMiddle School for Math & Science\nMordecai Johnson Admin. Building\nNuma Adams Building\nOliver Howard Hall\nRalph Bunche Center\nRussell Dixon Building\nSchool of Business\nSeely Mudd Building\nWarehouse Building\nWHUR-Radio\nWilbur Thirkield Hall\nWilliam Greene Memorial Stadium\nWonder Plaza"
+      "Buildings": "Academic Support \nCarnegie Hall\nAndrew Rankin Memorial Chapel\nArmour Blackburn University Center\nCB Powell Building\nCharles Drew Hall\nChemistry Building \nCollege Hall North\nCollege Hall South\nErnest Just Hall\nFounders Library\nFredrick Douglass Memorial Hall\nAnnex II\nAnnex III\nGeorge Cook Hall\nHarriett Tubman Quadrangle \nCrandall Hall\nWheatley Hall\nBaldwin Hall\nTruth Hall\nHospital Towers\nHoward Mackey Building\nHoward Mackey Building\nHoward Plaza Tower\nHoward University Bookstore\nHoward University Hospital\nHoward University Service Center\nIsabel Linsday Hall\nIra Aldridge Theatre\nBurr Gymnasium Building \nLaser Chemistry Building\nLouis Cramton Auditorium \nLouis Downing Hall \nLulu Childers Hall\nMary Bethune Annex\nMary Bethune Annex Dining Hall\nMental Health Center\nHoward Middle School for Math & Science\nMordecai Johnson Admin. Building\nNuma Adams Building\nOliver Howard Hall\nRalph Bunche Center\nRussell Dixon Building\nSchool of Business\nSeely Mudd Building\nWHUR\nWilbur Thirkield Hall\nWilliam Greene Memorial Stadium"
     }
   ]
 }
