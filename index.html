@@ -1,1 +1,134 @@
-Hello World
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GradWay – College Made Easy</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    /* Reset & base styles */
+    * { margin:0; padding:0; box-sizing:border-box; font-family: 'Montserrat', sans-serif; }
+    body { line-height:1.6; color:#1a1a1a; scroll-behavior: smooth; }
+    a { text-decoration:none; color: inherit; }
+    img { max-width: 100%; height: auto; }
+
+    /* Header */
+    header {
+      background: linear-gradient(135deg, #6c63ff, #3f3d56);
+      color: white;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    header h1 { font-size: 3rem; margin-bottom: 20px; }
+    header p { font-size: 1.2rem; margin-bottom: 30px; }
+    header a.button {
+      background:#fff; color:#3f3d56; padding:12px 30px; border-radius:25px; font-weight:600;
+      transition:0.3s; display:inline-block;
+    }
+    header a.button:hover { background:#e0e0ff; }
+
+    /* Sections */
+    section { padding:80px 20px; max-width:1200px; margin:0 auto; }
+    .section-title { text-align:center; font-size:2rem; margin-bottom:50px; }
+
+    /* Features */
+    .features { display:grid; grid-template-columns: repeat(auto-fit,minmax(250px,1fr)); gap:30px; }
+    .feature-card { background:#f5f5f5; padding:30px; border-radius:15px; text-align:center; transition:0.3s; }
+    .feature-card:hover { transform: translateY(-5px); box-shadow: 0 8px 20px rgba(0,0,0,0.1); }
+
+    /* Impact / Stats */
+    .impact { display:flex; justify-content: space-around; flex-wrap:wrap; gap:30px; text-align:center; }
+    .impact div { flex:1; min-width:200px; padding:20px; background:#e0e0ff; border-radius:15px; }
+    .impact div h2 { font-size:2.5rem; margin-bottom:10px; }
+
+    /* Story */
+    .story { display:flex; flex-direction:column; gap:20px; }
+    .story img { border-radius:15px; }
+
+    /* CTA */
+    .cta { background:#6c63ff; color:white; text-align:center; padding:60px 20px; border-radius:15px; }
+    .cta a.button { background:#fff; color:#3f3d56; padding:15px 40px; font-size:1.2rem; }
+
+    /* Footer */
+    footer { text-align:center; padding:40px 20px; background:#3f3d56; color:white; }
+
+    @media(max-width:768px){
+      header h1 { font-size:2.2rem; }
+      section { padding:50px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Header -->
+<header>
+  <h1>GradWay</h1>
+  <p>College Made Easy – Navigate, Connect, and Thrive on Campus</p>
+  <a href="#download" class="button">Download Now</a>
+</header>
+
+<!-- Features Section -->
+<section id="features">
+  <h2 class="section-title">Features Students Love</h2>
+  <div class="features">
+    <div class="feature-card">
+      <h3>Campus Navigation</h3>
+      <p>Find buildings, classrooms, and landmarks with ease. Never get lost again!</p>
+    </div>
+    <div class="feature-card">
+      <h3>Events & Athletics</h3>
+      <p>Stay updated on campus events, sports games, and student activities.</p>
+    </div>
+    <div class="feature-card">
+      <h3>Dining & Services</h3>
+      <p>View real-time menus, hours, and campus services right from your phone.</p>
+    </div>
+    <div class="feature-card">
+      <h3>Safety Tools</h3>
+      <p>Quick access to emergency alerts and campus safety information.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Impact Section -->
+<section id="impact">
+  <h2 class="section-title">Our Impact</h2>
+  <div class="impact">
+    <div>
+      <h2>15+</h2>
+      <p>Universities Supported</p>
+    </div>
+    <div>
+      <h2>4.8/5</h2>
+      <p>App Store Rating</p>
+    </div>
+    <div>
+      <h2>Thousands</h2>
+      <p>Active Students Daily</p>
+    </div>
+  </div>
+</section>
+
+<!-- Story Section -->
+<section id="story">
+  <h2 class="section-title">Our Journey</h2>
+  <div class="story">
+    <p>GradWay started as Bully Walk, a student initiative to improve campus navigation and safety. Over the years, it evolved into a comprehensive mobile platform that helps students navigate, engage, and thrive on campus every day.</p>
+    <img src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1200&q=80" alt="Students on Campus">
+  </div>
+</section>
+
+<!-- Call To Action -->
+<section id="download" class="cta">
+  <h2>Ready to Simplify Campus Life?</h2>
+  <p>Download GradWay today and join thousands of students making campus life easy.</p>
+  <a href="https://apps.apple.com/us/app/gradway-college-made-easy/id1069778462" class="button">Download on App Store</a>
+</section>
+
+<!-- Footer -->
+<footer>
+  &copy; 2025 GradWay. All Rights Reserved.
+</footer>
+
+</body>
+</html>
