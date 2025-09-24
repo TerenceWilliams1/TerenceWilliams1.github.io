@@ -1,132 +1,147 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Gradway - Transforming College Life</title>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: 'Roboto', sans-serif; line-height: 1.6; color: #222; }
+    body { font-family: 'Roboto', sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; }
     a { text-decoration: none; color: inherit; }
-    header { background: linear-gradient(135deg, #6C63FF, #FF6584); color: white; padding: 3rem 1rem; text-align: center; }
-    header h1 { font-family: 'Montserrat', sans-serif; font-size: 2.5rem; margin-bottom: 1rem; }
-    header p { font-size: 1.2rem; margin-bottom: 2rem; }
-    .btn-primary { background: white; color: #6C63FF; padding: 0.8rem 2rem; font-weight: bold; border-radius: 25px; transition: 0.3s; cursor: pointer; }
-    .btn-primary:hover { background: #f0f0f0; }
-    section { padding: 4rem 1rem; max-width: 1200px; margin: 0 auto; }
-    section h2 { font-family: 'Montserrat', sans-serif; font-size: 2rem; margin-bottom: 1.5rem; text-align: center; }
-    .features, .universities, .mockups { display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center; }
-    .feature, .university, .mockup { flex: 1 1 300px; background: #f9f9f9; border-radius: 15px; padding: 2rem; text-align: center; transition: 0.3s; }
-    .feature:hover, .university:hover, .mockup:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.1); }
-    .feature img, .university img, .mockup img { max-width: 100px; margin-bottom: 1rem; }
-    .journey, .impact { display: flex; flex-direction: column; align-items: center; text-align: center; gap: 1.5rem; }
-    .journey img, .impact img { width: 80%; max-width: 600px; border-radius: 20px; }
-    footer { background: #222; color: white; text-align: center; padding: 2rem 1rem; }
-    .fade-in { opacity: 0; transform: translateY(30px); transition: opacity 0.8s ease-out, transform 0.8s ease-out; }
-    .fade-in.visible { opacity: 1; transform: translateY(0); }
+    h1, h2, h3 { font-family: 'Inter', sans-serif; font-weight: 600; }
+
+    .text-center { text-align: center; }
+    .container { width: 90%; margin: 0 auto; max-width: 1200px; }
+
+    /* Header */
+    header { background-color: #6C63FF; color: white; padding: 4rem 0; text-align: center; }
+    header h1 { font-size: 3rem; margin-bottom: 1rem; }
+    header p { font-size: 1.25rem; margin-bottom: 2rem; }
+    .cta-btn { background-color: white; color: #6C63FF; padding: 1rem 2rem; font-weight: 500; border-radius: 30px; transition: background-color 0.3s; }
+    .cta-btn:hover { background-color: #f0f0f0; }
+
+    /* Features Section */
+    section { padding: 4rem 0; }
+    section h2 { font-size: 2.5rem; margin-bottom: 2rem; }
+    .features { display: flex; justify-content: space-between; gap: 2rem; flex-wrap: wrap; }
+    .feature { flex: 1 1 30%; background-color: white; padding: 2rem; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center; transition: transform 0.3s; }
+    .feature:hover { transform: translateY(-5px); }
+    .feature img { max-width: 80px; margin-bottom: 1rem; }
+    .feature h3 { font-size: 1.5rem; margin-bottom: 1rem; }
+
+    /* Journey Section */
+    .journey { display: flex; justify-content: center; align-items: center; gap: 2rem; flex-wrap: wrap; }
+    .journey img { width: 50%; max-width: 600px; border-radius: 15px; }
+    .journey p { flex: 1; font-size: 1.1rem; }
+
+    /* Impact Section */
+    .impact { background-color: #e8e8e8; padding: 4rem 0; text-align: center; }
+    .impact img { width: 80%; max-width: 600px; border-radius: 15px; margin-bottom: 2rem; }
+    .impact p { font-size: 1.1rem; }
+
+    /* Footer */
+    footer { background-color: #333; color: white; padding: 2rem 0; text-align: center; }
+    footer p { font-size: 1rem; }
+
+    /* Responsive Design */
+    @media (max-width: 768px) {
+      .features { flex-direction: column; align-items: center; }
+      .feature { flex: 1 1 80%; margin-bottom: 2rem; }
+      .journey { flex-direction: column; align-items: center; }
+      .journey img { width: 90%; }
+      .journey p { width: 90%; }
+    }
   </style>
 </head>
 <body>
 
 <header>
-  <h1>Gradway</h1>
-  <p>The ultimate platform transforming college life for thousands of students.</p>
-  <a href="#get-started" class="btn-primary">Get Started</a>
+  <div class="container">
+    <h1>Gradway</h1>
+    <p>The ultimate platform transforming college life for thousands of students.</p>
+    <a href="#get-started" class="cta-btn">Get Started</a>
+  </div>
 </header>
 
-<section id="features">
-  <h2>Why College Students Love Gradway</h2>
+<section id="features" class="container">
+  <h2 class="text-center">Why College Students Love Gradway</h2>
   <div class="features">
-    <div class="feature fade-in">
-      <img src="https://img.icons8.com/ios-filled/100/000000/university.png" alt="University Support">
+    <div class="feature">
+      <img src="https://img.icons8.com/ios-filled/100/000000/university.png" alt="University Integration">
       <h3>University Integration</h3>
       <p>Connect to your campus resources, events, and peers in one seamless app experience.</p>
     </div>
-    <div class="feature fade-in">
-      <img src="https://img.icons8.com/ios-filled/100/000000/idea.png" alt="Apple Recognition">
+    <div class="feature">
+      <img src="https://img.icons8.com/ios-filled/100/000000/apple-logo.png" alt="Apple Recognition">
       <h3>Recognized by Apple</h3>
-      <p>Gradway has been celebrated by Apple for its innovative approach to student engagement.</p>
+      <p>Gradway builds on Bully Walk, the award-winning app recognized by Apple and the White House Local Frontier initiative.</p>
     </div>
-    <div class="feature fade-in">
+    <div class="feature">
       <img src="https://img.icons8.com/ios-filled/100/000000/students.png" alt="Student Impact">
-      <h3>Thousands of Students Impacted</h3>
-      <p>Join a thriving community where thousands of students stay organized, supported, and inspired.</p>
+      <h3>Proven Impact</h3>
+      <p>Over 1.3 million routes generated at Mississippi State University, helping freshmen and students navigate campus easily.</p>
     </div>
   </div>
 </section>
 
-<section id="journey">
-  <h2>The Journey from Bully Walk</h2>
-  <div class="journey fade-in">
+<section id="journey" class="container">
+  <h2 class="text-center">The Journey from Bully Walk</h2>
+  <div class="journey">
     <img src="https://via.placeholder.com/600x400.png?text=Bully+Walk+to+Gradway" alt="Journey">
-    <p>What started as Bully Walk, a simple initiative to support students, has evolved into Gradway—a full-fledged platform reshaping the student experience across universities.</p>
+    <p>What started as Bully Walk at Mississippi State University—providing over 1.3 million navigation routes—has evolved into Gradway. Gradway continues to improve campus life by integrating maps, events, transit, and resources into a single seamless experience for students, staff, and visitors.</p>
   </div>
 </section>
 
-<section id="mockups">
-  <h2>Gradway iOS Experience</h2>
-  <div class="mockups">
-    <div class="mockup fade-in">
+<section id="navigation-impact" class="container">
+  <h2 class="text-center">Why Campus Navigation Matters</h2>
+  <div class="impact">
+    <img src="https://via.placeholder.com/600x400.png?text=Campus+Navigation" alt="Campus Navigation">
+    <p>Studies show that interactive campus maps reduce stress and help freshmen navigate large campuses efficiently, improving their overall college experience. Gradway empowers students to explore confidently, find study spots, and engage in campus life.</p>
+  </div>
+</section>
+
+<section id="mockups" class="container">
+  <h2 class="text-center">Gradway iOS Experience</h2>
+  <div class="features">
+    <div class="feature">
       <img src="https://via.placeholder.com/250x500.png?text=Home+Screen" alt="Home Screen">
       <p>Seamless dashboard to navigate your college life.</p>
     </div>
-    <div class="mockup fade-in">
+    <div class="feature">
       <img src="https://via.placeholder.com/250x500.png?text=Events+Screen" alt="Events Screen">
       <p>Stay updated with events and campus activities.</p>
     </div>
-    <div class="mockup fade-in">
+    <div class="feature">
       <img src="https://via.placeholder.com/250x500.png?text=Resources+Screen" alt="Resources Screen">
       <p>Access all essential student resources in one place.</p>
     </div>
   </div>
 </section>
 
-<section id="universities">
-  <h2>Trusted by Leading Universities</h2>
-  <div class="universities">
-    <div class="university fade-in">
+<section id="universities" class="container">
+  <h2 class="text-center">Trusted by Leading Universities</h2>
+  <div class="features">
+    <div class="feature">
       <img src="https://img.icons8.com/ios-filled/100/000000/harvard.png" alt="Harvard">
       <h3>Harvard University</h3>
     </div>
-    <div class="university fade-in">
+    <div class="feature">
       <img src="https://img.icons8.com/ios-filled/100/000000/stanford.png" alt="Stanford">
       <h3>Stanford University</h3>
     </div>
-    <div class="university fade-in">
+    <div class="feature">
       <img src="https://img.icons8.com/ios-filled/100/000000/mit.png" alt="MIT">
       <h3>MIT</h3>
     </div>
   </div>
 </section>
 
-<section id="impact">
-  <h2>The Impact of Gradway</h2>
-  <div class="impact fade-in">
-    <img src="https://via.placeholder.com/600x400.png?text=Students+Using+Gradway" alt="Student Impact">
-    <p>Thousands of students across the country are leveraging Gradway to stay organized, connected, and empowered throughout their college journey.</p>
-  </div>
-</section>
-
 <footer>
-  <p>&copy; 2025 Gradway. All rights reserved.</p>
+  <div class="container">
+    <p>&copy; 2025 Gradway. All rights reserved.</p>
+  </div>
 </footer>
-
-<script>
-  // Fade-in animation on scroll
-  const faders = document.querySelectorAll('.fade-in');
-  const appearOptions = { threshold: 0.3, rootMargin: "0px 0px -50px 0px" };
-
-  const appearOnScroll = new IntersectionObserver((entries, appearOnScroll) => {
-    entries.forEach(entry => {
-      if (!entry.isIntersecting) return;
-      entry.target.classList.add('visible');
-      appearOnScroll.unobserve(entry.target);
-    });
-  }, appearOptions);
-
-  faders.forEach(fader => appearOnScroll.observe(fader));
-</script>
 
 </body>
 </html>
