@@ -1,0 +1,1313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pricing | Moxy Messenger</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --purple: #7B6CF6;
+    --purple-light: #9D92F8;
+    --purple-dark: #5548D9;
+    --purple-bg: #F0EFFE;
+    --teal: #2ABFAA;
+    --teal-light: #56D4C2;
+    --teal-bg: #E6FAF8;
+    --ink: #0E0C1E;
+    --ink-2: #2D2A4A;
+    --muted: #6B6887;
+    --muted-light: #A09DC0;
+    --bg: #FAFAFA;
+    --white: #FFFFFF;
+    --border: #E8E6F4;
+    --border-strong: #D0CCF0;
+    --warning: #F5A623;
+    --font-display: 'Syne', sans-serif;
+    --font-body: 'DM Sans', sans-serif;
+    --radius-sm: 8px;
+    --radius-md: 14px;
+    --radius-lg: 22px;
+    --radius-xl: 32px;
+    --shadow-sm: 0 1px 3px rgba(14,12,30,0.06), 0 1px 2px rgba(14,12,30,0.04);
+    --shadow-md: 0 4px 16px rgba(14,12,30,0.08), 0 2px 6px rgba(14,12,30,0.05);
+    --shadow-lg: 0 12px 40px rgba(14,12,30,0.12), 0 4px 12px rgba(14,12,30,0.06);
+    --shadow-purple: 0 8px 32px rgba(123,108,246,0.25);
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: var(--font-body);
+    background: var(--bg);
+    color: var(--ink);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* NAV */
+  nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: rgba(250,250,250,0.88);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border-bottom: 1px solid var(--border);
+    padding: 0 2rem;
+  }
+  .nav-inner {
+    max-width: 1120px;
+    margin: 0 auto;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .logo {
+    font-family: var(--font-display);
+    font-size: 22px;
+    font-weight: 800;
+    color: var(--ink);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .logo-icon {
+    width: 32px;
+    height: 32px;
+    background: linear-gradient(135deg, var(--purple), var(--teal));
+    border-radius: 9px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .logo-icon svg { width: 18px; height: 18px; }
+  .nav-links {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    list-style: none;
+  }
+  .nav-links a {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--muted);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  .nav-links a:hover { color: var(--ink); }
+  .nav-links a.active { color: var(--purple); }
+  .nav-cta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .btn-ghost {
+    font-family: var(--font-body);
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--muted);
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px 14px;
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+    transition: color 0.2s, background 0.2s;
+  }
+  .btn-ghost:hover { color: var(--ink); background: var(--border); }
+  .btn-primary {
+    font-family: var(--font-body);
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+    background: var(--purple);
+    border: none;
+    cursor: pointer;
+    padding: 9px 20px;
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+    transition: background 0.2s, box-shadow 0.2s, transform 0.15s;
+  }
+  .btn-primary:hover {
+    background: var(--purple-dark);
+    box-shadow: var(--shadow-purple);
+    transform: translateY(-1px);
+  }
+
+  /* HERO */
+  .hero {
+    text-align: center;
+    padding: 80px 2rem 60px;
+    max-width: 740px;
+    margin: 0 auto;
+  }
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--purple-bg);
+    color: var(--purple-dark);
+    font-size: 12px;
+    font-weight: 600;
+    padding: 5px 14px;
+    border-radius: 99px;
+    margin-bottom: 24px;
+    border: 1px solid rgba(123,108,246,0.2);
+    letter-spacing: 0.03em;
+  }
+  .hero-badge .dot {
+    width: 6px;
+    height: 6px;
+    background: var(--warning);
+    border-radius: 50%;
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.6; transform: scale(0.85); }
+  }
+  .hero h1 {
+    font-family: var(--font-display);
+    font-size: clamp(36px, 5vw, 54px);
+    font-weight: 800;
+    line-height: 1.1;
+    color: var(--ink);
+    margin-bottom: 18px;
+    letter-spacing: -0.02em;
+  }
+  .hero h1 span {
+    background: linear-gradient(135deg, var(--purple), var(--teal));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .hero-sub {
+    font-size: 17px;
+    color: var(--muted);
+    font-weight: 300;
+    max-width: 520px;
+    margin: 0 auto 36px;
+    line-height: 1.65;
+  }
+
+  /* BILLING TOGGLE */
+  .billing-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 99px;
+    padding: 5px;
+    box-shadow: var(--shadow-sm);
+  }
+  .toggle-option {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 7px 18px;
+    border-radius: 99px;
+    cursor: pointer;
+    transition: all 0.2s;
+    color: var(--muted);
+    user-select: none;
+  }
+  .toggle-option.active {
+    background: var(--ink);
+    color: white;
+  }
+  .toggle-option .save-badge {
+    display: inline-block;
+    background: #E8FDF5;
+    color: #1A9E78;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 2px 7px;
+    border-radius: 99px;
+    margin-left: 6px;
+  }
+
+  /* PRICING GRID */
+  .pricing-section {
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 20px 2rem 80px;
+  }
+  .pricing-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-bottom: 32px;
+  }
+  .plan-card {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 32px 28px;
+    position: relative;
+    transition: box-shadow 0.2s, transform 0.2s;
+  }
+  .plan-card:hover {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+  }
+  .plan-card.featured {
+    border-color: var(--purple);
+    border-width: 2px;
+    box-shadow: var(--shadow-purple);
+  }
+  .plan-card.featured:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 16px 48px rgba(123,108,246,0.3);
+  }
+  .popular-badge {
+    position: absolute;
+    top: -13px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: linear-gradient(135deg, var(--purple), var(--teal));
+    color: white;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 4px 14px;
+    border-radius: 99px;
+    white-space: nowrap;
+    letter-spacing: 0.05em;
+  }
+  .plan-label {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--muted);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .plan-name {
+    font-family: var(--font-display);
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--ink);
+    margin-bottom: 6px;
+  }
+  .plan-desc {
+    font-size: 14px;
+    color: var(--muted);
+    margin-bottom: 24px;
+    line-height: 1.5;
+    min-height: 42px;
+  }
+  .plan-highlight {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--purple-bg);
+    border: 1px solid rgba(123,108,246,0.15);
+    border-radius: var(--radius-sm);
+    padding: 10px 14px;
+    margin-bottom: 24px;
+  }
+  .plan-highlight .emoji { font-size: 16px; }
+  .plan-highlight-text { font-size: 13px; font-weight: 500; color: var(--purple-dark); }
+  .plan-highlight-text span { color: var(--muted); font-weight: 400; }
+  .plan-price {
+    margin-bottom: 24px;
+    display: flex;
+    align-items: flex-end;
+    gap: 4px;
+  }
+  .price-dollar { font-size: 22px; font-weight: 600; color: var(--muted); line-height: 1.6; }
+  .price-num {
+    font-family: var(--font-display);
+    font-size: 52px;
+    font-weight: 800;
+    color: var(--ink);
+    line-height: 1;
+    letter-spacing: -0.03em;
+  }
+  .price-period { font-size: 14px; color: var(--muted); font-weight: 400; margin-bottom: 6px; }
+  .plan-cta {
+    display: block;
+    width: 100%;
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-weight: 600;
+    padding: 13px;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    transition: all 0.2s;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 24px;
+    border: none;
+  }
+  .plan-cta.outline {
+    background: transparent;
+    border: 1.5px solid var(--border-strong);
+    color: var(--ink);
+  }
+  .plan-cta.outline:hover {
+    border-color: var(--purple);
+    color: var(--purple);
+    background: var(--purple-bg);
+  }
+  .plan-cta.solid {
+    background: var(--purple);
+    color: white;
+  }
+  .plan-cta.solid:hover {
+    background: var(--purple-dark);
+    box-shadow: var(--shadow-purple);
+    transform: translateY(-1px);
+  }
+  .plan-divider {
+    height: 1px;
+    background: var(--border);
+    margin-bottom: 20px;
+  }
+  .plan-features-label {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--muted-light);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+  }
+  .plan-features { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+  .plan-features li {
+    display: flex;
+    align-items: flex-start;
+    gap: 9px;
+    font-size: 13.5px;
+    color: var(--ink-2);
+    line-height: 1.4;
+  }
+  .check {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: var(--teal-bg);
+    flex-shrink: 0;
+    margin-top: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .check svg { width: 9px; height: 9px; }
+  .plan-guarantee {
+    text-align: center;
+    font-size: 12px;
+    color: var(--muted-light);
+    margin-top: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+  }
+  .pricing-footer {
+    text-align: center;
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 12px;
+  }
+
+  /* TRUST BAR */
+  .trust-bar {
+    background: white;
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    padding: 60px 2rem;
+    overflow: hidden;
+  }
+  .trust-inner {
+    max-width: 1120px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .trust-label {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--muted-light);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-bottom: 36px;
+  }
+  .trust-stats {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    flex-wrap: wrap;
+    margin-bottom: 48px;
+  }
+  .trust-stat-num {
+    font-family: var(--font-display);
+    font-size: 36px;
+    font-weight: 800;
+    color: var(--ink);
+    letter-spacing: -0.02em;
+  }
+  .trust-stat-label {
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 4px;
+  }
+  .marquee-wrapper {
+    overflow: hidden;
+    -webkit-mask: linear-gradient(to right, transparent, black 15%, black 85%, transparent);
+    mask: linear-gradient(to right, transparent, black 15%, black 85%, transparent);
+  }
+  .marquee-track {
+    display: flex;
+    gap: 16px;
+    animation: marquee 30s linear infinite;
+    width: max-content;
+  }
+  @keyframes marquee {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+  .marquee-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 99px;
+    padding: 10px 20px;
+    white-space: nowrap;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--ink-2);
+  }
+  .marquee-item .icon {
+    width: 28px;
+    height: 28px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+  }
+
+  /* COMPARE TABLE */
+  .compare-section {
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 80px 2rem;
+  }
+  .section-label {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--purple);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 12px;
+  }
+  .section-title {
+    font-family: var(--font-display);
+    font-size: clamp(28px, 4vw, 42px);
+    font-weight: 800;
+    color: var(--ink);
+    text-align: center;
+    margin-bottom: 12px;
+    letter-spacing: -0.02em;
+  }
+  .section-sub {
+    font-size: 16px;
+    color: var(--muted);
+    text-align: center;
+    margin-bottom: 52px;
+    font-weight: 300;
+  }
+  .compare-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+  }
+  .compare-table th {
+    font-family: var(--font-display);
+    font-size: 15px;
+    font-weight: 700;
+    padding: 20px 24px;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg);
+    color: var(--ink);
+  }
+  .compare-table th:first-child { width: 38%; }
+  .compare-table th.featured-col {
+    background: var(--purple-bg);
+    color: var(--purple-dark);
+  }
+  .compare-table td {
+    padding: 14px 24px;
+    font-size: 14px;
+    color: var(--ink-2);
+    border-bottom: 1px solid var(--border);
+    vertical-align: middle;
+  }
+  .compare-table tr:last-child td { border-bottom: none; }
+  .compare-table .section-row td {
+    background: var(--bg);
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--muted-light);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 10px 24px;
+  }
+  .compare-table .featured-col { background: rgba(240,239,254,0.4); }
+  .tick { color: var(--teal); font-size: 16px; }
+  .dash { color: var(--border-strong); font-size: 16px; }
+
+  /* TESTIMONIALS */
+  .testimonials-section {
+    background: white;
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    padding: 80px 2rem;
+  }
+  .testimonials-inner { max-width: 1120px; margin: 0 auto; }
+  .testimonials-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-top: 48px;
+  }
+  .testi-card {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 28px;
+    transition: box-shadow 0.2s, transform 0.2s;
+  }
+  .testi-card:hover {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+  }
+  .testi-stars {
+    color: var(--warning);
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin-bottom: 14px;
+  }
+  .testi-text {
+    font-size: 14px;
+    color: var(--ink-2);
+    line-height: 1.7;
+    margin-bottom: 20px;
+    font-style: italic;
+    font-weight: 300;
+  }
+  .testi-author { display: flex; align-items: center; gap: 10px; }
+  .testi-avatar {
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    font-family: var(--font-display);
+    font-size: 13px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .testi-name { font-size: 13px; font-weight: 600; color: var(--ink); }
+  .testi-role { font-size: 12px; color: var(--muted); }
+
+  /* FAQ */
+  .faq-section {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 80px 2rem;
+  }
+  .faq-list { margin-top: 48px; display: flex; flex-direction: column; gap: 4px; }
+  .faq-item {
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    background: white;
+    transition: box-shadow 0.2s;
+  }
+  .faq-item:hover { box-shadow: var(--shadow-sm); }
+  .faq-question {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 24px;
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--ink);
+    background: none;
+    border: none;
+    cursor: pointer;
+    text-align: left;
+    gap: 16px;
+    font-family: var(--font-body);
+    transition: color 0.15s;
+  }
+  .faq-question:hover { color: var(--purple); }
+  .faq-icon {
+    width: 24px;
+    height: 24px;
+    border-radius: 6px;
+    background: var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    transition: background 0.2s, transform 0.2s;
+    font-size: 16px;
+    color: var(--muted);
+    line-height: 1;
+  }
+  .faq-item.open .faq-icon {
+    background: var(--purple-bg);
+    color: var(--purple);
+    transform: rotate(45deg);
+  }
+  .faq-answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.35s ease, padding 0.25s ease;
+    font-size: 14px;
+    color: var(--muted);
+    line-height: 1.7;
+    font-weight: 300;
+    padding: 0 24px;
+  }
+  .faq-item.open .faq-answer {
+    max-height: 300px;
+    padding: 0 24px 20px;
+  }
+
+  /* BOTTOM CTA */
+  .cta-section {
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 20px 2rem 80px;
+  }
+  .cta-card {
+    background: linear-gradient(135deg, var(--ink) 0%, var(--ink-2) 100%);
+    border-radius: var(--radius-xl);
+    padding: 72px 48px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .cta-card::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at 30% 50%, rgba(123,108,246,0.25) 0%, transparent 60%),
+                radial-gradient(ellipse at 70% 30%, rgba(42,191,170,0.15) 0%, transparent 55%);
+    pointer-events: none;
+  }
+  .cta-card h2 {
+    font-family: var(--font-display);
+    font-size: clamp(28px, 4vw, 44px);
+    font-weight: 800;
+    color: white;
+    margin-bottom: 16px;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    position: relative;
+  }
+  .cta-card p {
+    font-size: 17px;
+    color: rgba(255,255,255,0.6);
+    margin-bottom: 36px;
+    font-weight: 300;
+    position: relative;
+  }
+  .cta-card .btn-group {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: relative;
+  }
+  .btn-white {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--ink);
+    background: white;
+    border: none;
+    cursor: pointer;
+    padding: 13px 28px;
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+    transition: all 0.2s;
+    display: inline-block;
+  }
+  .btn-white:hover {
+    background: var(--purple-bg);
+    color: var(--purple-dark);
+    transform: translateY(-1px);
+  }
+  .btn-outline-white {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-weight: 500;
+    color: rgba(255,255,255,0.75);
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.2);
+    cursor: pointer;
+    padding: 13px 28px;
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+    transition: all 0.2s;
+    display: inline-block;
+  }
+  .btn-outline-white:hover {
+    background: rgba(255,255,255,0.15);
+    color: white;
+    border-color: rgba(255,255,255,0.35);
+  }
+
+  /* FOOTER */
+  footer {
+    background: white;
+    border-top: 1px solid var(--border);
+    padding: 48px 2rem 32px;
+  }
+  .footer-inner {
+    max-width: 1120px;
+    margin: 0 auto;
+  }
+  .footer-top {
+    display: grid;
+    grid-template-columns: 1.6fr 1fr 1fr 1fr;
+    gap: 48px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 32px;
+  }
+  .footer-brand p {
+    font-size: 14px;
+    color: var(--muted);
+    margin-top: 12px;
+    line-height: 1.6;
+    font-weight: 300;
+    max-width: 240px;
+  }
+  .footer-col h4 {
+    font-family: var(--font-display);
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--ink);
+    margin-bottom: 16px;
+    letter-spacing: 0.02em;
+  }
+  .footer-col ul { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+  .footer-col ul a {
+    font-size: 13px;
+    color: var(--muted);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  .footer-col ul a:hover { color: var(--purple); }
+  .footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 13px;
+    color: var(--muted-light);
+  }
+
+  /* RESPONSIVE */
+  @media (max-width: 900px) {
+    .pricing-grid { grid-template-columns: 1fr; max-width: 420px; margin-left: auto; margin-right: auto; }
+    .testimonials-grid { grid-template-columns: 1fr; }
+    .footer-top { grid-template-columns: 1fr 1fr; }
+    .compare-table { font-size: 13px; }
+    .compare-table th, .compare-table td { padding: 12px 16px; }
+    .trust-stats { gap: 32px; }
+  }
+  @media (max-width: 600px) {
+    .nav-links { display: none; }
+    .hero { padding: 56px 1.5rem 40px; }
+    .footer-top { grid-template-columns: 1fr; gap: 32px; }
+    .footer-bottom { flex-direction: column; gap: 12px; }
+    .cta-card { padding: 48px 24px; }
+    .trust-stats { gap: 24px; }
+  }
+
+  /* ANIMATIONS */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .fade-up {
+    animation: fadeUp 0.6s ease both;
+  }
+  .fade-up-1 { animation-delay: 0.1s; }
+  .fade-up-2 { animation-delay: 0.2s; }
+  .fade-up-3 { animation-delay: 0.3s; }
+  .fade-up-4 { animation-delay: 0.4s; }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <div class="nav-inner">
+    <a href="#" class="logo">
+      <div class="logo-icon">
+        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M20 2H4C2.9 2 2 2.9 2 4V22L6 18H20C21.1 18 22 17.1 22 16V4C22 2.9 21.1 2 20 2Z" fill="white" opacity="0.9"/>
+          <circle cx="8" cy="10" r="1.5" fill="white" opacity="0.5"/>
+          <circle cx="12" cy="10" r="1.5" fill="white"/>
+          <circle cx="16" cy="10" r="1.5" fill="white" opacity="0.5"/>
+        </svg>
+      </div>
+      Moxy
+    </a>
+    <ul class="nav-links">
+      <li><a href="#">Features</a></li>
+      <li><a href="#">Examples</a></li>
+      <li><a href="#" class="active">Pricing</a></li>
+      <li><a href="#">Blog</a></li>
+    </ul>
+    <div class="nav-cta">
+      <a href="#" class="btn-ghost">Sign in</a>
+      <a href="#" class="btn-primary">Download Free</a>
+    </div>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-badge fade-up">
+    <div class="dot"></div>
+    EARLY ACCESS PRICING — LIMITED TIME
+  </div>
+  <h1 class="fade-up fade-up-1">The Perfect Plan to<br><span>Master Your Messaging</span></h1>
+  <p class="hero-sub fade-up fade-up-2">Schedule smarter. Communicate better. Never miss a birthday, follow-up, or important message again.</p>
+  <div class="billing-toggle fade-up fade-up-3">
+    <div class="toggle-option active" onclick="setBilling('monthly', this)">Monthly</div>
+    <div class="toggle-option" onclick="setBilling('yearly', this)">Yearly <span class="save-badge">Save 40%</span></div>
+  </div>
+</section>
+
+<!-- PRICING CARDS -->
+<section class="pricing-section">
+  <div class="pricing-grid">
+
+    <!-- Free -->
+    <div class="plan-card fade-up fade-up-1">
+      <div class="plan-label">Get started</div>
+      <div class="plan-name">Free</div>
+      <div class="plan-desc">Perfect for individuals who want to try Moxy before committing.</div>
+      <div class="plan-highlight">
+        <span class="emoji">🎁</span>
+        <div class="plan-highlight-text">10 scheduled messages/month <span>(forever free)</span></div>
+      </div>
+      <div class="plan-price">
+        <div class="price-dollar">$</div>
+        <div class="price-num">0</div>
+        <div class="price-period">/mo</div>
+      </div>
+      <a href="#" class="plan-cta outline">Get Started Free</a>
+      <div class="plan-divider"></div>
+      <div class="plan-features-label">What's included</div>
+      <ul class="plan-features">
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>10 messages/month</li>
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Text & Email scheduling</li>
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Notification reminders</li>
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Edit & reschedule anytime</li>
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Message suggestions</li>
+      </ul>
+      <div class="plan-guarantee">🔒 No credit card required</div>
+    </div>
+
+    <!-- Plus (Featured) -->
+    <div class="plan-card featured fade-up fade-up-2">
+      <div class="popular-badge">MOST POPULAR</div>
+      <div class="plan-label">Best value</div>
+      <div class="plan-name">Moxy Plus</div>
+      <div class="plan-desc">For people serious about their communication game.</div>
+      <div class="plan-highlight">
+        <span class="emoji">🚀</span>
+        <div class="plan-highlight-text">Unlimited messages <span>(Just $0.13/reminder!)</span></div>
+      </div>
+      <div class="plan-price">
+        <div class="price-dollar">$</div>
+        <div class="price-num" id="plus-price">9</div>
+        <div class="price-period">/mo</div>
+      </div>
+      <a href="#" class="plan-cta solid">Start Free Trial</a>
+      <div class="plan-divider"></div>
+      <div class="plan-features-label">Everything in Free, plus</div>
+      <ul class="plan-features">
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Unlimited scheduled messages</li>
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>WhatsApp & Social scheduling</li>
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>File & image attachments</li>
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Message templates</li>
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Birthday reminders</li>
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Group messaging support</li>
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Priority support</li>
+      </ul>
+      <div class="plan-guarantee">🛡️ 7-day money-back guarantee</div>
+    </div>
+
+    <!-- Lifetime -->
+    <div class="plan-card fade-up fade-up-3">
+      <div class="plan-label">Pay once</div>
+      <div class="plan-name">Lifetime</div>
+      <div class="plan-desc">Own Moxy Plus forever. One payment, everything included — always.</div>
+      <div class="plan-highlight">
+        <span class="emoji">♾️</span>
+        <div class="plan-highlight-text">Pay once, use forever <span>(avg. saves $864)</span></div>
+      </div>
+      <div class="plan-price">
+        <div class="price-dollar">$</div>
+        <div class="price-num">99</div>
+        <div class="price-period">one-time</div>
+      </div>
+      <a href="#" class="plan-cta outline">Get Lifetime Access</a>
+      <div class="plan-divider"></div>
+      <div class="plan-features-label">Everything in Moxy Plus</div>
+      <ul class="plan-features">
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>All Plus features forever</li>
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>All future features included</li>
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>No renewal fees ever</li>
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Priority lifetime support</li>
+        <li><span class="check"><svg viewBox="0 0 10 10"><polyline points="1.5,5 4,7.5 8.5,2.5" stroke="#2ABFAA" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Restore on device change</li>
+      </ul>
+      <div class="plan-guarantee">🛡️ 7-day money-back guarantee</div>
+    </div>
+  </div>
+  <div class="pricing-footer">Schedule smarter. Never miss a message. Cancel anytime.</div>
+</section>
+
+<!-- TRUST BAR -->
+<div class="trust-bar">
+  <div class="trust-inner">
+    <div class="trust-label">Trusted by thousands of users since 2018</div>
+    <div class="trust-stats">
+      <div>
+        <div class="trust-stat-num">15,000+</div>
+        <div class="trust-stat-label">Happy users</div>
+      </div>
+      <div>
+        <div class="trust-stat-num">4.7 ★</div>
+        <div class="trust-stat-label">App Store rating</div>
+      </div>
+      <div>
+        <div class="trust-stat-num">2M+</div>
+        <div class="trust-stat-label">Messages scheduled</div>
+      </div>
+      <div>
+        <div class="trust-stat-num">6+</div>
+        <div class="trust-stat-label">Platforms supported</div>
+      </div>
+    </div>
+    <div class="trust-label" style="margin-bottom: 20px;">WORKS WITH YOUR FAVORITE APPS</div>
+    <div class="marquee-wrapper">
+      <div class="marquee-track" id="marquee">
+        <div class="marquee-item"><span class="icon">💬</span> iMessage</div>
+        <div class="marquee-item"><span class="icon">📱</span> SMS / Text</div>
+        <div class="marquee-item"><span class="icon">🟢</span> WhatsApp</div>
+        <div class="marquee-item"><span class="icon">✉️</span> Gmail</div>
+        <div class="marquee-item"><span class="icon">📧</span> Apple Mail</div>
+        <div class="marquee-item"><span class="icon">👥</span> Group Messages</div>
+        <div class="marquee-item"><span class="icon">🔵</span> Facebook Messenger</div>
+        <div class="marquee-item"><span class="icon">💜</span> Slack</div>
+        <div class="marquee-item"><span class="icon">📲</span> Telegram</div>
+        <!-- duplicate for seamless loop -->
+        <div class="marquee-item"><span class="icon">💬</span> iMessage</div>
+        <div class="marquee-item"><span class="icon">📱</span> SMS / Text</div>
+        <div class="marquee-item"><span class="icon">🟢</span> WhatsApp</div>
+        <div class="marquee-item"><span class="icon">✉️</span> Gmail</div>
+        <div class="marquee-item"><span class="icon">📧</span> Apple Mail</div>
+        <div class="marquee-item"><span class="icon">👥</span> Group Messages</div>
+        <div class="marquee-item"><span class="icon">🔵</span> Facebook Messenger</div>
+        <div class="marquee-item"><span class="icon">💜</span> Slack</div>
+        <div class="marquee-item"><span class="icon">📲</span> Telegram</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- COMPARE TABLE -->
+<section class="compare-section">
+  <div class="section-label">Compare</div>
+  <h2 class="section-title">All Plans Side by Side</h2>
+  <p class="section-sub">Find the right plan for how you communicate.</p>
+  <table class="compare-table">
+    <thead>
+      <tr>
+        <th>Feature</th>
+        <th>Free</th>
+        <th class="featured-col">Moxy Plus ★</th>
+        <th>Lifetime</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="section-row"><td colspan="4">Usage & Limits</td></tr>
+      <tr><td>Scheduled messages / month</td><td>10</td><td class="featured-col">Unlimited</td><td>Unlimited</td></tr>
+      <tr><td>Message platforms</td><td>Text, Email</td><td class="featured-col">All 6+</td><td>All 6+</td></tr>
+      <tr><td>Contacts / recipients</td><td>Unlimited</td><td class="featured-col">Unlimited</td><td>Unlimited</td></tr>
+      <tr class="section-row"><td colspan="4">Core Features</td></tr>
+      <tr><td>Notification reminders</td><td><span class="tick">✓</span></td><td class="featured-col"><span class="tick">✓</span></td><td><span class="tick">✓</span></td></tr>
+      <tr><td>Text & iMessage scheduling</td><td><span class="tick">✓</span></td><td class="featured-col"><span class="tick">✓</span></td><td><span class="tick">✓</span></td></tr>
+      <tr><td>Email scheduling</td><td><span class="tick">✓</span></td><td class="featured-col"><span class="tick">✓</span></td><td><span class="tick">✓</span></td></tr>
+      <tr><td>Edit & reschedule messages</td><td><span class="tick">✓</span></td><td class="featured-col"><span class="tick">✓</span></td><td><span class="tick">✓</span></td></tr>
+      <tr><td>WhatsApp & Social apps</td><td><span class="dash">—</span></td><td class="featured-col"><span class="tick">✓</span></td><td><span class="tick">✓</span></td></tr>
+      <tr><td>File & image attachments</td><td><span class="dash">—</span></td><td class="featured-col"><span class="tick">✓</span></td><td><span class="tick">✓</span></td></tr>
+      <tr><td>Message templates</td><td><span class="dash">—</span></td><td class="featured-col"><span class="tick">✓</span></td><td><span class="tick">✓</span></td></tr>
+      <tr><td>Birthday reminders</td><td><span class="dash">—</span></td><td class="featured-col"><span class="tick">✓</span></td><td><span class="tick">✓</span></td></tr>
+      <tr><td>Group messaging</td><td><span class="dash">—</span></td><td class="featured-col"><span class="tick">✓</span></td><td><span class="tick">✓</span></td></tr>
+      <tr><td>Messaging suggestions (AI)</td><td><span class="dash">—</span></td><td class="featured-col"><span class="tick">✓</span></td><td><span class="tick">✓</span></td></tr>
+      <tr class="section-row"><td colspan="4">Support & Billing</td></tr>
+      <tr><td>Priority support</td><td><span class="dash">—</span></td><td class="featured-col"><span class="tick">✓</span></td><td><span class="tick">✓</span></td></tr>
+      <tr><td>Future features included</td><td><span class="dash">—</span></td><td class="featured-col">While subscribed</td><td><span class="tick">✓ Forever</span></td></tr>
+      <tr><td>Restore on device change</td><td><span class="dash">—</span></td><td class="featured-col"><span class="tick">✓</span></td><td><span class="tick">✓</span></td></tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- TESTIMONIALS -->
+<section class="testimonials-section">
+  <div class="testimonials-inner">
+    <div class="section-label">Success stories</div>
+    <h2 class="section-title">Loved by Thousands</h2>
+    <p class="section-sub">Real people, real stories about how Moxy changed how they communicate.</p>
+    <div class="testimonials-grid">
+      <div class="testi-card">
+        <div class="testi-stars">★★★★★</div>
+        <p class="testi-text">"Moxy Messenger is a huge sigh of relief. I bought the lifetime subscription immediately because the app is that useful. I'm a band director and had so many people to coordinate — being able to compose at midnight and send in the morning is invaluable."</p>
+        <div class="testi-author">
+          <div class="testi-avatar" style="background:#E8E6FD; color:#5548D9;">MR</div>
+          <div>
+            <div class="testi-name">Marcus R.</div>
+            <div class="testi-role">Band Director</div>
+          </div>
+        </div>
+      </div>
+      <div class="testi-card">
+        <div class="testi-stars">★★★★★</div>
+        <p class="testi-text">"I'm a night owl and always get ideas late. Being able to schedule those thoughts as messages in an organized way is wonderful. The developer is super responsive too — restored my lifetime purchase in minutes when I changed phones."</p>
+        <div class="testi-author">
+          <div class="testi-avatar" style="background:#E6FAF8; color:#0F6E56;">SL</div>
+          <div>
+            <div class="testi-name">Sarah L.</div>
+            <div class="testi-role">Entrepreneur</div>
+          </div>
+        </div>
+      </div>
+      <div class="testi-card">
+        <div class="testi-stars">★★★★★</div>
+        <p class="testi-text">"This app transformed my follow-up game. After my kids went to sleep I'd compose all the texts I needed, then zip through pressing send at 8am the next morning. So much better than forgetting or sending at odd hours."</p>
+        <div class="testi-author">
+          <div class="testi-avatar" style="background:#FAEEDA; color:#854F0B;">JT</div>
+          <div>
+            <div class="testi-name">Jordan T.</div>
+            <div class="testi-role">Small Business Owner</div>
+          </div>
+        </div>
+      </div>
+      <div class="testi-card">
+        <div class="testi-stars">★★★★★</div>
+        <p class="testi-text">"As a parent, I need to send reminders and check-ins at the right time. Moxy lets me plan a whole week of family messages in 20 minutes on Sunday. Absolute game-changer for staying connected."</p>
+        <div class="testi-author">
+          <div class="testi-avatar" style="background:#FAECE7; color:#993C1D;">AP</div>
+          <div>
+            <div class="testi-name">Amanda P.</div>
+            <div class="testi-role">Parent of 3</div>
+          </div>
+        </div>
+      </div>
+      <div class="testi-card">
+        <div class="testi-stars">★★★★★</div>
+        <p class="testi-text">"I manage client relationships across multiple time zones. Moxy lets me draft messages when I'm thinking about them and schedule delivery at the right moment for the recipient. Professional and thoughtful at the same time."</p>
+        <div class="testi-author">
+          <div class="testi-avatar" style="background:#EAF3DE; color:#3B6D11;">DK</div>
+          <div>
+            <div class="testi-name">Derek K.</div>
+            <div class="testi-role">Account Manager</div>
+          </div>
+        </div>
+      </div>
+      <div class="testi-card">
+        <div class="testi-stars">★★★★★</div>
+        <p class="testi-text">"Never missed a birthday since downloading Moxy. The birthday reminder feature alone is worth the subscription. I set it up once and my relationships have genuinely improved because people know I remember."</p>
+        <div class="testi-author">
+          <div class="testi-avatar" style="background:#FBEAF0; color:#993556;">CM</div>
+          <div>
+            <div class="testi-name">Christine M.</div>
+            <div class="testi-role">Community Manager</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="faq-section">
+  <div class="section-label">FAQ</div>
+  <h2 class="section-title">Frequently Asked Questions</h2>
+  <p class="section-sub">Everything you need to know about Moxy and how it works.</p>
+  <div class="faq-list">
+    <div class="faq-item">
+      <button class="faq-question" onclick="toggleFaq(this)">
+        Does Moxy automatically send my messages?
+        <span class="faq-icon">+</span>
+      </button>
+      <div class="faq-answer">Due to Apple's iOS restrictions, third-party apps cannot send messages on your behalf automatically. Instead, Moxy sends you a notification at your scheduled time with your message ready to go — you just tap to send. This keeps your messages private and originating from your own number, with no third-party services involved.</div>
+    </div>
+    <div class="faq-item">
+      <button class="faq-question" onclick="toggleFaq(this)">
+        Which messaging platforms does Moxy support?
+        <span class="faq-icon">+</span>
+      </button>
+      <div class="faq-answer">Moxy supports SMS, iMessage, Apple Mail, Gmail, WhatsApp, Facebook Messenger, Slack, Telegram, GroupMe, and more. Free plan users get Text and Email. Moxy Plus unlocks all platforms including WhatsApp and social apps.</div>
+    </div>
+    <div class="faq-item">
+      <button class="faq-question" onclick="toggleFaq(this)">
+        Can I attach files or images to scheduled messages?
+        <span class="faq-icon">+</span>
+      </button>
+      <div class="faq-answer">Yes! Moxy Plus users can attach images, videos, PDFs, audio files, spreadsheets, and more to their scheduled messages. It's one of our most loved features — great for sending documents, photos, or important files at the right moment.</div>
+    </div>
+    <div class="faq-item">
+      <button class="faq-question" onclick="toggleFaq(this)">
+        What happens if I upgrade from Free to Plus mid-month?
+        <span class="faq-icon">+</span>
+      </button>
+      <div class="faq-answer">You'll get instant access to all Plus features the moment you upgrade. Your billing cycle starts from your upgrade date and you'll have full access to unlimited messages, all platforms, and file attachments right away.</div>
+    </div>
+    <div class="faq-item">
+      <button class="faq-question" onclick="toggleFaq(this)">
+        Do you offer a refund?
+        <span class="faq-icon">+</span>
+      </button>
+      <div class="faq-answer">Yes. We offer a 7-day money-back guarantee on all paid plans. If you're not satisfied for any reason within 7 days of your purchase, contact us at moxymessenger@gmail.com and we'll make it right.</div>
+    </div>
+    <div class="faq-item">
+      <button class="faq-question" onclick="toggleFaq(this)">
+        Can I restore my Lifetime purchase on a new device?
+        <span class="faq-icon">+</span>
+      </button>
+      <div class="faq-answer">Absolutely. If you switch devices or reinstall the app, just reach out to our team and we'll restore your lifetime access — typically within minutes. We've done this many times and our users love how easy it is.</div>
+    </div>
+    <div class="faq-item">
+      <button class="faq-question" onclick="toggleFaq(this)">
+        How do Birthday Reminders work?
+        <span class="faq-icon">+</span>
+      </button>
+      <div class="faq-answer">Moxy Plus includes a Birthday Reminders feature where you can link to your contacts' birthdays. Moxy will alert you in advance and can pre-populate a birthday message suggestion so you never miss wishing someone a happy birthday again.</div>
+    </div>
+    <div class="faq-item">
+      <button class="faq-question" onclick="toggleFaq(this)">
+        Is my data private?
+        <span class="faq-icon">+</span>
+      </button>
+      <div class="faq-answer">Yes. Moxy processes everything on your device. Your messages are sent from your own phone number or email address — never through a third-party server. We don't read, store, or sell your messages. Your privacy is fundamental to how we built Moxy.</div>
+    </div>
+  </div>
+</section>
+
+<!-- BOTTOM CTA -->
+<section class="cta-section">
+  <div class="cta-card">
+    <h2>Start Communicating<br>on Your Terms</h2>
+    <p>Join 15,000+ people who never miss an important message. Free to download, no credit card required.</p>
+    <div class="btn-group">
+      <a href="#" class="btn-white">Download Free on iOS</a>
+      <a href="#" class="btn-outline-white">View All Features</a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a href="#" class="logo" style="font-size: 20px;">
+          <div class="logo-icon" style="width: 28px; height: 28px; border-radius: 8px;">
+            <svg viewBox="0 0 24 24" fill="none" style="width: 15px; height: 15px;">
+              <path d="M20 2H4C2.9 2 2 2.9 2 4V22L6 18H20C21.1 18 22 17.1 22 16V4C22 2.9 21.1 2 20 2Z" fill="white" opacity="0.9"/>
+              <circle cx="8" cy="10" r="1.5" fill="white" opacity="0.5"/>
+              <circle cx="12" cy="10" r="1.5" fill="white"/>
+              <circle cx="16" cy="10" r="1.5" fill="white" opacity="0.5"/>
+            </svg>
+          </div>
+          Moxy
+        </a>
+        <p>Bringing the power of scheduling to communication. Plan messages ahead, send them at the perfect moment.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Features</h4>
+        <ul>
+          <li><a href="#">Message Scheduling</a></li>
+          <li><a href="#">Birthday Reminders</a></li>
+          <li><a href="#">Templates</a></li>
+          <li><a href="#">Group Messaging</a></li>
+          <li><a href="#">File Attachments</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Use Cases</h4>
+        <ul>
+          <li><a href="#">For Parents</a></li>
+          <li><a href="#">For Professionals</a></li>
+          <li><a href="#">For Students</a></li>
+          <li><a href="#">For Teams</a></li>
+          <li><a href="#">For Creators</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Company</h4>
+        <ul>
+          <li><a href="#">Pricing</a></li>
+          <li><a href="#">Blog</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="#">Privacy Policy</a></li>
+          <li><a href="#">Terms of Service</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 Moxy Messenger. All rights reserved.</span>
+      <span>Made with ♥ for better communication</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+  let billing = 'monthly';
+  const prices = { monthly: 9, yearly: 5 };
+
+  function setBilling(mode, el) {
+    billing = mode;
+    document.querySelectorAll('.toggle-option').forEach(o => o.classList.remove('active'));
+    el.classList.add('active');
+    document.getElementById('plus-price').textContent = prices[mode];
+  }
+
+  function toggleFaq(btn) {
+    const item = btn.closest('.faq-item');
+    const isOpen = item.classList.contains('open');
+    document.querySelectorAll('.faq-item').forEach(i => i.classList.remove('open'));
+    if (!isOpen) item.classList.add('open');
+  }
+</script>
+</body>
+</html>
